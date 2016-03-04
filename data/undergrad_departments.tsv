@@ -1,0 +1,86 @@
+college-stub	department-stub	college-name-short	department-name	department-url
+law-school	law-school	Law School	Law School	/law-school
+management	school-of-accountancy	Management	Accountancy	/management/school-of-accountancy
+management	aerospace-studies	Management	Aerospace Studies	/management/aerospace-studies
+international-and-area-studies	africana-studies-program	International and Area Studies	Africana Studies Program	/international-and-area-studies/africana-studies-program
+humanities	american-studies-program	Humanities	American Studies Program	/humanities/american-studies-program
+international-and-area-studies	ancient-near-eastern-studies-program	International and Area Studies	Ancient Near Eastern Studies Program	/international-and-area-studies/ancient-near-eastern-studies-program
+religious-education	ancient-scripture	Religious Education	Ancient Scripture	/religious-education/ancient-scripture
+family-home-and-social-sciences	anthropology	Family Home and Social Sciences	Anthropology	/family-home-and-social-sciences/anthropology
+fine-arts-and-communications	art	Fine Arts and Communications	Art	/fine-arts-and-communications/art
+humanities	asian-and-near-eastern-languages	Humanities	Asian and Near Eastern Languages	/humanities/asian-and-near-eastern-languages
+international-and-area-studies	asian-studies-program	International and Area Studies	Asian Studies Program	/international-and-area-studies/asian-studies-program
+continuing-education	bachelor-of-general-studies	Continuing Education	Bachelor of General Studies	/continuing-education/bachelor-of-general-studies
+life-sciences	biology	Life Sciences	Biology	/life-sciences/biology
+engineering-and-technology	chemical-engineering	Engineering and Technology	Chemical Engineering	/engineering-and-technology/chemical-engineering
+physical-and-mathematical-sciences	chemistry-and-biochemistry	Physical and Mathematical Sciences	Chemistry and Biochemistry	/physical-and-mathematical-sciences/chemistry-and-biochemistry
+religious-education	church-history-and-doctrine	Religious Education	Church History and Doctrine	/religious-education/church-history-and-doctrine
+family-home-and-social-sciences	civic-engagement-program	Family Home and Social Sciences	Civic Engagement Program	/family-home-and-social-sciences/civic-engagement-program
+engineering-and-technology	civil-and-environmental-engineering	Engineering and Technology	Civil and Environmental Engineering	/engineering-and-technology/civil-and-environmental-engineering
+education	communication-disorders	Education	Communication Disorders	/education/communication-disorders
+fine-arts-and-communications	school-of-communications	Fine Arts and Communications	Communications	/fine-arts-and-communications/school-of-communications
+humanities	comparative-arts-and-letters	Humanities	Comparative Arts and Letters	/humanities/comparative-arts-and-letters
+physical-and-mathematical-sciences	computer-science	Physical and Mathematical Sciences	Computer Science	/physical-and-mathematical-sciences/computer-science
+continuing-education	continuing-education	Continuing Education	Continuing Education	/continuing-education/continuing-education
+education	counseling-psychology-and-special-education	Education	Counseling Psychology and Special Education	/education/counseling-psychology-and-special-education
+fine-arts-and-communications	dance	Fine Arts and Communications	Dance	/fine-arts-and-communications/dance
+fine-arts-and-communications	design	Fine Arts and Communications	Design	/fine-arts-and-communications/design
+humanities	digital-humanities-program	Humanities	Digital Humanities Program	/humanities/digital-humanities-program
+family-home-and-social-sciences	economics	Family Home and Social Sciences	Economics	/family-home-and-social-sciences/economics
+education	educational-leadership-and-foundations	Education	Educational Leadership and Foundations	/education/educational-leadership-and-foundations
+engineering-and-technology	electrical-and-computer-engineering	Engineering and Technology	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering
+humanities	english	Humanities	English	/humanities/english
+international-and-area-studies	european-studies-program	International and Area Studies	European Studies Program	/international-and-area-studies/european-studies-program
+life-sciences	exercise-sciences	Life Sciences	Exercise Sciences	/life-sciences/exercise-sciences
+family-home-and-social-sciences	school-of-family-life	Family Home and Social Sciences	Family Life	/family-home-and-social-sciences/school-of-family-life
+management	finance	Management	Finance	/management/finance
+humanities	french-and-italian	Humanities	French and Italian	/humanities/french-and-italian
+undergraduate-education	general-education-program	Undergraduate Education	General Education Program	/undergraduate-education/general-education-program
+family-home-and-social-sciences	geography	Family Home and Social Sciences	Geography	/family-home-and-social-sciences/geography
+physical-and-mathematical-sciences	geological-sciences	Physical and Mathematical Sciences	Geological Sciences	/physical-and-mathematical-sciences/geological-sciences
+humanities	german-and-russian	Humanities	German and Russian	/humanities/german-and-russian
+life-sciences	health-science	Life Sciences	Health Science	/life-sciences/health-science
+family-home-and-social-sciences	history	Family Home and Social Sciences	History	/family-home-and-social-sciences/history
+undergraduate-education	honors-program	Undergraduate Education	Honors Program	/undergraduate-education/honors-program
+continuing-education	independent-study	Continuing Education	Independent Study	/continuing-education/independent-study
+management	information-systems	Management	Information Systems	/management/information-systems
+education	instructional-psychology-and-technology	Education	Instructional Psychology and Technology	/education/instructional-psychology-and-technology
+humanities	international-cinema-program	Humanities	International Cinema Program	/humanities/international-cinema-program
+international-and-area-studies	international-development-program	International and Area Studies	International Development Program	/international-and-area-studies/international-development-program
+international-and-area-studies	international-relations-program	International and Area Studies	International Relations Program	/international-and-area-studies/international-relations-program
+humanities	center-language-studies	Humanities	Language Studies	/humanities/center-language-studies
+international-and-area-studies	latin-american-studies-program	International and Area Studies	Latin American Studies Program	/international-and-area-studies/latin-american-studies-program
+humanities	linguistics-and-english-language	Humanities	Linguistics and English Language	/humanities/linguistics-and-english-language
+management	management-programs	Management	Management Programs	/management/management-programs
+management	marketing-and-global-supply-chain	Management	Marketing and Global Supply Chain	/management/marketing-and-global-supply-chain
+physical-and-mathematical-sciences	mathematics	Physical and Mathematical Sciences	Mathematics	/physical-and-mathematical-sciences/mathematics
+physical-and-mathematical-sciences	mathematics-education	Physical and Mathematical Sciences	Mathematics Education	/physical-and-mathematical-sciences/mathematics-education
+engineering-and-technology	mechanical-engineering	Engineering and Technology	Mechanical Engineering	/engineering-and-technology/mechanical-engineering
+life-sciences	microbiology-and-molecular-biology	Life Sciences	Microbiology and Molecular Biology	/life-sciences/microbiology-and-molecular-biology
+international-and-area-studies	middle-eastern-studies-arabic-program	International and Area Studies	Middle Eastern Studies - Arabic Program	/international-and-area-studies/middle-eastern-studies-arabic-program
+management	military-science	Management	Military Science	/management/military-science
+fine-arts-and-communications	school-of-music	Fine Arts and Communications	Music	/fine-arts-and-communications/school-of-music
+fine-arts-and-communications	music-dance-theatre-program	Fine Arts and Communications	Music Dance Theatre Program	/fine-arts-and-communications/music-dance-theatre-program
+family-home-and-social-sciences	neuroscience-center	Family Home and Social Sciences	Neuroscience	/family-home-and-social-sciences/neuroscience-center
+nursing	nursing-program	Nursing	Nursing Program	/nursing/nursing-program
+life-sciences	nutrition-dietetics-and-food-science	Life Sciences	Nutrition, Dietetics, and Food Science	/life-sciences/nutrition-dietetics-and-food-science
+management	organizational-leadership-and-strategy	Management	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy
+humanities	philosophy	Humanities	Philosophy	/humanities/philosophy
+physical-and-mathematical-sciences	physical-science-program	Physical and Mathematical Sciences	Physical Science Program	/physical-and-mathematical-sciences/physical-science-program
+physical-and-mathematical-sciences	physics-and-astronomy	Physical and Mathematical Sciences	Physics and Astronomy	/physical-and-mathematical-sciences/physics-and-astronomy
+life-sciences	physiology-and-developmental-biology	Life Sciences	Physiology and Developmental Biology	/life-sciences/physiology-and-developmental-biology
+life-sciences	plant-and-wildlife-sciences	Life Sciences	Plant and Wildlife Sciences	/life-sciences/plant-and-wildlife-sciences
+family-home-and-social-sciences	political-science	Family Home and Social Sciences	Political Science	/family-home-and-social-sciences/political-science
+family-home-and-social-sciences	psychology	Family Home and Social Sciences	Psychology	/family-home-and-social-sciences/psychology
+management	public-management	Management	Public Management	/management/public-management
+management	recreation-management	Management	Recreation Management	/management/recreation-management
+family-home-and-social-sciences	school-of-social-work	Family Home and Social Sciences	Social Work	/family-home-and-social-sciences/school-of-social-work
+family-home-and-social-sciences	sociology	Family Home and Social Sciences	Sociology	/family-home-and-social-sciences/sociology
+humanities	spanish-and-portuguese	Humanities	Spanish and Portuguese	/humanities/spanish-and-portuguese
+physical-and-mathematical-sciences	statistics	Physical and Mathematical Sciences	Statistics	/physical-and-mathematical-sciences/statistics
+student-life	student-activities-program	Student Life	Student Activities Program	/student-life/student-activities-program
+student-life	student-development	Student Life	Student Development	/student-life/student-development
+education	teacher-education	Education	Teacher Education	/education/teacher-education
+engineering-and-technology	school-of-technology	Engineering and Technology	Technology	/engineering-and-technology/school-of-technology
+fine-arts-and-communications	theatre-and-media-arts	Fine Arts and Communications	Theatre and Media Arts	/fine-arts-and-communications/theatre-and-media-arts
+humanities	womens-studies-program	Humanities	Women's Studies Program	/humanities/womens-studies-program

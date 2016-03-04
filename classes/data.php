@@ -108,73 +108,73 @@ class data {
     }
   }
 
-  private function get_colleges() {
-    $colleges = json_decode($this->get_json('colleges'), true);
-    $data = $colleges[1]['data'];
-    preg_match_all("#<div class=\"field-content\">([A-Z].*?)</div>#ui", $data, $college_names);
-    preg_match_all("#<span class=\"field-content\"><a href=\"(.*?)\">(.*?)</a></span>#ui", $data, $college_metadata);
-    preg_match_all("#<span class=\"field-content\">([A-Z].*?)</span>#uism", $data, $college_descriptions);
-    $college_names          = $college_names[1];
-    $college_urls           = $college_metadata[1];
-    $college_informal_names = $college_metadata[2];
-    $college_descriptions   = $college_descriptions[1];
-    $i = 0;
-    foreach($college_names as $college) {
-      $name          = $this->clean_data($college_names[$i]);
-      $url           = $this->clean_data($college_urls[$i]);
-      $stub          = $this->get_stubs($url);
-      $informal_name = $this->clean_data($college_informal_names[$i]);
-      $description   = str_replace("\n", '', $this->clean_data($college_descriptions[$i]));
-      $description   = str_replace("\t", '', $this->clean_data($description));
-      $college       = $stub . "\t" . $name . "\t" . $informal_name . "\t" . $url . "\t" . $description . "\n";
-      echo $college;
-      $i++;
-    }
-  }
-
-  private function get_departments() {
-    $departments = json_decode($this->get_json('departments'), true);
-    $data = $departments[1]['data'];
-    preg_match_all("#<span class=\"field-content\"><a href=\"(.*?)\" rel=\"(.*?)\">(.*?)</a></span>#ui", $data, $department_names);
-    $department_url          = $department_names[1];
-    $department_college_name = $department_names[2];
-    $department_name         = $department_names[3];
-    $i = 0;
-    foreach($department_names[1] as $department) {
-      $url          = $this->clean_data($department_url[$i]);
-      $college_name = $this->clean_data($department_college_name[$i]);
-      $name         = $this->clean_data($department_name[$i]);
-      $stubs        = $this->get_stubs($url);
-      $department   = $stubs . "\t" . $college_name . "\t" . $name . "\t" . $url . "\n";
-      echo $department;
-      $i++;
-    }
-    // Manually add missing departments
-    echo "law-school\tlaw-school\tLaw School\tLaw School\t/law-school";
-  }
-
-  private function get_programs() {
-    $programs = json_decode($this->get_json('programs'), true);
-    $data = $programs[1]['data'];
-    preg_match_all("#<span class=\"field-content\"><a href=\"(.*?)\" rel=\"(.*?) / (.*?)\\n(.*?)\">(.*?)</a></span>#uism", $data, $program_names);
-    // print_r($program_names);die();
-    $program_url             = $program_names[1];
-    $program_college_name    = $program_names[2];
-    $program_department_name = $program_names[3];
-    $program_name            = $program_names[5];
-    $i = 0;
-    foreach($program_names[1] as $program) {
-      $url             = $this->clean_data($program_url[$i]);
-      $college_name    = $this->clean_data($program_college_name[$i]);
-      $college_name    = $this->clean_data($college_name);
-      $department_name = $this->clean_data($program_department_name[$i]);
-      $program_degree  = $this->clean_data($program_name[$i]);
-      $stubs           = $this->get_stubs($url);
-      $program_final   = $stubs . "\t" . $college_name . "\t" . $department_name . "\t" . $program_degree . "\t" . $url . "\n";
-      echo $program_final;
-      $i++;
-    }
-  }
+  // private function get_colleges() {
+  //   $colleges = json_decode($this->get_json('colleges'), true);
+  //   $data = $colleges[1]['data'];
+  //   preg_match_all("#<div class=\"field-content\">([A-Z].*?)</div>#ui", $data, $college_names);
+  //   preg_match_all("#<span class=\"field-content\"><a href=\"(.*?)\">(.*?)</a></span>#ui", $data, $college_metadata);
+  //   preg_match_all("#<span class=\"field-content\">([A-Z].*?)</span>#uism", $data, $college_descriptions);
+  //   $college_names          = $college_names[1];
+  //   $college_urls           = $college_metadata[1];
+  //   $college_informal_names = $college_metadata[2];
+  //   $college_descriptions   = $college_descriptions[1];
+  //   $i = 0;
+  //   foreach($college_names as $college) {
+  //     $name          = $this->clean_data($college_names[$i]);
+  //     $url           = $this->clean_data($college_urls[$i]);
+  //     $stub          = $this->get_stubs($url);
+  //     $informal_name = $this->clean_data($college_informal_names[$i]);
+  //     $description   = str_replace("\n", '', $this->clean_data($college_descriptions[$i]));
+  //     $description   = str_replace("\t", '', $this->clean_data($description));
+  //     $college       = $stub . "\t" . $name . "\t" . $informal_name . "\t" . $url . "\t" . $description . "\n";
+  //     echo $college;
+  //     $i++;
+  //   }
+  // }
+  //
+  // private function get_departments() {
+  //   $departments = json_decode($this->get_json('departments'), true);
+  //   $data = $departments[1]['data'];
+  //   preg_match_all("#<span class=\"field-content\"><a href=\"(.*?)\" rel=\"(.*?)\">(.*?)</a></span>#ui", $data, $department_names);
+  //   $department_url          = $department_names[1];
+  //   $department_college_name = $department_names[2];
+  //   $department_name         = $department_names[3];
+  //   $i = 0;
+  //   foreach($department_names[1] as $department) {
+  //     $url          = $this->clean_data($department_url[$i]);
+  //     $college_name = $this->clean_data($department_college_name[$i]);
+  //     $name         = $this->clean_data($department_name[$i]);
+  //     $stubs        = $this->get_stubs($url);
+  //     $department   = $stubs . "\t" . $college_name . "\t" . $name . "\t" . $url . "\n";
+  //     echo $department;
+  //     $i++;
+  //   }
+  //   // Manually add missing departments
+  //   echo "law-school\tlaw-school\tLaw School\tLaw School\t/law-school";
+  // }
+  //
+  // private function get_programs() {
+  //   $programs = json_decode($this->get_json('programs'), true);
+  //   $data = $programs[1]['data'];
+  //   preg_match_all("#<span class=\"field-content\"><a href=\"(.*?)\" rel=\"(.*?) / (.*?)\\n(.*?)\">(.*?)</a></span>#uism", $data, $program_names);
+  //   // print_r($program_names);die();
+  //   $program_url             = $program_names[1];
+  //   $program_college_name    = $program_names[2];
+  //   $program_department_name = $program_names[3];
+  //   $program_name            = $program_names[5];
+  //   $i = 0;
+  //   foreach($program_names[1] as $program) {
+  //     $url             = $this->clean_data($program_url[$i]);
+  //     $college_name    = $this->clean_data($program_college_name[$i]);
+  //     $college_name    = $this->clean_data($college_name);
+  //     $department_name = $this->clean_data($program_department_name[$i]);
+  //     $program_degree  = $this->clean_data($program_name[$i]);
+  //     $stubs           = $this->get_stubs($url);
+  //     $program_final   = $stubs . "\t" . $college_name . "\t" . $department_name . "\t" . $program_degree . "\t" . $url . "\n";
+  //     echo $program_final;
+  //     $i++;
+  //   }
+  // }
 
   private function get_courses($page_number = 0) {
     $page_count = 1;

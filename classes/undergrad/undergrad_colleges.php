@@ -8,13 +8,10 @@
   *
   */
 
-class undergraduate extends course_catalog {
+class undergrad_colleges extends undergrad {
+  use common;
 
-  public function colleges() {
-    $this->get_colleges();
-  }
-
-  private function get_colleges() {
+  public function get_colleges() {
     // Query needed to get college information from undergraduate catalog
     // If this no longer returns data, view the XHR data when navigating
     // the undergradaute catalog to find relevant query strings
@@ -48,6 +45,7 @@ class undergraduate extends course_catalog {
     }
     $this->write_file('undergrad_colleges.tsv', $colleges);
   }
+
 }
 
 ?>
