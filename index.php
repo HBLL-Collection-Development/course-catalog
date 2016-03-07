@@ -9,5 +9,7 @@ require_once 'config.php';
 // $undergrad->faculty();
 
 $grad = new grad;
-$grad->colleges();
+// $grad->colleges();
+$grad->departments();
+// $grad->programs();
 ?>

@@ -9,19 +9,19 @@
   *
   */
 
-class data {
-  private $curl_handle;
-
-  public function __construct() {
-    echo '<pre>';
-    $this->curl_handle = curl_init();
+// class data {
+//   private $curl_handle;
+//
+//   public function __construct() {
+//     echo '<pre>';
+//     $this->curl_handle = curl_init();
     // $this->get_colleges();
     // $this->get_departments();
     // $this->get_programs();
     // $this->get_courses();
     // $this->get_faculty();
-    $this->get_graduate_school_data();
-  }
+    // $this->get_graduate_school_data();
+  // }
 
   // private function get_json($page_name, $page_number = NULL) {
   //   switch ($page_name) {
@@ -63,50 +63,50 @@ class data {
   // }
 
   private function get_graduate_school_data() {
-    $graduate_catalog = $this->get_html();
-    preg_match("#<h2>Departments</h2>.*?<select.*?Select a Department.*?</select>#uism", $graduate_catalog, $departments);
-    preg_match("#<h2>Programs</h2>.*?<select.*?Select a Program.*?</select>#uism", $graduate_catalog, $programs);
-    preg_match("#<h2>Colleges and Schools</h2>.*?<select.*?Select a College.*?</select>#uism", $graduate_catalog, $colleges);
-    preg_match_all("#<option value=\"([A-Za-z0-9].*?)::(.*?)\">\s*(.*?)\s*</option>#uism", $departments[0], $department);
-    preg_match_all("#<option value=\"([A-Za-z0-9].*?)::(.*?)\">\s*(.*?)\s*</option>#uism", $programs[0], $program);
-    preg_match_all("#<option value=\"([A-Za-z0-9].*?)::(.*?)\">\s*(.*?)\s*</option>#uism", $colleges[0], $college);
-    $this->get_grad_departments($department);
-    $this->get_grad_programs($program);
-    $this->get_grad_colleges($college);
+    // $graduate_catalog = $this->get_html();
+    // preg_match("#<h2>Departments</h2>.*?<select.*?Select a Department.*?</select>#uism", $graduate_catalog, $departments);
+    // preg_match("#<h2>Programs</h2>.*?<select.*?Select a Program.*?</select>#uism", $graduate_catalog, $programs);
+    // preg_match("#<h2>Colleges and Schools</h2>.*?<select.*?Select a College.*?</select>#uism", $graduate_catalog, $colleges);
+    // preg_match_all("#<option value=\"([A-Za-z0-9].*?)::(.*?)\">\s*(.*?)\s*</option>#uism", $departments[0], $department);
+    // preg_match_all("#<option value=\"([A-Za-z0-9].*?)::(.*?)\">\s*(.*?)\s*</option>#uism", $programs[0], $program);
+    // preg_match_all("#<option value=\"([A-Za-z0-9].*?)::(.*?)\">\s*(.*?)\s*</option>#uism", $colleges[0], $college);
+    // $this->get_grad_departments($department);
+    // $this->get_grad_programs($program);
+    // $this->get_grad_colleges($college);
   }
 
-  private function get_grad_departments($departments) {
-    $i=0;
-    foreach($departments[0] as $department) {
-      $id = $departments[1][$i];
-      $url = $departments[2][$i];
-      $name = $departments[3][$i];
-      // echo "$id\t$url\t$name\n";
-      $i++;
-    }
-  }
+  // private function get_grad_departments($departments) {
+  //   $i=0;
+  //   foreach($departments[0] as $department) {
+  //     $id = $departments[1][$i];
+  //     $url = $departments[2][$i];
+  //     $name = $departments[3][$i];
+  //     // echo "$id\t$url\t$name\n";
+  //     $i++;
+  //   }
+  // }
 
-  private function get_grad_programs($programs) {
-    $i=0;
-    foreach($programs[0] as $program) {
-      $id = $programs[1][$i];
-      $url = $programs[2][$i];
-      $name = $programs[3][$i];
-      echo "\t\t$id\t\t\t$name\t$url\n";
-      $i++;
-    }
-  }
+  // private function get_grad_programs($programs) {
+  //   $i=0;
+  //   foreach($programs[0] as $program) {
+  //     $id = $programs[1][$i];
+  //     $url = $programs[2][$i];
+  //     $name = $programs[3][$i];
+  //     echo "\t\t$id\t\t\t$name\t$url\n";
+  //     $i++;
+  //   }
+  // }
 
-  private function get_grad_colleges($colleges) {
-    $i=0;
-    foreach($colleges[0] as $college) {
-      $id = $colleges[1][$i];
-      $url = $colleges[2][$i];
-      $name = $colleges[3][$i];
-      // echo "$id\t$url\t$name\n";
-      $i++;
-    }
-  }
+  // private function get_grad_colleges($colleges) {
+  //   $i=0;
+  //   foreach($colleges[0] as $college) {
+  //     $id = $colleges[1][$i];
+  //     $url = $colleges[2][$i];
+  //     $name = $colleges[3][$i];
+  //     // echo "$id\t$url\t$name\n";
+  //     $i++;
+  //   }
+  // }
 
   // private function get_colleges() {
   //   $colleges = json_decode($this->get_json('colleges'), true);
@@ -273,5 +273,5 @@ class data {
   //                'view_display_id' => 'block',
   //                'page' => $page_number);
   // }
-}
+// }
 ?>

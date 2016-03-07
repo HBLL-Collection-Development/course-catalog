@@ -11,8 +11,8 @@
 class grad_colleges extends grad {
   use common;
 
-  public function get_colleges($graduate_catalog = null) {
-    $this->write_colleges($graduate_catalog);
+  public function get_colleges() {
+    $this->write_colleges($this->graduate_catalog);
   }
 
   private function write_colleges($data) {

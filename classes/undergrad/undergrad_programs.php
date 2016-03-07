@@ -31,7 +31,7 @@ class undergrad_programs extends undergrad {
     //          Undergraduate Course Catalog website
     preg_match_all("#<span class=\"field-content\"><a href=\"(.*?)\" rel=\"(.*?) / (.*?)\\n(.*?)\">(.*?)</a></span>#uism", $data, $program_names);
     // TSV file header
-    $programs = "college-stub\tdepartment-stub\tprogram-stub\tcollege-name-short\tdepartment-name\tdepartment-url\n";
+    $programs = "college-stub\tdepartment-stub\tprogram-stub\tcollege-name-short\tprogram-name\tprogram-url\n";
     // Loop through all departments
     for($i = 0; $i < count($program_names[1]); $i++) {
       $url                = $this->get_clean_data($program_names[1][$i]);

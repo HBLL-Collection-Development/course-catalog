@@ -18,31 +18,29 @@ class grad implements course_catalog {
 
   public function colleges() {
     $colleges = new grad_colleges;
-    $colleges->get_colleges($this->graduate_catalog);
+    $colleges->get_colleges();
   }
 
   public function departments() {
-    return null;
     $departments = new grad_departments;
-    $departments->get_departments($this->graduate_catalog);
+    $departments->get_departments();
   }
 
   public function programs() {
-    return null;
     $programs = new grad_programs;
-    $programs->get_programs($this->graduate_catalog);
+    $programs->get_programs();
   }
 
   public function courses() {
     return null;
     $courses = new grad_courses;
-    $courses->get_courses($this->graduate_catalog);
+    $courses->get_courses();
   }
 
   public function faculty() {
     return null;
     $faculty = new grad_faculty;
-    $faculty->get_faculty($this->graduate_catalog);
+    $faculty->get_faculty();
   }
 
 }
