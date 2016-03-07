@@ -30,8 +30,9 @@ class undergrad implements course_catalog {
     $courses->get_courses();
   }
 
-  public function faculty($page_number = 0) {
-    return null;
+  public function faculty() {
+    $faculty = new undergrad_faculty;
+    $faculty->get_faculty();
   }
 
 }

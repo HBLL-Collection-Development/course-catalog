@@ -23,44 +23,44 @@ class data {
     $this->get_graduate_school_data();
   }
 
-  private function get_json($page_name, $page_number = NULL) {
-    switch ($page_name) {
-      case 'colleges':    $data_query = $this->colleges_query(); break;
-      case 'departments': $data_query = $this->departments_query(); break;
-      case 'programs':    $data_query = $this->programs_query(); break;
-      case 'courses':     $data_query = $this->courses_query($page_number); break;
-      case 'faculty':     $data_query = $this->faculty_query($page_number); break;
-    }
-    $ch = $this->curl_handle;
-    curl_setopt($ch, CURLOPT_COOKIESESSION, TRUE);
-    curl_setopt($ch, CURLOPT_COOKIEJAR, config::get('cookie_jar'));
-    curl_setopt($ch, CURLOPT_COOKIEFILE, config::get('cookie_jar'));
-    curl_setopt($ch, CURLOPT_URL, config::get('undergrad_courses_url'));
-    curl_setopt($ch, CURLOPT_POST, 1);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data_query));
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+  // private function get_json($page_name, $page_number = NULL) {
+  //   switch ($page_name) {
+  //     case 'colleges':    $data_query = $this->colleges_query(); break;
+  //     case 'departments': $data_query = $this->departments_query(); break;
+  //     case 'programs':    $data_query = $this->programs_query(); break;
+  //     case 'courses':     $data_query = $this->courses_query($page_number); break;
+  //     case 'faculty':     $data_query = $this->faculty_query($page_number); break;
+  //   }
+  //   $ch = $this->curl_handle;
+  //   curl_setopt($ch, CURLOPT_COOKIESESSION, TRUE);
+  //   curl_setopt($ch, CURLOPT_COOKIEJAR, config::get('cookie_jar'));
+  //   curl_setopt($ch, CURLOPT_COOKIEFILE, config::get('cookie_jar'));
+  //   curl_setopt($ch, CURLOPT_URL, config::get('undergrad_courses_url'));
+  //   curl_setopt($ch, CURLOPT_POST, 1);
+  //   curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($data_query));
+  //   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+  //
+  //   if(!$result = curl_exec($ch)) {
+  //     throw new Exception(curl_errno($ch) . ': ' . curl_error($ch));
+  //   } else {
+  //     return $result;
+  //   }
+  // }
 
-    if(!$result = curl_exec($ch)) {
-      throw new Exception(curl_errno($ch) . ': ' . curl_error($ch));
-    } else {
-      return $result;
-    }
-  }
-
-  private function get_html() {
-    $ch = $this->curl_handle;
-    curl_setopt($ch, CURLOPT_COOKIESESSION, TRUE);
-    curl_setopt($ch, CURLOPT_COOKIEJAR, config::get('cookie_jar'));
-    curl_setopt($ch, CURLOPT_COOKIEFILE, config::get('cookie_jar'));
-    curl_setopt($ch, CURLOPT_URL, config::get('graduate_courses_url'));
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-
-    if(!$result = curl_exec($ch)) {
-      throw new Exception(curl_errno($ch) . ': ' . curl_error($ch));
-    } else {
-      return $result;
-    }
-  }
+  // private function get_html() {
+  //   $ch = $this->curl_handle;
+  //   curl_setopt($ch, CURLOPT_COOKIESESSION, TRUE);
+  //   curl_setopt($ch, CURLOPT_COOKIEJAR, config::get('cookie_jar'));
+  //   curl_setopt($ch, CURLOPT_COOKIEFILE, config::get('cookie_jar'));
+  //   curl_setopt($ch, CURLOPT_URL, config::get('graduate_courses_url'));
+  //   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+  //
+  //   if(!$result = curl_exec($ch)) {
+  //     throw new Exception(curl_errno($ch) . ': ' . curl_error($ch));
+  //   } else {
+  //     return $result;
+  //   }
+  // }
 
   private function get_graduate_school_data() {
     $graduate_catalog = $this->get_html();
@@ -176,102 +176,102 @@ class data {
   //   }
   // }
 
-  private function get_courses($page_number = 0) {
-    $page_count = 1;
-    for($t = 0; $t <= $page_count; $t++) {
-      $courses = json_decode($this->get_json('courses', $page_number), true);
-      $data = $courses[1]['data'];
-      preg_match_all("#.*?<a href=\"(.*?)\" rel=\"(.*?)\">(.*?)-(.*?)</a>#uism", $data, $matches, PREG_PATTERN_ORDER);
-      preg_match_all("#<a title=\"Go to last page\" href=\"/views/ajax\?cd=All&amp;page=(.*?)\">#ui", $data, $pages);
-      $page_count = $pages[1][0];
-      $i = 0;
-      foreach($matches[1] as $match) {
-        $url           = $this->clean_data($matches[1][$i]);
-        $description   = $this->clean_data($matches[2][$i]);
-        $course_number = $this->clean_data($matches[3][$i]);
-        $course_name   = $this->clean_data($matches[4][$i]);
-        $description   = explode("\n", $description);
-        $department    = $this->clean_data($description[0]);
-        $credit_hours  = $this->clean_data($description[1]);
-        $description   = $this->clean_data($description[2]);
-        $stubs_count   = substr_count($url, '/');
-        if($stubs_count == 3) {
-          $stubs = $this->get_stubs($url);
-        } else {
-          $stubs = str_replace('/', "\t\t", substr($url, 1));
-        }
-        $course = $stubs . "\t" . $department . "\t" . $credit_hours . "\t" . $description . "\t" . $course_number . "\t" . $course_name . "\t" . $url . "\n";
-        echo $course;
-        $i++;
-      }
-      $page_number++;
-    }
-  }
+  // private function get_courses($page_number = 0) {
+  //   $page_count = 1;
+  //   for($t = 0; $t <= $page_count; $t++) {
+  //     $courses = json_decode($this->get_json('courses', $page_number), true);
+  //     $data = $courses[1]['data'];
+  //     preg_match_all("#.*?<a href=\"(.*?)\" rel=\"(.*?)\">(.*?)-(.*?)</a>#uism", $data, $matches, PREG_PATTERN_ORDER);
+  //     preg_match_all("#<a title=\"Go to last page\" href=\"/views/ajax\?cd=All&amp;page=(.*?)\">#ui", $data, $pages);
+  //     $page_count = $pages[1][0];
+  //     $i = 0;
+  //     foreach($matches[1] as $match) {
+  //       $url           = $this->clean_data($matches[1][$i]);
+  //       $description   = $this->clean_data($matches[2][$i]);
+  //       $course_number = $this->clean_data($matches[3][$i]);
+  //       $course_name   = $this->clean_data($matches[4][$i]);
+  //       $description   = explode("\n", $description);
+  //       $department    = $this->clean_data($description[0]);
+  //       $credit_hours  = $this->clean_data($description[1]);
+  //       $description   = $this->clean_data($description[2]);
+  //       $stubs_count   = substr_count($url, '/');
+  //       if($stubs_count == 3) {
+  //         $stubs = $this->get_stubs($url);
+  //       } else {
+  //         $stubs = str_replace('/', "\t\t", substr($url, 1));
+  //       }
+  //       $course = $stubs . "\t" . $department . "\t" . $credit_hours . "\t" . $description . "\t" . $course_number . "\t" . $course_name . "\t" . $url . "\n";
+  //       echo $course;
+  //       $i++;
+  //     }
+  //     $page_number++;
+  //   }
+  // }
 
-  private function get_faculty($page_number = 0) {
-    $page_count = 1;
-    for($t = 0; $t <= $page_count; $t++) {
-      $faculty = json_decode($this->get_json('faculty', $page_number), true);
-      $data = $faculty[1]['data'];
-      preg_match_all("#<a href=\"(.*?)\">(.*?)</a>.*?<em class=\"field-content\">(.*?)</em>.*?<div class=\"views-field views-field-field-owner\">.*?<div class=\"field-content\">(.*?)</div>#uism", $data, $matches, PREG_PATTERN_ORDER);
-      preg_match_all("#<li class=\"pager-last last\"><a title=\"Go to last page\" href=\"/views/ajax\?keys=.*?page=(.*?)\">#uism", $data, $pages);
-      $page_count = $pages[1][0];
-      $i = 0;
-      foreach($matches[1] as $match) {
-        $url        = $this->clean_data($matches[1][$i]);
-        $name       = $this->clean_data($matches[2][$i]);
-        $rank       = $this->clean_data($matches[3][$i]);
-        $department = $this->clean_data($matches[4][$i]);
-        $stubs_count   = substr_count($url, '/');
-        if($stubs_count == 3) {
-          $stubs = $this->get_stubs($url);
-        } else {
-          $stubs = str_replace('/', "\t\t", substr($url, 1));
-        }
-        $faculty    = $stubs . "\t" . $name . "\t" . $rank . "\t" . $department . "\t" . $url . "\n";
-        echo $faculty;
-        $i++;
-      }
-      $page_number++;
-    }
-  }
+  // private function get_faculty($page_number = 0) {
+  //   $page_count = 1;
+  //   for($t = 0; $t <= $page_count; $t++) {
+  //     $faculty = json_decode($this->get_json('faculty', $page_number), true);
+  //     $data = $faculty[1]['data'];
+  //     preg_match_all("#<a href=\"(.*?)\">(.*?)</a>.*?<em class=\"field-content\">(.*?)</em>.*?<div class=\"views-field views-field-field-owner\">.*?<div class=\"field-content\">(.*?)</div>#uism", $data, $matches, PREG_PATTERN_ORDER);
+  //     preg_match_all("#<li class=\"pager-last last\"><a title=\"Go to last page\" href=\"/views/ajax\?keys=.*?page=(.*?)\">#uism", $data, $pages);
+  //     $page_count = $pages[1][0];
+  //     $i = 0;
+  //     foreach($matches[1] as $match) {
+  //       $url        = $this->clean_data($matches[1][$i]);
+  //       $name       = $this->clean_data($matches[2][$i]);
+  //       $rank       = $this->clean_data($matches[3][$i]);
+  //       $department = $this->clean_data($matches[4][$i]);
+  //       $stubs_count   = substr_count($url, '/');
+  //       if($stubs_count == 3) {
+  //         $stubs = $this->get_stubs($url);
+  //       } else {
+  //         $stubs = str_replace('/', "\t\t", substr($url, 1));
+  //       }
+  //       $faculty    = $stubs . "\t" . $name . "\t" . $rank . "\t" . $department . "\t" . $url . "\n";
+  //       echo $faculty;
+  //       $i++;
+  //     }
+  //     $page_number++;
+  //   }
+  // }
 
-  private function clean_data($data) {
-    $search = array('CREDITS:', 'DESCRIPTION:', '&amp;', '&#039', '&#160;', "';", '&amp;#160;', '&amp;#039;');
-    $replace = array('', '', '&', "'", ' ', "'", '', "'");
-    return trim(str_replace($search, $replace, $data));
-  }
+  // private function clean_data($data) {
+  //   $search = array('CREDITS:', 'DESCRIPTION:', '&amp;', '&#039', '&#160;', "';", '&amp;#160;', '&amp;#039;');
+  //   $replace = array('', '', '&', "'", ' ', "'", '', "'");
+  //   return trim(str_replace($search, $replace, $data));
+  // }
+  //
+  // private function get_stubs($url) {
+  //   return str_replace('/', "\t", substr($url, 1));
+  // }
 
-  private function get_stubs($url) {
-    return str_replace('/', "\t", substr($url, 1));
-  }
+  // private function colleges_query() {
+  //   return array('view_name' => 'colleges',
+  //                'view_display_id' => 'block_1');
+  // }
+  //
+  // private function departments_query() {
+  //   return array('view_name' => 'departments',
+  //                'view_display_id' => 'block_1');
+  // }
+  //
+  // private function programs_query() {
+  //   return array('view_name' => 'programs',
+  //                'view_display_id' => 'block_1');
+  // }
+  //
+  // private function courses_query($page_number = 0) {
+  //   return array('view_name' => 'courses',
+  //                'view_display_id' => 'block_1',
+  //                'page' => $page_number);
+  // }
 
-  private function colleges_query() {
-    return array('view_name' => 'colleges',
-                 'view_display_id' => 'block_1');
-  }
-
-  private function departments_query() {
-    return array('view_name' => 'departments',
-                 'view_display_id' => 'block_1');
-  }
-
-  private function programs_query() {
-    return array('view_name' => 'programs',
-                 'view_display_id' => 'block_1');
-  }
-
-  private function courses_query($page_number = 0) {
-    return array('view_name' => 'courses',
-                 'view_display_id' => 'block_1',
-                 'page' => $page_number);
-  }
-
-  private function faculty_query($page_number = 0) {
-    return array('keys' => '',
-                 'view_name' => 'faculty_search',
-                 'view_display_id' => 'block',
-                 'page' => $page_number);
-  }
+  // private function faculty_query($page_number = 0) {
+  //   return array('keys' => '',
+  //                'view_name' => 'faculty_search',
+  //                'view_display_id' => 'block',
+  //                'page' => $page_number);
+  // }
 }
 ?>

@@ -16,11 +16,18 @@ class undergrad_courses extends undergrad {
     $header = "college-stub\tdepartment-stub\tprogram-stub\tdepartment-name\tcourse-credit-hours\tcourse-description\tcourse-number\tcourse-name\tcourse-url\n";
     $this->write_file('undergrad_courses.tsv', $header);
     for($t = 0; $t <= $page_count; $t++) {
+      // Query needed to get college information from undergraduate catalog
+      // If this no longer returns data, view the XHR data when navigating
+      // the undergradaute catalog to find relevant query strings
       $query = array('view_name' => 'courses',
                      'view_display_id' => 'block_1',
                      'page' => $page_number);
+      // Get PHP array data from JSON in data
       $courses = json_decode($this->get_data($query), true);
       $data = $courses[1]['data'];
+      // Scrape data for relevant information
+      // WARNING: very finicky and highly dependent on code in the
+      //          Undergraduate Course Catalog website
       preg_match_all("#.*?<a href=\"(.*?)\" rel=\"(.*?)\">(.*?)-(.*?)</a>#uism", $data, $course_names, PREG_PATTERN_ORDER);
       preg_match_all("#<a title=\"Go to last page\" href=\"/views/ajax\?cd=All&amp;page=(.*?)\">#ui", $data, $pages);
       $page_count = $pages[1][0];
