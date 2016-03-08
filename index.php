@@ -14,4 +14,13 @@ require_once 'config.php';
 // $grad->programs();
 // $grad->courses();
 // $grad->faculty();
+
+// $schedule = new class_schedule;
+// $schedule->get_schedule(2014, 1);
+
+// 1 = Winter
+// 3 = Spring
+// 4 = Summer
+// 5 = Fall
+
 ?>
