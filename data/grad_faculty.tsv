@@ -1,0 +1,961 @@
+college-stub	department-stub	faculty-stub	faculty-name	faculty-rank	department-name	faculty-url	faculty-degree	faculty-school	faculty-degree-year	faculty-discipline
+	1a7abb935e5b190d15ff55408b969297		Barrick, John A.	Associate Professor	Accountancy		PhD	University of Nebraska	1998	
+	1a7abb935e5b190d15ff55408b969297		Burton, F. Greg	Professor	Accountancy		PhD	University of South Carolina	1994	
+	1a7abb935e5b190d15ff55408b969297		Cottrell, David M.	Professor	Accountancy		PhD	The Ohio State University	1992	
+	1a7abb935e5b190d15ff55408b969297		Drake, Michael S.	Assistant Professor	Accountancy		PhD	Texas A&M University	2009	
+	1a7abb935e5b190d15ff55408b969297		Glover, Steven M.	Professor	Accountancy		PhD	University of Washington	1994	
+	1a7abb935e5b190d15ff55408b969297		Heninger, William G.	Associate Professor	Accountancy		PhD	University of Georgia	1997	
+	1a7abb935e5b190d15ff55408b969297		Prawitt, Douglas F.	Professor	Accountancy		PhD	University of Arizona	1993	
+	1a7abb935e5b190d15ff55408b969297		Smith, Steven D.	Associate Professor	Accountancy		PhD	Cornell University	2005	
+	1a7abb935e5b190d15ff55408b969297		Spilker, Brian C.	Professor	Accountancy		PhD	University of Texas, Austin	1993	
+	1a7abb935e5b190d15ff55408b969297		Stewart, Bryan W.	Assistant Professor	Accountancy		PhD	University of South Carolina	2013	
+	1a7abb935e5b190d15ff55408b969297		Stewart, Dave N.	Professor	Accountancy		PhD	University of Florida	1980	
+	1a7abb935e5b190d15ff55408b969297		Stice, Earl Kay	Professor	Accountancy		PhD	Cornell University	1988	
+	1a7abb935e5b190d15ff55408b969297		Stice, James D.	Professor	Accountancy		PhD	University of Washington	1989	
+	1a7abb935e5b190d15ff55408b969297		Stocks, Kevin D.	Professor	Accountancy		PhD	Oklahoma State University	1981	
+	1a7abb935e5b190d15ff55408b969297		Summers, Scott L.	Professor	Accountancy		PhD	Texas A&M University	1995	
+	1a7abb935e5b190d15ff55408b969297		Swain, Monte R.	Professor	Accountancy		PhD	Michigan State University	1991	
+	1a7abb935e5b190d15ff55408b969297		Tayler, William B.	Associate Professor	Accountancy		PhD	Cornell University	2007	
+	1a7abb935e5b190d15ff55408b969297		Wilks, T. Jeffrey	Professor	Accountancy		PhD	Cornell University	1996	
+	1a7abb935e5b190d15ff55408b969297		Worsham, Ronald G.	Associate Professor	Accountancy		PhD	University of Florida	1994	
+	1a7abb935e5b190d15ff55408b969297		Zimbelman, Mark F.	Professor	Accountancy		PhD	University of Arizona	1996	
+	f3b36167ab22775660ecc4501b6d7ab1		Allison, James R.	Associate Professor	Anthropology		PhD	Arizona State University	2000	
+	f3b36167ab22775660ecc4501b6d7ab1		Clark, John E.	Professor	Anthropology		PhD	University of Michigan	1994	
+	f3b36167ab22775660ecc4501b6d7ab1		Crandall, David P.	Associate Professor	Anthropology		DPhil	Oxford University	1993	
+	f3b36167ab22775660ecc4501b6d7ab1		Finlayson, Cynthia S.	Associate Professor	Anthropology		PhD	University of Iowa	1998	
+	f3b36167ab22775660ecc4501b6d7ab1		Forsyth, Donald W.	Professor	Anthropology		PhD	University of Pennsylvania	1979	
+	f3b36167ab22775660ecc4501b6d7ab1		Hickman, Jacob	Assistant Professor	Anthropology		PhD	University of Chicago	2011	
+	f3b36167ab22775660ecc4501b6d7ab1		Johnson, David J.	Associate Professor	Anthropology		PhD	University of Utah	1987	
+	f3b36167ab22775660ecc4501b6d7ab1		Nuckolls, Charles W.	Professor	Anthropology		PhD	University of Chicago	1987	
+	f3b36167ab22775660ecc4501b6d7ab1		Searcy, Michael T.	Assistant Professor	Anthropology		PhD	University of Oklahoma	2010	
+	68cdbfa12a56c99931d5539aaac59e44		Adams, Paul	Associate Professor	Art		MFA	Utah State University	1996	
+	68cdbfa12a56c99931d5539aaac59e44		Andersen, Bethanne	Professor	Art		MFA	Brigham Young University	1979	
+	68cdbfa12a56c99931d5539aaac59e44		Barney, Daniel T.	Assistant Professor	Art		PhD	University of British Columbia	2009	
+	68cdbfa12a56c99931d5539aaac59e44		Barrett, Robert	Professor	Art		MFA	University of Iowa	1976	
+	68cdbfa12a56c99931d5539aaac59e44		Barton, Garold C.	Professor	Art		MFA	Ohio State University	1994	
+	68cdbfa12a56c99931d5539aaac59e44		Buehler, Fidalis	Assistant Professor	Art		MFA	Brigham Young University	2007	
+	68cdbfa12a56c99931d5539aaac59e44		Christensen, Brian D.	Associate Professor	Art		MFA	Washington University, St. Louis	1992	
+	68cdbfa12a56c99931d5539aaac59e44		Draper, Bryon	Associate Professor	Art		MFA	Brigham Young University	1995	
+	68cdbfa12a56c99931d5539aaac59e44		Everett, Peter	Associate Professor	Art		MFA	Pratt Institute	2000	
+	68cdbfa12a56c99931d5539aaac59e44		Gillett, Eric	Associate Professor	Art		MFA	University of Utah	2003	
+	68cdbfa12a56c99931d5539aaac59e44		Graham, Mark A.	Professor	Art		EdD	Teachers College of Columbia University	2001	
+	68cdbfa12a56c99931d5539aaac59e44		Jensen, Heather Belnap	Associate Professor	Art		PhD	University of Kansas	2007	
+	68cdbfa12a56c99931d5539aaac59e44		Johnson, Mark J.	Professor	Art		PhD	Princeton University	1986	
+	68cdbfa12a56c99931d5539aaac59e44		Magleby, Mark A.	Museum of Art Director	Art		PhD	Ohio State University	2009	
+	68cdbfa12a56c99931d5539aaac59e44		Ostraff, Joseph E.	Professor	Art		MFA	University of Washington	1982	
+	68cdbfa12a56c99931d5539aaac59e44		Peacock, Martha	Professor	Art		PhD	Ohio State University	1989	
+	68cdbfa12a56c99931d5539aaac59e44		Reynolds, Linda	Professor	Art		MFA	University of Utah	1993	
+	68cdbfa12a56c99931d5539aaac59e44		Swensen, James	Assistant Professor	Art		PhD	University of Arizona	2009	
+	68cdbfa12a56c99931d5539aaac59e44		Taylor, Sunny Belliston	Assistant Professor	Art		MFA	Ohio State University	2007	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Adams, Byron J.	Associate Professor	Biology		PhD	University of Nebraska	1998	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Belk, Mark C.	Professor	Biology		PhD	University of Georgia	1992	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Bybee, Seth M.	Assistant Professor	Biology		PhD	University of Florida	2008	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Gill, Richard A.	Associate Professor	Biology		PhD	Colorado State University	1998	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Jensen, Jamie L.	Assistant Professor	Biology		PhD	Arizona State University	2008	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Johnson, Jerald B.	Professor	Biology		PhD	University of Vermont	2000	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Johnson, Leigh A.	Professor	Biology		PhD	Washington State University	1996	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Johnson, Robert L.	Associate Research Professor	Biology		PhD	Brigham Young University	2008	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Kauwe, John S. K.	Assistant Professor	Biology		PhD	Washington University in St. Louis	2007	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Koide, Roger T.	Professor	Biology		PhD	University of California, Berkeley	1984	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Nelson, C. Riley	Professor	Biology		PhD	Brigham Young University	1986	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Peck, Steven L.	Associate Professor	Biology		PhD	North Carolina State University	1997	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Rader, Russell B.	Professor	Biology		PhD	Colorado State University	1987	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Ridge, Perry G.	Assistant Professor	Biology		PhD	Brigham Young University	2013	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Roeder, Beverly L.	Professor	Biology		PhD	Pennsylvania State University	1990	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Rogers, Duke S.	Professor	Biology		PhD	University of California, Berkeley	1986	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Shiozawa, Dennis K.	Professor	Biology		PhD	University of Minnesota, St. Paul	1978	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Sites Jr., Jack W.	Professor	Biology		PhD	Texas A&M University	1980	
+	2c68c2fc8f74c11313c6229a4dd8d52e		St. Clair, Larry L.	Professor	Biology		PhD	University of Colorado	1984	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Whipple, Clint J.	Associate Professor	Biology		PhD	University of California, San Diego	2006	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Whiting, Michael F.	Professor	Biology		PhD	Cornell University	1994	
+	2c68c2fc8f74c11313c6229a4dd8d52e		Wilcox, Edward R.	Research Associate Professor	Biology		PhD	University of California, Davis	1982	
+	2319d3b825221a08b0857e8b1c3d108e		Argyle, Morris D.	Associate Professor	Chemical Engineering		PhD	University of California, Berkeley	2003	
+	2319d3b825221a08b0857e8b1c3d108e		Baxter, Larry L.	Professor	Chemical Engineering		PhD	Brigham Young University	1989	
+	2319d3b825221a08b0857e8b1c3d108e		Bundy, Bradley C.	Associate Professor	Chemical Engineering		PhD	Stanford University	2009	
+	2319d3b825221a08b0857e8b1c3d108e		Cook, Alonzo D.	Associate Professor	Chemical Engineering		PhD	Massachusetts Institute of Technology	1996	
+	2319d3b825221a08b0857e8b1c3d108e		Fletcher, Thomas H.	Professor	Chemical Engineering		PhD	Brigham Young University	1983	
+	2319d3b825221a08b0857e8b1c3d108e		Harb, John N.	Professor	Chemical Engineering		PhD	University of Illinois	1988	
+	2319d3b825221a08b0857e8b1c3d108e		Hecker, William C.	Associate Professor	Chemical Engineering		PhD	University of California, Berkeley	1982	
+	2319d3b825221a08b0857e8b1c3d108e		Hedengren, John D.	Assistant Professor	Chemical Engineering		PhD	University of Texas, Austin	2005	
+	2319d3b825221a08b0857e8b1c3d108e		Knotts, Thomas A.	Associate Professor	Chemical Engineering		PhD	University of Wisconsin, Madison	2006	
+	2319d3b825221a08b0857e8b1c3d108e		Lewis, Randy S.	Professor	Chemical Engineering		PhD	Massachusetts Institute of Technology	1995	
+	2319d3b825221a08b0857e8b1c3d108e		Lignell, David O.	Associate Professor	Chemical Engineering		PhD	University of Utah	2008	
+	2319d3b825221a08b0857e8b1c3d108e		Pitt, William G.	Professor	Chemical Engineering		PhD	University of Wisconsin, Madison	1987	
+	2319d3b825221a08b0857e8b1c3d108e		Wheeler, Dean R.	Associate Professor	Chemical Engineering		PhD	University of California, Berkeley	2002	
+	2319d3b825221a08b0857e8b1c3d108e		Wilding, W. Vincent	Professor	Chemical Engineering		PhD	Rice University	1985	
+	271d5073b537937e09ae422bf30dddf4		Andersen, Joshua L.	Assistant Professor	Chemistry and Biochemistry		PhD	University of Utah	2006	
+	271d5073b537937e09ae422bf30dddf4		Andrus, Merritt B.	Professor	Chemistry and Biochemistry		PhD	University of Utah	1991	
+	271d5073b537937e09ae422bf30dddf4		Asplund, Matthew C.	Associate Professor	Chemistry and Biochemistry		PhD	University of California, Berkeley	1998	
+	271d5073b537937e09ae422bf30dddf4		Austin, Daniel E.	Associate Professor	Chemistry and Biochemistry		PhD	California Institute of Technology	2003	
+	271d5073b537937e09ae422bf30dddf4		Burt, Scott R.	Assistant Teaching Professor	Chemistry and Biochemistry		PhD	University of California, Berkeley	2008	
+	271d5073b537937e09ae422bf30dddf4		Burton, Gregory F.	Professor	Chemistry and Biochemistry		PhD	Medical College of Virginia, Virginia Commonwealth	1989	
+	271d5073b537937e09ae422bf30dddf4		Castle, Steven L.	Professor	Chemistry and Biochemistry		PhD	Scripps Research Institute	2000	
+	271d5073b537937e09ae422bf30dddf4		Christensen, Kenneth A.	Associate Professor	Chemistry and Biochemistry		PhD	University of Michigan	1997	
+	271d5073b537937e09ae422bf30dddf4		Dearden, David V.	Professor	Chemistry and Biochemistry		PhD	California Institute of Technology	1989	
+	271d5073b537937e09ae422bf30dddf4		Ess, Daniel H.	Assistant Professor	Chemistry and Biochemistry		PhD	University of California, Los Angeles	2007	
+	271d5073b537937e09ae422bf30dddf4		Farnsworth, Paul B.	Professor	Chemistry and Biochemistry		PhD	University of Wisconsin, Madison	1981	
+	271d5073b537937e09ae422bf30dddf4		Goates, Steven R.	Professor	Chemistry and Biochemistry		PhD	University of Michigan	1981	
+	271d5073b537937e09ae422bf30dddf4		Graves, Steven W.	Professor	Chemistry and Biochemistry		PhD	Yale University	1978	
+	271d5073b537937e09ae422bf30dddf4		Hansen, Jaron C.	Associate Professor	Chemistry and Biochemistry		PhD	Purdue University	2002	
+	271d5073b537937e09ae422bf30dddf4		Harrison, Roger G.	Associate Professor	Chemistry and Biochemistry		PhD	University of Utah	1993	
+	271d5073b537937e09ae422bf30dddf4		Johnson, Jeremy A.	Assistant Professor	Chemistry and Biochemistry		PhD	Massachusetts Institute of Technology	2011	
+	271d5073b537937e09ae422bf30dddf4		Linford, Matthew R.	Professor	Chemistry and Biochemistry		PhD	Stanford University	1996	
+	271d5073b537937e09ae422bf30dddf4		Macedone, Jeffrey H.	Associate Teaching Professor	Chemistry and Biochemistry		PhD	Brigham Young University	2004	
+	271d5073b537937e09ae422bf30dddf4		Michaelis, David J.	Assistant Professor	Chemistry and Biochemistry		PhD	University of Wisconsin-Madison	2009	
+	271d5073b537937e09ae422bf30dddf4		Patterson, James E.	Associate Professor	Chemistry and Biochemistry		PhD	University of Illinois at Urbana-Champaign	2004	
+	271d5073b537937e09ae422bf30dddf4		Peterson, Matt A.	Associate Professor	Chemistry and Biochemistry		PhD	University of Arizona	1992	
+	271d5073b537937e09ae422bf30dddf4		Price, John C.	Assistant Professor	Chemistry and Biochemistry		PhD	Pennsylvania State University	2005	
+	271d5073b537937e09ae422bf30dddf4		Price, Joshua L.	Assistant Professor	Chemistry and Biochemistry		PhD	University of Wisconsin, Madison	2008	
+	271d5073b537937e09ae422bf30dddf4		Savage, Paul B.	Professor	Chemistry and Biochemistry		PhD	University of Wisconsin	1993	
+	271d5073b537937e09ae422bf30dddf4		Sevy, Eric T.	Associate Professor	Chemistry and Biochemistry		PhD	Columbia University	1999	
+	271d5073b537937e09ae422bf30dddf4		Simmons, Daniel L.	Professor	Chemistry and Biochemistry		PhD	University of Wisconsin, Madison	1986	
+	271d5073b537937e09ae422bf30dddf4		Stowers, Kara J.	Assistant Professor	Chemistry and Biochemistry		PhD	University of Michigan	2012	
+	271d5073b537937e09ae422bf30dddf4		Watt, Richard K.	Associate Professor	Chemistry and Biochemistry		PhD	University of Wisconsin, Madison	1998	
+	271d5073b537937e09ae422bf30dddf4		Willardson, Barry M.	Professor	Chemistry and Biochemistry		PhD	Purdue University	1990	
+	271d5073b537937e09ae422bf30dddf4		Woodfield, Brian F.	Professor	Chemistry and Biochemistry		PhD	University of California, Berkeley	1994	
+	271d5073b537937e09ae422bf30dddf4		Woolley, Adam T.	Professor	Chemistry and Biochemistry		PhD	University of California, Berkeley	1997	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Ames, Daniel P.	Associate Professor	Civil and Environmental Engineering		PhD	Utah State University	2002	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Balling, Richard J.	Professor	Civil and Environmental Engineering		PhD	University of California, Berkeley	1982	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Borup, M. Brett	Associate Professor	Civil and Environmental Engineering		PhD	Clemson University	1985	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Fonseca, Fernando S.	Associate Professor	Civil and Environmental Engineering		PhD	University of Illinois	1997	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Franke, Kevin W.	Assistant Professor	Civil and Environmental Engineering		PhD	Brigham Young University	2011	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Guthrie, W. Spencer	Associate Professor	Civil and Environmental Engineering		PhD	Texas A&M University	2002	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Hotchkiss, Rollin H.	Professor	Civil and Environmental Engineering		PhD	University of Minnesota	1989	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Jensen, David W.	Professor	Civil and Environmental Engineering		PhD	Massachusetts Institute of Technology	1986	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Jones, Norman L.	Professor	Civil and Environmental Engineering		PhD	University of Texas, Austin	1990	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Miller, A. Woodruff	Professor	Civil and Environmental Engineering		PhD	Stanford University	1975	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Nelson, E. James	Professor	Civil and Environmental Engineering		PhD	Brigham Young University	1994	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Richards, Paul W.	Associate Professor	Civil and Environmental Engineering		PhD	University of California, San Diego	2004	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Rollins, Kyle M.	Professor	Civil and Environmental Engineering		PhD	University of California, Berkeley	1987	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Saito, Mitsuru	Professor	Civil and Environmental Engineering		PhD	Purdue University	1988	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Schultz, Grant G.	Associate Professor	Civil and Environmental Engineering		PhD	Texas A&M University	2003	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Scott, Michael Andrew	Assistant Professor	Civil and Environmental Engineering		PhD	The University of Texas at Austin	2011	
+	e01a1c92f6b1d04d55b9b8469b2ec158		Williams, Gustavious P.	Associate Professor	Civil and Environmental Engineering		PhD	Northwestern University	1994	
+	b0be54f3c57f815da1fb6f745f84203e		Brinton, Bonnie	Professor	Communication Disorders		PhD	University of Utah	1981	
+	b0be54f3c57f815da1fb6f745f84203e		Channell, Ron W.	Associate Professor	Communication Disorders		PhD	University of Utah	1983	
+	b0be54f3c57f815da1fb6f745f84203e		Culatta, Barbara	Professor	Communication Disorders		PhD	University of Pittsburgh	1975	
+	b0be54f3c57f815da1fb6f745f84203e		Dromey, Christopher	Professor	Communication Disorders		PhD	University of Colorado	1995	
+	b0be54f3c57f815da1fb6f745f84203e		Fujiki, Martin	Professor	Communication Disorders		PhD	University of Utah	1980	
+	b0be54f3c57f815da1fb6f745f84203e		Harris, Richard W.	Professor	Communication Disorders		PhD	Purdue University	1978	
+	b0be54f3c57f815da1fb6f745f84203e		McPherson, David L.	Professor	Communication Disorders		PhD	University of Washington	1972	
+	b0be54f3c57f815da1fb6f745f84203e		Nissen, Shawn L.	Associate Professor	Communication Disorders		PhD	Ohio State University	2003	
+	b0be54f3c57f815da1fb6f745f84203e		Tanner, Kristine	Assistant Professor	Communication Disorders		PhD	University of Utah	2005	
+	f54a914ca5442d0817586b39ed9891ce		Adams, Edward E.	Professor	Communications		PhD	Ohio University	1993	
+	f54a914ca5442d0817586b39ed9891ce		Boyle, Kristoffer	Assistant Professor	Communications		PhD	Texas Tech University	2008	
+	f54a914ca5442d0817586b39ed9891ce		Brubaker, Pamela	Assistant Professor	Communications		PhD	Pennsylvania State University	2012	
+	f54a914ca5442d0817586b39ed9891ce		Callahan, Loy Clark	Associate Professor	Communications		PhD	University of Oklahoma	2002	
+	f54a914ca5442d0817586b39ed9891ce		Callister, Mark A.	Associate Professor	Communications		PhD	University of Arizona	1997	
+	f54a914ca5442d0817586b39ed9891ce		Carter, Edward L.	Professor	Communications		JD	Brigham Young University	2003	
+	f54a914ca5442d0817586b39ed9891ce		Church, Scott	Assistant Professor	Communications		PhD	University of Nebraska, Lincoln	2013	
+	f54a914ca5442d0817586b39ed9891ce		Cressman, Dale L.	Associate Professor	Communications		PhD	University of Utah	2003	
+	f54a914ca5442d0817586b39ed9891ce		Cutri, Christopher	Associate Professor	Communications		MFA	Art Center College of Design	1997	
+	f54a914ca5442d0817586b39ed9891ce		Davies, John J.	Assistant Professor	Communications		PhD	University of Alabama	2004	
+	f54a914ca5442d0817586b39ed9891ce		John, Kevin	Assistant Professor	Communications		PhD	University of Utah	2015	
+	f54a914ca5442d0817586b39ed9891ce		Plowman, Kenneth	Associate Professor	Communications		PhD	University of Maryland	1995	
+	f54a914ca5442d0817586b39ed9891ce		Randle, Quint B.	Associate Professor	Communications		PhD	Michigan State University	2001	
+	f54a914ca5442d0817586b39ed9891ce		Robinson, Thomas E.	Professor	Communications		PhD	University of Southern Mississippi	1996	
+	f54a914ca5442d0817586b39ed9891ce		Thomsen, Steven R.	Professor	Communications		PhD	University of Georgia	1994	
+	f54a914ca5442d0817586b39ed9891ce		Wakefield, Robert I.	Associate Professor	Communications		PhD	University of Maryland	1997	
+	f54a914ca5442d0817586b39ed9891ce		Wilson, Christopher	Assistant Professor	Communications		PhD	University of Florida	2014	
+	840ab5046f2876f3810ec6bf46433529		Ancell, Matthew	Assistant Professor	Comparative Arts and Letters		PhD	University of California, Irvine	2007	
+	840ab5046f2876f3810ec6bf46433529		Bay, Stephen M.	Associate Professor	Comparative Arts and Letters		PhD	University of Illinois, Urbana-Champaign	2006	
+	840ab5046f2876f3810ec6bf46433529		Benfell, V. Stanley	Professor	Comparative Arts and Letters		PhD	New York University	1994	
+	840ab5046f2876f3810ec6bf46433529		Call, Michael Josiah	Assistant Professor	Comparative Arts and Letters		PhD	Yale University	2007	
+	840ab5046f2876f3810ec6bf46433529		Christenson, Allen J.	Professor	Comparative Arts and Letters		PhD	University of Texas, Austin	1998	
+	840ab5046f2876f3810ec6bf46433529		Colson, Robert L.	Assistant Professor	Comparative Arts and Letters		PhD	University of California, Irvine	2010	
+	840ab5046f2876f3810ec6bf46433529		Handley, George B.	Professor	Comparative Arts and Letters		PhD	University of California, Berkeley	1995	
+	840ab5046f2876f3810ec6bf46433529		Kramer, T. Nathaniel	Associate Professor	Comparative Arts and Letters		PhD	University of California, Los Angeles	2004	
+	840ab5046f2876f3810ec6bf46433529		Lawson, Francesca	Associate Professor	Comparative Arts and Letters		PhD	University of Washington	1988	
+	840ab5046f2876f3810ec6bf46433529		Macfarlane, Roger T.	Associate Professor	Comparative Arts and Letters		PHD	University of Michigan	1991	
+	840ab5046f2876f3810ec6bf46433529		Oscarson, Christopher	Associate Professor	Comparative Arts and Letters		PhD	University of California, Berkeley	2006	
+	840ab5046f2876f3810ec6bf46433529		Parry, Joseph D.	Professor	Comparative Arts and Letters		PhD	University of Utah	1995	
+	840ab5046f2876f3810ec6bf46433529		Peek, Cecilia M.	Associate Professor	Comparative Arts and Letters		PhD	University of California, Berkeley	2000	
+	840ab5046f2876f3810ec6bf46433529		Peer, Larry H.	Professor	Comparative Arts and Letters		PhD	University of Maryland, College Park	1969	
+	840ab5046f2876f3810ec6bf46433529		Sederholm, Carl H.	Associate Professor	Comparative Arts and Letters		PhD	University of Utah	2002	
+	840ab5046f2876f3810ec6bf46433529		Sondrup, Steven P.	Professor	Comparative Arts and Letters		PhD	Harvard University	1974	
+	840ab5046f2876f3810ec6bf46433529		Soper, Kerry D.	Associate Professor	Comparative Arts and Letters		PhD	Emory University	1998	
+	840ab5046f2876f3810ec6bf46433529		Stanford, Charlotte	Associate Professor	Comparative Arts and Letters		PhD	Pennsylvania State University	2003	
+	2c640535afad7c6b5d0429aed278eb03		Adams, R. Brent	Professor	Computer Science		MFA	University of Utah	1992	
+	2c640535afad7c6b5d0429aed278eb03		Barrett, William A.	Professor	Computer Science		PhD	University of Utah	1978	
+	2c640535afad7c6b5d0429aed278eb03		Burton, Robert P.	Professor	Computer Science		PhD	University of Utah	1973	
+	2c640535afad7c6b5d0429aed278eb03		Clement, Mark J.	Professor	Computer Science		PhD	Oregon State University	1994	
+	2c640535afad7c6b5d0429aed278eb03		Egbert, Parris K.	Professor	Computer Science		PhD	University of Illinois	1992	
+	2c640535afad7c6b5d0429aed278eb03		Farrell, Ryan	Assistant Professor	Computer Science		PhD	University of Maryland	2011	
+	2c640535afad7c6b5d0429aed278eb03		Flanagan, J. Kelly	Professor	Computer Science		PhD	Brigham Young University	1993	
+	2c640535afad7c6b5d0429aed278eb03		Giraud-Carrier, Christophe G.	Associate Professor	Computer Science		PhD	Brigham Young University	1994	
+	2c640535afad7c6b5d0429aed278eb03		Goodrich, Michael A.	Professor	Computer Science		PhD	Brigham Young University	1996	
+	2c640535afad7c6b5d0429aed278eb03		Holladay, Seth	Assistant Professor	Computer Science		PhD	Brigham Young University	2013	
+	2c640535afad7c6b5d0429aed278eb03		Jones, Michael D.	Associate Professor	Computer Science		PhD	University of Utah	2001	
+	2c640535afad7c6b5d0429aed278eb03		Martinez, Tony	Professor	Computer Science		PhD	University of California, Los Angeles	1986	
+	2c640535afad7c6b5d0429aed278eb03		Mercer, Eric G.	Associate Professor	Computer Science		PhD	University of Utah	2002	
+	2c640535afad7c6b5d0429aed278eb03		Morse, Bryan S.	Professor	Computer Science		PhD	University of North Carolina	1994	
+	2c640535afad7c6b5d0429aed278eb03		Ng, Dennis	Associate Professor	Computer Science		PhD	Kansas State University	1991	
+	2c640535afad7c6b5d0429aed278eb03		Ringger, Eric K.	Associate Professor	Computer Science		PhD	University of Rochester	2000	
+	2c640535afad7c6b5d0429aed278eb03		Seamons, Kent E.	Associate Professor	Computer Science		PhD	University of Illinois	1996	
+	2c640535afad7c6b5d0429aed278eb03		Sederberg, Thomas W.	Professor	Computer Science		PhD	Purdue University	1983	
+	2c640535afad7c6b5d0429aed278eb03		Seppi, Kevin	Professor	Computer Science		PhD	University of Texas	1990	
+	2c640535afad7c6b5d0429aed278eb03		Snell, Quinn O.	Professor	Computer Science		PhD	Iowa State University	1997	
+	2c640535afad7c6b5d0429aed278eb03		Ventura, Dan	Professor	Computer Science		PhD	Brigham Young University	1998	
+	2c640535afad7c6b5d0429aed278eb03		Warnick, Sean C.	Associate Professor	Computer Science		PhD	Massachusetts Institute of Technology	2003	
+	2c640535afad7c6b5d0429aed278eb03		Zappala, Daniel M. A.	Associate Professor	Computer Science		PhD	University of Southern California	1990	
+	30f91fe9d8d31a5e4fc451d290e6180e		Allen, G.E. Kawika	Assistant Professor	Counseling Psychology and Special Education		PhD	University of Missouri Columbia	2011	
+	30f91fe9d8d31a5e4fc451d290e6180e		Beecher, Mark E.	Clinical Professor	Counseling Psychology and Special Education		PhD	Brigham Young University	1998	
+	30f91fe9d8d31a5e4fc451d290e6180e		Caldarella, Paul	Associate Professor	Counseling Psychology and Special Education		PhD	Utah State University	1998	
+	30f91fe9d8d31a5e4fc451d290e6180e		Dyches, Tina T.	Professor	Counseling Psychology and Special Education		EdD	Illinois State University	1995	
+	30f91fe9d8d31a5e4fc451d290e6180e		Fischer, Lane	Associate Professor	Counseling Psychology and Special Education		PhD	University of Minnesota	1991	
+	30f91fe9d8d31a5e4fc451d290e6180e		Gabrielsen, Terisa	Assistant Professor	Counseling Psychology and Special Education		PhD	University of Utah	2012	
+	30f91fe9d8d31a5e4fc451d290e6180e		Gibb, Gordon S.	Associate Professor	Counseling Psychology and Special Education		PhD	University of Utah	1994	
+	30f91fe9d8d31a5e4fc451d290e6180e		Gleave, Robert L.	Clinical Professor	Counseling Psychology and Special Education		PhD	Brigham Young University	1981	
+	30f91fe9d8d31a5e4fc451d290e6180e		Griner, Derek	Assistant Clinical Professor	Counseling Psychology and Special Education		PhD	Brigham Young University	2008	
+	30f91fe9d8d31a5e4fc451d290e6180e		Hansen, Blake	Assistant Professor	Counseling Psychology and Special Education		PhD	University of Kansas	2010	
+	30f91fe9d8d31a5e4fc451d290e6180e		Heath, Melissa Allen	Associate Professor	Counseling Psychology and Special Education		PhD	Texas A&M University	1996	
+	30f91fe9d8d31a5e4fc451d290e6180e		Jackson, Aaron P.	Associate Professor	Counseling Psychology and Special Education		PhD	University of Missouri, Columbia	1993	
+	30f91fe9d8d31a5e4fc451d290e6180e		Kellems, Ryan	Assistant Professor	Counseling Psychology and Special Education		PhD	University of Kansas	2011	
+	30f91fe9d8d31a5e4fc451d290e6180e		Knestel, Andrea	Assistant Clinical Professor	Counseling Psychology and Special Education		PhD	Syracuse University	2010	
+	30f91fe9d8d31a5e4fc451d290e6180e		Prater, Mary Anne	Professor	Counseling Psychology and Special Education		PhD	Utah State University	1987	
+	30f91fe9d8d31a5e4fc451d290e6180e		Richards, P. Scott	Professor	Counseling Psychology and Special Education		PhD	University of Minnesota	1988	
+	30f91fe9d8d31a5e4fc451d290e6180e		Scharman, Janet S.	Associate Clinical Professor	Counseling Psychology and Special Education		PhD	University of Utah	1992	
+	30f91fe9d8d31a5e4fc451d290e6180e		Smith, Timothy B.	Professor	Counseling Psychology and Special Education		PhD	Utah State University	1997	
+	30f91fe9d8d31a5e4fc451d290e6180e		Worthen, Vaughn E.	Clinical Professor	Counseling Psychology and Special Education		PhD	University of Kansas	1993	
+	30f91fe9d8d31a5e4fc451d290e6180e		Young, Ellie L.	Associate Professor	Counseling Psychology and Special Education		PhD	University of South Florida	2001	
+	30f91fe9d8d31a5e4fc451d290e6180e		Young, K. Richard	Professor	Counseling Psychology and Special Education		PhD	University of Utah	1973	
+	5eb625c647de76915f2b28b5643ff96f		Boren, David M.	Assistant Clinical Professor	Educational Leadership and Foundations		PhD	Brigham Young University	2010	
+	5eb625c647de76915f2b28b5643ff96f		Ferrin, Scott E.	Professor	Educational Leadership and Foundations		EdD	Harvard University	1996	
+	5eb625c647de76915f2b28b5643ff96f		Geo-JaJa, MacLeans A.	Professor	Educational Leadership and Foundations		PhD	University of Utah	1986	
+	5eb625c647de76915f2b28b5643ff96f		Hallam, Pamela	Associate Professor	Educational Leadership and Foundations		PhD	University of Utah	2006	
+	5eb625c647de76915f2b28b5643ff96f		Hilton, Sterling C.	Associate Professor	Educational Leadership and Foundations		PhD	Johns Hopkins University	1996	
+	5eb625c647de76915f2b28b5643ff96f		Hite, Julie M.	Professor	Educational Leadership and Foundations		PhD	University of Utah	1999	
+	5eb625c647de76915f2b28b5643ff96f		Hite, Steven J.	Professor	Educational Leadership and Foundations		EdD	Harvard University	1985	
+	5eb625c647de76915f2b28b5643ff96f		Mayes, Clifford T.	Professor	Educational Leadership and Foundations		PhD	University of Utah	1997	
+	5eb625c647de76915f2b28b5643ff96f		Randall, E. Vance	Professor	Educational Leadership and Foundations		PhD	Cornell University	1989	
+	5eb625c647de76915f2b28b5643ff96f		Richards, A. LeGrand	Associate Professor	Educational Leadership and Foundations		PhD	Brigham Young University	1982	
+	c68ddbd4c44322082a56b8188822e017		Archibald, James K.	Professor	Electrical and Computer Engineering		PhD	University of Washington	1987	
+	c68ddbd4c44322082a56b8188822e017		Bangerter, Neal K.	Associate Professor	Electrical and Computer Engineering		PhD	Stanford University	2004	
+	c68ddbd4c44322082a56b8188822e017		Beard, Randal W.	Professor	Electrical and Computer Engineering		PhD	Rensselaer Polytechnic Institute	1995	
+	c68ddbd4c44322082a56b8188822e017		Comer, David J.	Professor	Electrical and Computer Engineering		PhD	Washington State University	1966	
+	c68ddbd4c44322082a56b8188822e017		Hawkins, Aaron R.	Professor	Electrical and Computer Engineering		PhD	University of California, Santa Barbara	1998	
+	c68ddbd4c44322082a56b8188822e017		Hutchings, Brad L.	Professor	Electrical and Computer Engineering		PhD	University of Utah	1992	
+	c68ddbd4c44322082a56b8188822e017		Jeffs, Brian D.	Professor	Electrical and Computer Engineering		PhD	University of Southern California	1989	
+	c68ddbd4c44322082a56b8188822e017		Jensen, Michael A.	Professor	Electrical and Computer Engineering		PhD	University of California, Los Angeles	1994	
+	c68ddbd4c44322082a56b8188822e017		Lee, D. J.	Professor	Electrical and Computer Engineering		PhD	Texas Tech University	1990	
+	c68ddbd4c44322082a56b8188822e017		Long, David G.	Professor	Electrical and Computer Engineering		PhD	University of Southern California	1989	
+	c68ddbd4c44322082a56b8188822e017		Mazzeo, Brian A.	Assistant Professor	Electrical and Computer Engineering		PhD	University of Cambridge	2008	
+	c68ddbd4c44322082a56b8188822e017		Nelson, Brent E.	Professor	Electrical and Computer Engineering		PhD	University of Utah	1984	
+	c68ddbd4c44322082a56b8188822e017		Nordin, Gregory P.	Professor	Electrical and Computer Engineering		PhD	University of Southern California	1992	
+	c68ddbd4c44322082a56b8188822e017		Penry, David A.	Associate Professor	Electrical and Computer Engineering		PhD	Princeton University	2006	
+	c68ddbd4c44322082a56b8188822e017		Rice, Michael	Professor	Electrical and Computer Engineering		PhD	Georgia Institute of Technology	1991	
+	c68ddbd4c44322082a56b8188822e017		Schultz, Stephen M.	Professor	Electrical and Computer Engineering		PhD	Georgia Institute of Technology	1999	
+	c68ddbd4c44322082a56b8188822e017		Selfridge, Richard H.	Professor	Electrical and Computer Engineering		PhD	University of California, Davis	1984	
+	c68ddbd4c44322082a56b8188822e017		Stirling, Wynn C.	Professor	Electrical and Computer Engineering		PhD	Stanford University	1983	
+	c68ddbd4c44322082a56b8188822e017		Warnick, Karl	Professor	Electrical and Computer Engineering		PhD	Brigham Young University	1997	
+	c68ddbd4c44322082a56b8188822e017		Wilde, Doran	Associate Professor	Electrical and Computer Engineering		PhD	Oregon State University	1995	
+	c68ddbd4c44322082a56b8188822e017		Wirthlin, Michael J.	Professor	Electrical and Computer Engineering		PhD	Brigham Young University	1997	
+	5680fcc308ec5113dc70387714c056ae		Bennion, John S.	Associate Professor	English		PhD	University of Houston	1989	
+	5680fcc308ec5113dc70387714c056ae		Boswell, Grant M.	Associate Professor	English		PhD	University of Southern California	1985	
+	5680fcc308ec5113dc70387714c056ae		Burton, Gideon O.	Assistant Professor	English		PhD	University of Southern California	1994	
+	5680fcc308ec5113dc70387714c056ae		Christiansen, Nancy L.	Associate Professor	English		PhD	University of California, Los Angeles	1994	
+	5680fcc308ec5113dc70387714c056ae		Christianson, Frank	Associate Professor	English		PhD	Brown University	2004	
+	5680fcc308ec5113dc70387714c056ae		Clark, Gregory D.	Professor	English		PhD	Rensselaer Polytechnic Institute	1985	
+	5680fcc308ec5113dc70387714c056ae		Coombs, Dawan Lynn	Assistant Professor	English		PhD	University of Georgia	2012	
+	5680fcc308ec5113dc70387714c056ae		Crisler, Jesse S.	Professor	English		PhD	University of South Carolina	1973	
+	5680fcc308ec5113dc70387714c056ae		Crowe, Christopher E.	Professor	English		EdD	Arizona State University	1986	
+	5680fcc308ec5113dc70387714c056ae		Cutchins, Dennis R.	Associate Professor	English		PhD	Florida State University	1997	
+	5680fcc308ec5113dc70387714c056ae		Cutler, Edward S.	Associate Professor	English		PhD	University of California, San Diego	1997	
+	5680fcc308ec5113dc70387714c056ae		Dean, Deborah M.	Professor	English		PhD	Seattle Pacific University	1999	
+	5680fcc308ec5113dc70387714c056ae		Duerden, Richard Y.	Associate Professor	English		PhD	University of Chicago	1989	
+	5680fcc308ec5113dc70387714c056ae		Eastley, Aaron	Associate Professor	English		PhD	University of California, San Diego	2003	
+	5680fcc308ec5113dc70387714c056ae		Eliason, Eric A.	Professor	English		PhD	University of Texas, Austin	1998	
+	5680fcc308ec5113dc70387714c056ae		Esplin, Emron	Assistant Professor	English		PhD	Michigan State University	2008	
+	5680fcc308ec5113dc70387714c056ae		Eyring, Mary	Assistant Professor	English		PhD	University of California, San Diego	2012	
+	5680fcc308ec5113dc70387714c056ae		Franklin, Joseph C.	Assistant Professor	English		PhD	Texas Tech University	2012	
+	5680fcc308ec5113dc70387714c056ae		Grierson, Sirpa T.	Associate Professor	English		PhD	University of Southern Mississippi	1996	
+	5680fcc308ec5113dc70387714c056ae		Hall, William	Assistant Professor	English		PhD	University of California at Santa Barbara	2010	
+	5680fcc308ec5113dc70387714c056ae		Hansen, Kristine	Professor	English		PhD	University of Texas, Austin	1987	
+	5680fcc308ec5113dc70387714c056ae		Hickman, Trenton L.	Associate Professor	English		PhD	State University of New York, Stony Brook	2000	
+	5680fcc308ec5113dc70387714c056ae		Horrocks, Jamie	Assistant Professor	English		PhD	Indiana University	2010	
+	5680fcc308ec5113dc70387714c056ae		Jackson, Brian D.	Associate Professor	English		PhD	University of Arizona	2007	
+	5680fcc308ec5113dc70387714c056ae		Johnson, Kim	Professor	English		PhD	University of California, Berkeley	2003	
+	5680fcc308ec5113dc70387714c056ae		Kerr, Jason	Assistant Professor	English		PhD	Boston College	2011	
+	5680fcc308ec5113dc70387714c056ae		Larsen, Lance E.	Professor	English		PhD	University of Houston	1993	
+	5680fcc308ec5113dc70387714c056ae		Lavers, Michael	Assistant Professor	English		PhD	University of Utah	2015	
+	5680fcc308ec5113dc70387714c056ae		Lawrence, A. Keith	Associate Professor	English		PhD	University of Southern California	1987	
+	5680fcc308ec5113dc70387714c056ae		Leman, Peter D.	Assistant Professor	English		PhD	UC Irvine	2011	
+	5680fcc308ec5113dc70387714c056ae		Madden, Patrick	Associate Professor	English		PhD	Ohio University	2004	
+	5680fcc308ec5113dc70387714c056ae		Mason, Nicholas A.	Professor	English		PhD	State University of New York at Stony Brook	1999	
+	5680fcc308ec5113dc70387714c056ae		Matthews, Kristin	Associate Professor	English		PhD	University of Wisconsin, Madison	2004	
+	5680fcc308ec5113dc70387714c056ae		McInelly, Brett C.	Professor	English		PhD	University of Cincinnati	2000	
+	5680fcc308ec5113dc70387714c056ae		Muhlestein, Daniel K.	Assistant Professor	English		PhD	Rice University	1992	
+	5680fcc308ec5113dc70387714c056ae		Ostenson, Jonathan	Assistant Professor	English		PhD	University of Utah	2010	
+	5680fcc308ec5113dc70387714c056ae		Paul, Danette	Associate Professor	English		PhD	Pennsylvania State University	1996	
+	5680fcc308ec5113dc70387714c056ae		Perry, Dennis R.	Associate Professor	English		PhD	University of Wisconsin, Madison	1986	
+	5680fcc308ec5113dc70387714c056ae		Petersen, Zina N.	Associate Professor	English		PhD	Catholic University	1997	
+	5680fcc308ec5113dc70387714c056ae		Roberts, Brian R.	Assistant Professor	English		PhD	University of Virginia	2008	
+	5680fcc308ec5113dc70387714c056ae		Rowan, Jamin	Assistant Professor	English		PhD	Boston College	2008	
+	5680fcc308ec5113dc70387714c056ae		Rudy, Jill T.	Associate Professor	English		PhD	Indiana University	1997	
+	5680fcc308ec5113dc70387714c056ae		Siegfried, Brandie R.	Associate Professor	English		PhD	Brandeis University	1993	
+	5680fcc308ec5113dc70387714c056ae		Snyder, Phillip A.	Associate Professor	English		PhD	University of North Carolina, Chapel Hill	1988	
+	5680fcc308ec5113dc70387714c056ae		Stock, David	Assistant Professor	English		PhD	University of Wisconsin-Madison	2012	
+	5680fcc308ec5113dc70387714c056ae		Talbot, John C.	Associate Professor	English		PhD	Boston University	2001	
+	5680fcc308ec5113dc70387714c056ae		Thorne-Murphy, Leslee	Associate Professor	English		PhD	Brandeis University	2001	
+	5680fcc308ec5113dc70387714c056ae		Thursby, Jacqueline	Professor	English		PhD	Bowling Green State University	1994	
+	5680fcc308ec5113dc70387714c056ae		Tuttle, Stephen B.	Associate Professor	English		PhD	University of Utah	2006	
+	5680fcc308ec5113dc70387714c056ae		Watts, Jarica	Assistant Professor	English		PhD	University of Utah	2011	
+	5680fcc308ec5113dc70387714c056ae		Westover, Paul	Assistant Professor	English		PhD	Indiana University	2008	
+	5680fcc308ec5113dc70387714c056ae		Wickman, Matthew F.	Associate Professor	English		PhD	University of California, Los Angeles	2000	
+	5680fcc308ec5113dc70387714c056ae		Wilcox, Miranda	Assistant Professor	English		PhD	Notre Dame University	2006	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Bailey, Bruce W.	Associate Professor	Exercise Sciences		PhD	University of Kansas	2005	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Bruening, Dustin A.	Assistant P:rofessor	Exercise Sciences		PhD	University of Delaware	2009	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Davidson, Lance	Assistant Professor	Exercise Sciences		PhD	Queens University	2007	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Draper, David O.	Professor	Exercise Sciences		EdD	Northern Illinois University	1988	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Feland, J. Brent	Associate Professor	Exercise Sciences		PhD, PT	Brigham Young University	1999	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		George, James D.	Associate Professor	Exercise Sciences		PhD	Arizona State University	1995	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Hager, Ronald Lee	Associate Professor	Exercise Sciences		PhD	Arizona State University	1997	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Hopkins, J. Tyson	Professor	Exercise Sciences		PhD	Indiana State University	2000	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Hunter, Iain	Professor	Exercise Sciences		PhD	Oregon State University	2001	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Hyldahl, Robert D.	Assistant Professor	Exercise Sciences		PhD	University of Massachusetts Amherst	2011	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Johnson, A. Wayne	Associate Professor	Exercise Sciences		PhD, PT	Brigham Young University	2007	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		LeCheminant, James D.	Associate Professor	Exercise Sciences		PhD	University of Kansas	2005	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Mack, Gary W.	Professor	Exercise Sciences		PhD	University of Hawaii	1984	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Mitchell, Ulrike H.	Assistant Professor	Exercise Sciences		PhD, PT	Brigham Young University	2005	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Myrer, J. William	Professor	Exercise Sciences		PhD	Brigham Young University	1983	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Parcell, Allen C.	Professor	Exercise Sciences		PhD	Ball State University	1998	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Ridge, Sarah T.	Assistant Professor	Exercise Sciences		PhD	University of Delaware	2010	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Seeley, Matt	Associate Professor	Exercise Sciences		PhD	University of Kentucky	2006	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Tucker, Larry A.	Professor	Exercise Sciences		PhD	Southern Illinois University	1981	
+	2a4c4ce71ea3372d9c5ddf616fc1fbb0		Vehrs, Pat R.	Associate Professor	Exercise Sciences		PhD	Brigham Young University	1991	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Bean, Roy A.	Associate Professor	Family Life		PhD	Brigham Young University	1997	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Bradford, Angela B.	Assistant Professor	Family Life		PhD	Auburn University	2012	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Busby, Dean M.	Professor	Family Life		PhD	Brigham Young University	1990	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Butler, Mark	Professor	Family Life		PhD	Texas Tech University	1996	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Carroll, Jason S.	Professor	Family Life		PhD	University of Minnesota	2001	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Coyne, Sarah	Associate Professor	Family Life		PhD	University of Central Lancashire	2004	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Crane, D. Russell	Professor	Family Life		PhD	Brigham Young University	1979	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Dollahite, David C.	Professor	Family Life		PhD	University of Minnesota	1988	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Draper, Thomas W.	Professor	Family Life		PhD	Emory University	1976	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Duncan, Stephen F.	Professor	Family Life		PhD	Purdue University	1988	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Dyer, W. Justin	Assistant Professor	Family Life		PhD	University of Illinois	2009	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Harper, James M.	Professor	Family Life		PhD	University of Minnesota, Minneapolis	1979	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Hart, Craig H.	Professor	Family Life		PhD	Purdue University	1987	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Hawkins, Alan J.	Professor	Family Life		PhD	Pennsylvania State University	1990	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Hill, Jeff	Professor	Family Life		PhD	Utah State University	1995	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Holmes, Erin K.	Associate Professor	Family Life		PhD	University of Texas at Austin	2006	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		James, Spencer L.	Assistant Professor	Family Life		PhD	Pennsylvania State University	2012	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Johnson, Lee	Assistant Professor	Family Life		PhD	Kansas State University	1998	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Larson, Jeffry H.	Professor	Family Life		PhD	Texas Tech University	1980	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Lee, Chien-ti	Assistant Professor	Family Life		PhD	Utah State University	2010	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Miller, Richard	Professor	Family Life		PhD	University of Southern California	1989	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Nelson, David A.	Professor	Family Life		PhD	University of Minnesota Institute of Child Develop	1999	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Nelson, Larry J.	Professor	Family Life		PhD	University of Maryland	2000	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Padilla-Walker, Laura	Associate Professor	Family Life		PhD	University of Nebraska, Lincoln	2005	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Porter, Chris	Associate Professor	Family Life		PhD	Purdue University	1996	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Robinson, Clyde C.	Associate Professor	Family Life		PhD	University of North Carolina, Greensboro	1982	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Roper, Susanne Olsen	Associate Professor	Family Life		PhD	University of Georgia	1992	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Sandberg, Jonathan G.	Professor	Family Life		PhD	Kansas State University	1998	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Willoughby, Brian J.	Assistant Professor	Family Life		PhD	University of Minnesota	2009	
+	aa4f2014c5a2b86bffa5b643cbaef0c0		Yorgason, Jeremy B.	Associate Professor	Family Life		PhD	Virginia Tech	2003	
+	788f519b1087a7f3378a0a252ed968c2		Cropper, Corry	Professor	French and Italian		PhD	University of Illinois	1998	
+	788f519b1087a7f3378a0a252ed968c2		Erickson, Robert G.	Assistant Professor	French and Italian		PhD	Brigham Young University	2000	
+	788f519b1087a7f3378a0a252ed968c2		Flood, Christopher	Assistant Professor	French and Italian		PhD	University of California, Los Angeles	2013	
+	788f519b1087a7f3378a0a252ed968c2		Hudson, Robert J.	Assistant Professor	French and Italian		PhD	University of California, Los Angeles	2008	
+	788f519b1087a7f3378a0a252ed968c2		LeBras, Yvon	Professor	French and Italian		PhD	Laval University	1992	
+	788f519b1087a7f3378a0a252ed968c2		Lee, Daryl	Associate Professor	French and Italian		PhD	Yale University	1999	
+	788f519b1087a7f3378a0a252ed968c2		Olivier, Marc	Associate Professor	French and Italian		PhD	University of Washington	1999	
+	788f519b1087a7f3378a0a252ed968c2		Phenix, Sara	Assistant Professor	French and Italian		PhD	University of Pennsylvania	2013	
+	788f519b1087a7f3378a0a252ed968c2		Sprenger, Anca Mitroi	Associate Professor	French and Italian		PhD	University of Southern California	1997	
+	788f519b1087a7f3378a0a252ed968c2		Unlandt, Nicolaas G. W.	Associate Professor	French and Italian		DLitt	University of Amsterdam, Netherlands	1992	
+	7079d9c8fdecee2e9308aae3793d9716		Bickmore, Barry R.	Professor	Geological Sciences		PhD	Virginia Polytechnical Institute and State University	1999	
+	7079d9c8fdecee2e9308aae3793d9716		Britt, Brooks B.	Associate Professor	Geological Sciences		PhD	University of Calgary, Canada	1993	
+	7079d9c8fdecee2e9308aae3793d9716		Carling, Gregory T.	Assistant Professor	Geological Sciences		PhD	University of Utah	2012	
+	7079d9c8fdecee2e9308aae3793d9716		Christiansen, Eric H.	Professor	Geological Sciences		PhD	Arizona State University	1981	
+	7079d9c8fdecee2e9308aae3793d9716		Dorais, Michael J.	Research Professor	Geological Sciences		PhD	University of Georgia	1987	
+	7079d9c8fdecee2e9308aae3793d9716		Harris, Ron	Professor	Geological Sciences		PhD	University of London, England	1989	
+	7079d9c8fdecee2e9308aae3793d9716		Keith, Jeffrey D.	Professor	Geological Sciences		PhD	University of Wisconsin	1982	
+	7079d9c8fdecee2e9308aae3793d9716		Kowallis, Bart J.	Professor	Geological Sciences		PhD	University of Wisconsin, Madison	1981	
+	7079d9c8fdecee2e9308aae3793d9716		McBride, John H.	Professor	Geological Sciences		PhD	Cornell University	1987	
+	7079d9c8fdecee2e9308aae3793d9716		Morris, Thomas H.	Professor	Geological Sciences		PhD	University of Wisconsin, Madison	1986	
+	7079d9c8fdecee2e9308aae3793d9716		Nelson, Stephen T.	Professor	Geological Sciences		PhD	University of California, Los Angeles	1991	
+	7079d9c8fdecee2e9308aae3793d9716		Radebaugh, Jani	Associate Professor	Geological Sciences		PhD	University of Arizona	2005	
+	7079d9c8fdecee2e9308aae3793d9716		Ritter, Scott M.	Professor	Geological Sciences		PhD	University of Wisconsin, Madison	1986	
+	7079d9c8fdecee2e9308aae3793d9716		Rupper, Summer B.	Associate Professor	Geological Sciences		PhD	University of Washington	2007	
+	08e55260316f52656946a77d6203d59a		Barnes, Michael D.	Professor	Health Science		PhD	Southern Illinois University	1993	
+	08e55260316f52656946a77d6203d59a		Chaney, Robbie	Assistant Professor	Health Science		PhD	University of Cincinnati	2014	
+	08e55260316f52656946a77d6203d59a		Cole, Eugene C.	Professor	Health Science		DrPH	University of North Carolina	1983	
+	08e55260316f52656946a77d6203d59a		Crookston, Benjamin T.	Assistant Professor	Health Science		PhD	University of Utah	2009	
+	08e55260316f52656946a77d6203d59a		Hall, P. Cougar	Associate Professor	Health Science		PhD	University of Utah	2008	
+	08e55260316f52656946a77d6203d59a		Hanson, Carl L.	Professor	Health Science		PhD	Southern Illinois University	1994	
+	08e55260316f52656946a77d6203d59a		Johnston, James D.	Assistant Professor	Health Science		PhD	University of Utah	2010	
+	08e55260316f52656946a77d6203d59a		Lindsay, Gordon B.	Professor	Health Science		PhD	Ohio State University	1984	
+	08e55260316f52656946a77d6203d59a		Magnusson, Brianna M.	Assistant Professor	Health Science		PhD	Virginia Commonwealth University	2011	
+	08e55260316f52656946a77d6203d59a		Merrill, Ray M.	Professor	Health Science		PhD	Arizona State University	1994	
+	08e55260316f52656946a77d6203d59a		Neiger, Brad L.	Professor	Health Science		PhD	University of Utah	1991	
+	08e55260316f52656946a77d6203d59a		Novilla, M. Lelinneth	Associate Professor	Health Science		MD	University of the City of Manila	1990	
+	08e55260316f52656946a77d6203d59a		Page, Randy M.	Professor	Health Science		PhD	Southern Illinois University	1982	
+	08e55260316f52656946a77d6203d59a		Sloan, Chantel D.	Assistant Professor	Health Science		PhD	Dartmouth College	2009	
+	08e55260316f52656946a77d6203d59a		Thacker, Evan L.	Assistant Professor	Health Science		PhD	University of Washington	2011	
+	08e55260316f52656946a77d6203d59a		Thackeray, Rosemary	Professor	Health Science		PhD	University of Utah	2000	
+	08e55260316f52656946a77d6203d59a		Thygerson, Steven M.	Assistant Professor	Health Science		PhD	Colorado State University	2006	
+	08e55260316f52656946a77d6203d59a		West, Joshua	Assistant Professor	Health Science		PhD	University of California, San Diego	2008	
+	564b8b635c1056f4994ac45b4c9cd849		Albrecht, Conan	Associate Professor	Information Systems		PhD	University of Arizona	2000	
+	564b8b635c1056f4994ac45b4c9cd849		Allen, Gove	Associate Professor	Information Systems		PhD	University of Minnesota	2001	
+	564b8b635c1056f4994ac45b4c9cd849		Anderson, Bonnie B.	Associate Professor	Information Systems		PhD	Carnegie Mellon University	2001	
+	564b8b635c1056f4994ac45b4c9cd849		Dean, Douglas L.	Associate Professor	Information Systems		PhD	University of Arizona	1995	
+	564b8b635c1056f4994ac45b4c9cd849		Liddle, Stephen W.	Professor	Information Systems		PhD	Brigham Young University	1995	
+	564b8b635c1056f4994ac45b4c9cd849		Meservy, Rayman D.	Associate Professor	Information Systems		PhD	University of Minnesota	1985	
+	564b8b635c1056f4994ac45b4c9cd849		Romney, Marshall B.	Professor	Information Systems		PhD	University of Texas, Austin	1977	
+	564b8b635c1056f4994ac45b4c9cd849		Vance, Anthony	Associate Professor	Information Systems		PhD	Georgia State University	2009	
+	f9270c1710d67fcacc2c8b217b3a3177		Bush, Michael D.	Associate Professor	Instructional Psychology and Technology		PhD	Ohio State	1983	
+	f9270c1710d67fcacc2c8b217b3a3177		Davies, Randall S.	Assistant Professor	Instructional Psychology and Technology		PhD	Brigham Young University	2002	
+	f9270c1710d67fcacc2c8b217b3a3177		Gibbons, Andrew S.	Professor	Instructional Psychology and Technology		PhD	Brigham Young University	1974	
+	f9270c1710d67fcacc2c8b217b3a3177		Graham, Charles R.	Professor	Instructional Psychology and Technology		PhD	Indiana University	2002	
+	f9270c1710d67fcacc2c8b217b3a3177		Larsen, Ross A.	Assistant Professor	Instructional Psychology and Technology		PhD	Texas A&M	2014	
+	f9270c1710d67fcacc2c8b217b3a3177		Rich, Peter J.	Associate Professor	Instructional Psychology and Technology		PhD	University of Georgia	2007	
+	f9270c1710d67fcacc2c8b217b3a3177		Sudweeks, Richard R.	Professor	Instructional Psychology and Technology		PhD	University of Illinois	1978	
+	f9270c1710d67fcacc2c8b217b3a3177		West, Richard E.	Associate Professor	Instructional Psychology and Technology		PhD	University of Georgia	2009	
+	f9270c1710d67fcacc2c8b217b3a3177		Williams, David D.	Professor	Instructional Psychology and Technology		PhD	University of Colorado	1981	
+	f9270c1710d67fcacc2c8b217b3a3177		Yanchar, Stephen	Associate Professor	Instructional Psychology and Technology		PhD	Brigham Young University	1997	
+	69174b2ce4c788e2e43ca68fb1a15438		Bateman, Blair	Associate Professor	Language Studies, Center for		PhD	University of Minnesota	2002	
+	69174b2ce4c788e2e43ca68fb1a15438		Bell, Teresa	Assistant Professor	Language Studies, Center for		PhD	University of Arizona	2001	
+	69174b2ce4c788e2e43ca68fb1a15438		Belnap, Kirk	Professor	Language Studies, Center for		PhD	University of Pennsylvania	1991	
+	69174b2ce4c788e2e43ca68fb1a15438		Bourgerie, Dana	Professor	Language Studies, Center for		PhD	Ohio State University	1991	
+	69174b2ce4c788e2e43ca68fb1a15438		Bown, Jennifer	Associate Professor	Language Studies, Center for		PhD	Ohio State University	2004	
+	69174b2ce4c788e2e43ca68fb1a15438		Christensen, Matthew	Professor	Language Studies, Center for		PhD	Ohio State University	1994	
+	69174b2ce4c788e2e43ca68fb1a15438		Clifford, Ray	Associate Dean; Professor	Language Studies, Center for		PhD	University of Minnesota	1977	
+	69174b2ce4c788e2e43ca68fb1a15438		Damron, Julie	Assistant Professor	Language Studies, Center for		PhD	Purdue University	2000	
+	69174b2ce4c788e2e43ca68fb1a15438		Dewey, Dan	Associate Professor	Language Studies, Center for		PhD	Carnegie Mellon University	2001	
+	69174b2ce4c788e2e43ca68fb1a15438		Eggington, Bill	Professor	Language Studies, Center for		PhD	University of Southern California	1985	
+	69174b2ce4c788e2e43ca68fb1a15438		Erickson, Robert	Assistant Professor	Language Studies, Center for		PhD	Brigham Young University	2000	
+	69174b2ce4c788e2e43ca68fb1a15438		Henrichsen, Lynn	Professor	Language Studies, Center for		EdD	University of Hawaii	1987	
+	69174b2ce4c788e2e43ca68fb1a15438		Knapp, Nieves	Associate Teaching Professor	Language Studies, Center for		PhD	University of Oviedo Spain	2003	
+	69174b2ce4c788e2e43ca68fb1a15438		Lundberg, Grant	Professor	Language Studies, Center for		PhD	University of Kansas	1999	
+	69174b2ce4c788e2e43ca68fb1a15438		Martinsen, Rob	Associate Professor	Language Studies, Center for		PhD	University of Texas	2007	
+	69174b2ce4c788e2e43ca68fb1a15438		Montgomery, Cherice	Assistant Professor	Language Studies, Center for		PhD	Michigan State University	2009	
+	69174b2ce4c788e2e43ca68fb1a15438		Moody, Stephen	Assistant Professor	Language Studies, Center for		PhD	University of Hawaii	2014	
+	69174b2ce4c788e2e43ca68fb1a15438		Parkinson, Dilworth	Professor	Language Studies, Center for		PhD	University of Michigan	1975	
+	69174b2ce4c788e2e43ca68fb1a15438		Sememoe, Wendy	Associate Professor	Language Studies, Center for		PhD	University of Illinois	2002	
+	69174b2ce4c788e2e43ca68fb1a15438		Smith, Laura	Associate Professor	Language Studies, Center for		PhD	University of Wisconsin	2004	
+	69174b2ce4c788e2e43ca68fb1a15438		Tanner, Mark	Assistant Professor	Language Studies, Center for		PhD	University of Pennsylvania	1991	
+	69174b2ce4c788e2e43ca68fb1a15438		Thompson, Greg	Associate Professor	Language Studies, Center for		PhD	University of Arizona	2006	
+	69174b2ce4c788e2e43ca68fb1a15438		Warnick, Paul	Associate Professor	Language Studies, Center for		PhD	Ohio State University	1996	
+	69174b2ce4c788e2e43ca68fb1a15438		Watabe, Masakazu	Professor	Language Studies, Center for		PhD	University of Southern California	1978	
+	6842e936a174dc3621ea96b62357cdac		Anderson, Curtis	Associate Teaching Professor of Law	Law School, J. Reuben Clark		JD	Brigham Young University	1994	
+	f99b39a75616ba2e3c950f496f18b8c0		Chapman, Don W.	Associate Professor	Linguistics and English Language		PhD	University of Toronto, Canada	1995	
+	f99b39a75616ba2e3c950f496f18b8c0		Clifford, Ray T.	Associate Dean	Linguistics and English Language		PhD	University of Minnesota, Minneapolis	1977	
+	f99b39a75616ba2e3c950f496f18b8c0		Davies, Mark	Professor	Linguistics and English Language		PhD	University of Texas, Austin	1992	
+	f99b39a75616ba2e3c950f496f18b8c0		Dewey, Dan	Associate Professor	Linguistics and English Language		PhD	Carnegie Mellon	2002	
+	f99b39a75616ba2e3c950f496f18b8c0		Eddington, David	Professor	Linguistics and English Language		PhD	University of Texas, Austin	1993	
+	f99b39a75616ba2e3c950f496f18b8c0		Eggington, William G.	Professor	Linguistics and English Language		PhD	University of South California	1985	
+	f99b39a75616ba2e3c950f496f18b8c0		Elzinga, Dirk A.	Associate Professor	Linguistics and English Language		PhD	University of Arizona	1999	
+	f99b39a75616ba2e3c950f496f18b8c0		Evans, Norman	Associate Professor	Linguistics and English Language		EdD	University of Southern California	2001	
+	f99b39a75616ba2e3c950f496f18b8c0		Gardner, Dee	Professor	Linguistics and English Language		PhD	Northern Arizona University	1999	
+	f99b39a75616ba2e3c950f496f18b8c0		Hallen, Cynthia	Associate Professor	Linguistics and English Language		PhD	University of Arizona	1991	
+	f99b39a75616ba2e3c950f496f18b8c0		Henrichsen, Lynn E.	Professor	Linguistics and English Language		EdD	University of Hawaii	1987	
+	f99b39a75616ba2e3c950f496f18b8c0		Lonsdale, Deryle	Associate Professor	Linguistics and English Language		PhD	Carnegie Mellon University	1997	
+	f99b39a75616ba2e3c950f496f18b8c0		Manning, Alan	Professor	Linguistics and English Language		PhD	Louisiana State University	1988	
+	f99b39a75616ba2e3c950f496f18b8c0		Nuckolls, Janis	Professor	Linguistics and English Language		PhD	University of Chicago	1990	
+	f99b39a75616ba2e3c950f496f18b8c0		Oaks, Dallin D.	Associate Professor	Linguistics and English Language		PhD	Purdue University	1990	
+	f99b39a75616ba2e3c950f496f18b8c0		Skousen, Royal	Professor	Linguistics and English Language		PhD	University of Illinois	1972	
+	f99b39a75616ba2e3c950f496f18b8c0		Baker Smemoe, Wendy	Associate Professor	Linguistics and English Language		PhD	University of Illinois, Urbana-Champaign	2002	
+	f99b39a75616ba2e3c950f496f18b8c0		Sturman, Heather	Assistant Professor	Linguistics and English Language		PhD	University of California, Los Angeles	2008	
+	f99b39a75616ba2e3c950f496f18b8c0		Tanner, Mark	Assistant Professor	Linguistics and English Language		PhD	University of Pennsylvania	1991	
+	a8bd929fc890c069595b0d25ec204d45		Baker, Roger C.	Professor	Mathematics		PhD	University of London	1971	
+	a8bd929fc890c069595b0d25ec204d45		Bakker, Lennard F.	Professor	Mathematics		PhD	Queens University	1997	
+	a8bd929fc890c069595b0d25ec204d45		Cardon, David A.	Professor	Mathematics		PhD	Stanford University	1996	
+	a8bd929fc890c069595b0d25ec204d45		Chahal, Jasbir S.	Professor	Mathematics		PhD	Johns Hopkins University	1979	
+	a8bd929fc890c069595b0d25ec204d45		Chow, Shue-Sum	Associate Professor	Mathematics		PhD	Australian National University	1983	
+	a8bd929fc890c069595b0d25ec204d45		Conner, Gregory R.	Professor	Mathematics		PhD	University of Utah	1992	
+	a8bd929fc890c069595b0d25ec204d45		Dallon, John C.	Professor	Mathematics		PhD	University of Utah	1996	
+	a8bd929fc890c069595b0d25ec204d45		Dorff, Michael J.	Professor	Mathematics		PhD	University of Kentucky	1997	
+	a8bd929fc890c069595b0d25ec204d45		Doud, Darrin M.	Professor	Mathematics		PhD	University of Illinois	1999	
+	a8bd929fc890c069595b0d25ec204d45		Evans, Emily J.	Assistant Professor	Mathematics		PhD	Worcester Polytechnic Institute	2011	
+	a8bd929fc890c069595b0d25ec204d45		Fisher, Todd	Associate Professor	Mathematics		PhD	Northwestern University	2004	
+	a8bd929fc890c069595b0d25ec204d45		Forcade, Rodney W.	Professor	Mathematics		PhD	University of Washington	1971	
+	a8bd929fc890c069595b0d25ec204d45		Glasgow, Scott A.	Associate Professor	Mathematics		PhD	University of Arizona	1993	
+	a8bd929fc890c069595b0d25ec204d45		Grant, Christopher P.	Associate Professor	Mathematics		PhD	University of Utah	1991	
+	a8bd929fc890c069595b0d25ec204d45		Halverson, Denise M.	Professor	Mathematics		PhD	University of Tennessee	1999	
+	a8bd929fc890c069595b0d25ec204d45		Humpherys, Jeffrey C.	Associate Professor	Mathematics		PhD	Indiana University	2002	
+	a8bd929fc890c069595b0d25ec204d45		Humphries, Stephen P.	Professor	Mathematics		PhD	University of Wales	1983	
+	a8bd929fc890c069595b0d25ec204d45		Jarvis, Tyler J.	Professor	Mathematics		PhD	Princeton University	1994	
+	a8bd929fc890c069595b0d25ec204d45		Jenkins, Paul	Associate Professor	Mathematics		PhD	University of Wisconsin-Madison	2006	
+	a8bd929fc890c069595b0d25ec204d45		Kuttler, Kenneth L.	Professor	Mathematics		PhD	University of Texas, Austin	1981	
+	a8bd929fc890c069595b0d25ec204d45		Lawlor, Gary R.	Associate Professor	Mathematics		PhD	Stanford University	1988	
+	a8bd929fc890c069595b0d25ec204d45		Li, Xian-Jin	Professor	Mathematics		PhD	Purdue University	1993	
+	a8bd929fc890c069595b0d25ec204d45		Lu, Kening	Professor	Mathematics		PhD	Michigan State University	1988	
+	a8bd929fc890c069595b0d25ec204d45		Nielsen, Pace	Associate Professor	Mathematics		PhD	University of California, Berkley	2006	
+	a8bd929fc890c069595b0d25ec204d45		Ouyang, Tiancheng	Professor	Mathematics		PhD	University of Minnesota	1989	
+	a8bd929fc890c069595b0d25ec204d45		Roundy, Robin O.	Professor	Mathematics		PhD	Stanford University	1984	
+	a8bd929fc890c069595b0d25ec204d45		Swenson, Eric L.	Professor	Mathematics		PhD	Brigham Young University	1993	
+	a8bd929fc890c069595b0d25ec204d45		Villamizar, Vianey	Associate Professor	Mathematics		PhD	Rensselaer Polytechnic Institute	1987	
+	a8bd929fc890c069595b0d25ec204d45		Webb, Benjamin	Assistant Professor	Mathematics		PhD	Georgia Institute of Technology	2011	
+	a8bd929fc890c069595b0d25ec204d45		Whitehead, Jared P.	Assistant Professor	Mathematics		PhD	University of Michigan	2012	
+	31fb6e8992763bbe8335da50ed4b7c00		Corey, Douglas L.	Associate Professor	Mathematics Education		PhD	University of Michigan	2007	
+	31fb6e8992763bbe8335da50ed4b7c00		Johnson, Kate R.	Assistant Professor	Mathematics Education		PhD	Michigan State University	2013	
+	31fb6e8992763bbe8335da50ed4b7c00		Jones, Steven R.	Assistant Professor	Mathematics Education		PhD	University of Maryland	2010	
+	31fb6e8992763bbe8335da50ed4b7c00		Leatham, Keith R.	Associate Professor	Mathematics Education		PhD	University of Georgia	2002	
+	31fb6e8992763bbe8335da50ed4b7c00		Peterson, Blake E.	Professor	Mathematics Education		PhD	Washington State University	1993	
+	31fb6e8992763bbe8335da50ed4b7c00		Siebert, Daniel K.	Associate Professor	Mathematics Education		PhD	University of California, San Diego	2000	
+	31fb6e8992763bbe8335da50ed4b7c00		Teuscher, Dawn	Assistant Professor	Mathematics Education		PhD	University of Missouri-Columbia	2008	
+	31fb6e8992763bbe8335da50ed4b7c00		Williams, Steven R.	Professor	Mathematics Education		PhD	University of Wisconsin, Madison	1989	
+	f9b4bc714c4ed45230c0859b799f3bdb		Adams, Bradley	Associate Professor	Mechanical Engineering		PhD	University of Utah	1993	
+	f9b4bc714c4ed45230c0859b799f3bdb		Blotter, Jonathan D.	Professor	Mechanical Engineering		PhD	Virginia Polytechnic Institute and State Univ	1996	
+	f9b4bc714c4ed45230c0859b799f3bdb		Bowden, Anton E.	Associate Professor	Mechanical Engineering		PhD	University of Utah	2003	
+	f9b4bc714c4ed45230c0859b799f3bdb		Bowman, W. Jerry	Associate Teaching Professor	Mechanical Engineering		PhD	Air Force Institute of Technology	1987	
+	f9b4bc714c4ed45230c0859b799f3bdb		Charles, Steven K.	Assistant Professor	Mechanical Engineering		PhD	Harvard-MIT Division of Health Sciences and Technology	2008	
+	f9b4bc714c4ed45230c0859b799f3bdb		Colton, Mark B.	Associate Professor	Mechanical Engineering		PhD	University of Utah	2006	
+	f9b4bc714c4ed45230c0859b799f3bdb		Crockett, Julie	Assistant Professor	Mechanical Engineering		PhD	University of California, San Diego	2007	
+	f9b4bc714c4ed45230c0859b799f3bdb		Fullwood, David	Professor	Mechanical Engineering		PhD	University of London	1992	
+	f9b4bc714c4ed45230c0859b799f3bdb		Gorrell, Steven E.	Associate Professor	Mechanical Engineering		PhD	Iowa State University	2001	
+	f9b4bc714c4ed45230c0859b799f3bdb		Homer, Eric R.	Assistant Professor	Mechanical Engineering		PhD	Massachusetts Institute of Technology	2010	
+	f9b4bc714c4ed45230c0859b799f3bdb		Howell, Larry L.	Professor	Mechanical Engineering		PhD	Purdue University	1993	
+	f9b4bc714c4ed45230c0859b799f3bdb		Iverson, Brian D.	Assistant Professor	Mechanical Engineering		PhD	Purdue University	2008	
+	f9b4bc714c4ed45230c0859b799f3bdb		Jensen, Brian D.	Associate Professor	Mechanical Engineering		PhD	University of Michigan	2004	
+	f9b4bc714c4ed45230c0859b799f3bdb		Johnson, Oliver	Assistant Professor	Mechanical Engineering		PhD	Massachusetts Institute of Technology	2015	
+	f9b4bc714c4ed45230c0859b799f3bdb		Jones, Matthew R.	Associate Professor	Mechanical Engineering		PhD	University of Illinois	1993	
+	f9b4bc714c4ed45230c0859b799f3bdb		Killpack, Marc D.	Assistant Professor	Mechanical Engineering		PhD	Georgia Institute of Technology	2013	
+	f9b4bc714c4ed45230c0859b799f3bdb		Magleby, Spencer P.	Professor	Mechanical Engineering		PhD	University of Wisconsin, Madison	1988	
+	f9b4bc714c4ed45230c0859b799f3bdb		Mattson, Christopher A.	Associate Professor	Mechanical Engineering		PhD	Rensselaer Polytechnic Institute	2003	
+	f9b4bc714c4ed45230c0859b799f3bdb		Maynes, R. Daniel	Professor	Mechanical Engineering		PhD	University of Utah	1997	
+	f9b4bc714c4ed45230c0859b799f3bdb		McLain, Timothy W.	Professor	Mechanical Engineering		PhD	Stanford University	1995	
+	f9b4bc714c4ed45230c0859b799f3bdb		Nelson, Tracy W.	Professor	Mechanical Engineering		PhD	Ohio State University	1998	
+	f9b4bc714c4ed45230c0859b799f3bdb		Ning, S. Andrew	Assistant Professor	Mechanical Engineering		PhD	Stanford University	2011	
+	f9b4bc714c4ed45230c0859b799f3bdb		Parkinson, Alan R.	Professor	Mechanical Engineering		PhD	University of Illinois	1982	
+	f9b4bc714c4ed45230c0859b799f3bdb		Red, W. Edward	Professor	Mechanical Engineering		PhD	Arizona State University	1972	
+	f9b4bc714c4ed45230c0859b799f3bdb		Salmon, John	Assistant Professor	Mechanical Engineering		PhD	Georgia Institute of Technology	2013	
+	f9b4bc714c4ed45230c0859b799f3bdb		Sorensen, Carl D.	Professor	Mechanical Engineering		PhD	Massachusetts Institute of Technology	1985	
+	f9b4bc714c4ed45230c0859b799f3bdb		Tree, Dale R.	Professor	Mechanical Engineering		PhD	University of Wisconsin, Madison	1992	
+	f9b4bc714c4ed45230c0859b799f3bdb		Webb, Brent W.	Professor	Mechanical Engineering		PhD	Purdue University	1986	
+	60db076218bdc4537e805277340d6e66		Berges, Bradford	Assistant Professor	Microbiology and Molecular Biology		PhD	University of Pennsylvania	2005	
+	60db076218bdc4537e805277340d6e66		Breakwell, Donald P.	Teaching Professor	Microbiology and Molecular Biology		PhD	Purdue University	1992	
+	60db076218bdc4537e805277340d6e66		Bridgewater, Laura C.	Associate Professor	Microbiology and Molecular Biology		PhD	George Washington University	1995	
+	60db076218bdc4537e805277340d6e66		Burnett, Sandra	Associate Teaching Professor	Microbiology and Molecular Biology		PhD	University of Kentucky	2000	
+	60db076218bdc4537e805277340d6e66		Davis, Mary	Assistant Professor	Microbiology and Molecular Biology		PhD	Vanderbilt University	2013	
+	60db076218bdc4537e805277340d6e66		Erickson, David	Associate Professor	Microbiology and Molecular Biology		PhD	University of Calgary, Canada	2003	
+	60db076218bdc4537e805277340d6e66		Evans, R. Paul	Assistant Professor	Microbiology and Molecular Biology		PhD	Medical College of Virginia	1983	
+	60db076218bdc4537e805277340d6e66		Griffitts, Joel	Associate Professor	Microbiology and Molecular Biology		PhD	University of California, San Diego	2004	
+	60db076218bdc4537e805277340d6e66		Grose, Julianne	Associate Professor	Microbiology and Molecular Biology		PhD	University of Utah	2003	
+	60db076218bdc4537e805277340d6e66		Harker, Alan R.	Professor	Microbiology and Molecular Biology		PhD	University of Utah	1982	
+	60db076218bdc4537e805277340d6e66		Johnson, Steven	Associate Professor	Microbiology and Molecular Biology		PhD	Yale University	2004	
+	60db076218bdc4537e805277340d6e66		McCleary, William R.	Associate Professor	Microbiology and Molecular Biology		PhD	University of California, Berkeley	1990	
+	60db076218bdc4537e805277340d6e66		Nielsen, Brent L.	Professor	Microbiology and Molecular Biology		PhD	Oregon State University	1985	
+	60db076218bdc4537e805277340d6e66		O'Neill, Kim	Professor	Microbiology and Molecular Biology		PhD	University of Ulster, Northern Ireland	1986	
+	60db076218bdc4537e805277340d6e66		Poole, Brian	Assistant Professor	Microbiology and Molecular Biology		PhD	Pennsylvania State University	2004	
+	60db076218bdc4537e805277340d6e66		Robison, Richard A.	Professor	Microbiology and Molecular Biology		PhD	Brigham Young University	1988	
+	60db076218bdc4537e805277340d6e66		Weber, K. Scott	Assistant Professor	Microbiology and Molecular Biology		PhD	University of Illinois	2005	
+	60db076218bdc4537e805277340d6e66		Wilson, Eric	Associate Professor	Microbiology and Molecular Biology		PhD	Montana State University	2000	
+	651b51869cada99bd72c1af41c98ef04		Anderson, Richard P.	Professor	Music		DMA	University of Colorado	1986	
+	651b51869cada99bd72c1af41c98ef04		Asplund, Christian T.	Associate Professor	Music		DMA	University of Washington	1998	
+	651b51869cada99bd72c1af41c98ef04		Babidge, Darrell	Associate Professor	Music		Professional Degree	Manhattan School of Music	2001	
+	651b51869cada99bd72c1af41c98ef04		Belknap, Monte	Associate Professor	Music		MM	University of Cincinnati	1994	
+	651b51869cada99bd72c1af41c98ef04		Bigelow, A. Claudine	Associate Professor	Music		DMA	University of Maryland	2002	
+	651b51869cada99bd72c1af41c98ef04		Broomhead, Paul	Professor	Music		PHD	University of Washington	1999	
+	651b51869cada99bd72c1af41c98ef04		Brough, Ronald P.	Professor	Music		DA	University of Northern Colorado	1997	
+	651b51869cada99bd72c1af41c98ef04		Brown, David C.	Associate Professor	Music		MM	University of Toledo	1997	
+	651b51869cada99bd72c1af41c98ef04		Call, R. Steven	Professor	Music		PhD	University of Utah	2000	
+	651b51869cada99bd72c1af41c98ef04		Clayton, April	Professor	Music		DMA	The Juilliard School of Music	2001	
+	651b51869cada99bd72c1af41c98ef04		Cook, R. Donald	Associate Professor	Music		DMA	University of Kansas	1987	
+	651b51869cada99bd72c1af41c98ef04		Dabczynski. Andrew	Professor	Music		PhD	University of Michigan	1994	
+	651b51869cada99bd72c1af41c98ef04		Dunn, Robert E.	Professor	Music		PhD	Northwestern University	1994	
+	651b51869cada99bd72c1af41c98ef04		Giovannetti, Geralyn	Professor	Music		DMA	University of Michigan	1990	
+	651b51869cada99bd72c1af41c98ef04		Grimshaw, Jeremy	Associate Professor	Music		PhD	Eastman School of Music	2005	
+	651b51869cada99bd72c1af41c98ef04		Hall, Rosalind	Associate Professor	Music		MM	Brigham Young University	1992	
+	651b51869cada99bd72c1af41c98ef04		Hansen, H. Eric	Associate Professor	Music		MM	Peabody Conservatory of Johns Hopkins University	1989	
+	651b51869cada99bd72c1af41c98ef04		Harker, Brian C.	Professor	Music		PhD	Columbia University	1997	
+	651b51869cada99bd72c1af41c98ef04		Hicks, Michael D.	Professor	Music		DMA	University of Illinois	1984	
+	651b51869cada99bd72c1af41c98ef04		Hinckley, Jaren S.	Associate Professor	Music		DM	Florida State University	2002	
+	651b51869cada99bd72c1af41c98ef04		Holden, Scott L.	Associate Professor	Music		DMA	Manhattan School of Music	2002	
+	651b51869cada99bd72c1af41c98ef04		Howard, Luke	Associate Professor	Music		PhD	University of Michigan	1997	
+	651b51869cada99bd72c1af41c98ef04		Johnson, Steven P.	Professor	Music		PhD	University of California, Los Angeles	1989	
+	651b51869cada99bd72c1af41c98ef04		Jones, Stephen M.	Professor	Music		DMA	University of Cincinnati	1989	
+	651b51869cada99bd72c1af41c98ef04		Katseanes, Kory	Professor	Music		MM	University of Utah	1979	
+	651b51869cada99bd72c1af41c98ef04		Kimball, Wilford W. (Will)	Associate Professor	Music		DMA	Arizona State University	2001	
+	651b51869cada99bd72c1af41c98ef04		Lindeman, Stephan D.	Professor	Music		PhD	Rutgers University	1995	
+	651b51869cada99bd72c1af41c98ef04		Lowe, Laurence M.	Professor	Music		MM	University of Rochester	1981	
+	651b51869cada99bd72c1af41c98ef04		Peery-Fox, Irene W.	Professor	Music		DMA	Peabody Conservatory of Johns Hopkins University	1987	
+	651b51869cada99bd72c1af41c98ef04		Peterson, Donald L.	Associate Professor	Music		DMA	Arizona State University	1986	
+	651b51869cada99bd72c1af41c98ef04		Reich, Diane T.	Associate Professor	Music		DM	Indiana University	2003	
+	651b51869cada99bd72c1af41c98ef04		Ricks, Steven L.	Associate Professor	Music		PhD	University of Utah	2001	
+	651b51869cada99bd72c1af41c98ef04		Saville, Kirt R.	Professor	Music		EdD	Utah State University	1991	
+	651b51869cada99bd72c1af41c98ef04		Shumway, Jeffrey L.	Professor	Music		DM	Indiana University	1982	
+	651b51869cada99bd72c1af41c98ef04		Smith, Christian B.	Professor	Music		DMA	University of Michigan	2006	
+	651b51869cada99bd72c1af41c98ef04		Smith, Raymond	Professor	Music		DM	Indiana University	1982	
+	651b51869cada99bd72c1af41c98ef04		Thornock, Neil S.	Associate Professor	Music		DM	Indiana University	2006	
+	651b51869cada99bd72c1af41c98ef04		Vincent, Lawrence P.	Professor	Music		DMA	University of Michigan	1981	
+	651b51869cada99bd72c1af41c98ef04		Woods, Alexander	Assistant Professor	Music		MM	Yale University	2008	
+	b60f7b858925674d865738451bac4156		Bangerter, Neal K. (Electrical and Computer Engineering)	Associate Professor	Neuroscience (Program)		PhD	Stanford University	2004	
+	b60f7b858925674d865738451bac4156		Bigler, Erin D. (Psychology)	Professor	Neuroscience (Program)		PhD	Brigham Young University	1974	
+	b60f7b858925674d865738451bac4156		Brown, Michael D.	Associate Teaching Professor	Neuroscience (Program)		PhD	Colorado State University	1999	
+	b60f7b858925674d865738451bac4156		Busath, David D. (Physiology and Developmental Biology)	Professor	Neuroscience (Program)		MD	University of Utah	1978	
+	b60f7b858925674d865738451bac4156		Charles, Steven K. (Mechanical Engineering)	Assistant Professor	Neuroscience (Program)		PhD	Harvard-MIT Division of Health Sciences and Techno	2008	
+	b60f7b858925674d865738451bac4156		Edwards, Jeffrey G. (Physiology and Developmental Biology)	Assistant Professor	Neuroscience (Program)		PhD	University of Utah	2003	
+	b60f7b858925674d865738451bac4156		Flom, Ross A. (Psychology)	Associate Professor	Neuroscience (Program)		PhD	University of Minnesota	1999	
+	b60f7b858925674d865738451bac4156		Gale, Shawn D. (Psychology)	Associate Professor	Neuroscience (Program)		PhD	Brigham Young University	1994	
+	b60f7b858925674d865738451bac4156		Hedges, Dawson W. (Psychology)	Professor	Neuroscience (Program)		MD	University of Utah	1988	
+	b60f7b858925674d865738451bac4156		Higley, Dee (Psychology)	Professor	Neuroscience (Program)		PhD	University of Wisconsin, Madison	1985	
+	b60f7b858925674d865738451bac4156		Hopkins, Ramona O. (Psychology)	Professor	Neuroscience (Program)		PhD	University of Utah	1996	
+	b60f7b858925674d865738451bac4156		Judd, Allan M. (Physiology and Developmental Biology)	Professor	Neuroscience (Program)		PhD	West Virginia University	1982	
+	b60f7b858925674d865738451bac4156		Kauwe, John S. K. (Biology)	Assistant Professor	Neuroscience (Program)		PhD	Washington University in St. Loius	2007	
+	b60f7b858925674d865738451bac4156		Kirwan, Brock (Psychology)	Assistant Professor	Neuroscience (Program)		PhD	Johns Hopkins University	2006	
+	b60f7b858925674d865738451bac4156		Larson, Michael J. (Psychology)	Assistant Professor	Neuroscience (Program)		PhD	University of Florida	2008	
+	b60f7b858925674d865738451bac4156		McPherson, David (Communication Disorders)	Professor	Neuroscience (Program)		PhD	University of Washington	1972	
+	b60f7b858925674d865738451bac4156		Porter, Chris L. (Family Life)	Associate Professor	Neuroscience (Program)		PhD	Purdue University West-Lafayette	1996	
+	b60f7b858925674d865738451bac4156		Porter, James P. (Physiology and Developmental Biology)	Professor	Neuroscience (Program)		PhD	University of California, San Francisco	1982	
+	b60f7b858925674d865738451bac4156		South, Mikle D. (Psychology)	Assistant Professor	Neuroscience (Program)		PhD	University of Utah	2005	
+	b60f7b858925674d865738451bac4156		Stark, Michael R. (Physiology and Developmental Biology)	Associate Professor	Neuroscience (Program)		PhD	University of California, Irvine	1998	
+	b60f7b858925674d865738451bac4156		Steffensen, Scott C. (Psychology)	Associate Professor	Neuroscience (Program)		PhD	University of Utah	1987	
+	b60f7b858925674d865738451bac4156		Sudweeks, Sterling N. (Physiology and Developmental Biology)	Associate Professor	Neuroscience (Program)		PhD	University of Utah	1997	
+	b60f7b858925674d865738451bac4156		Wisco, Jonathan J. (Physiology and Developmental Biology)	Associate Professor	Neuroscience (Program)		PhD	Boston University School of Medicine	2003	
+	b60f7b858925674d865738451bac4156		Woodbury, Dixon J. (Physiology and Developmental Biology)	Professor	Neuroscience (Program)		PhD	University of California, Irvine	1986	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Beckstrand, Renea	Professor	Nursing		PhD	University of Utah	2001	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Freeborn, Donna	Assistant Professor	Nursing		PhD	Oregon Health and Science University	2008	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Heise, Barbara	Associate Professor	Nursing		PhD	University of Virginia	2006	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Lassetter, Jane	Associate Professor	Nursing		PhD	Oregon Health and Science University	2008	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Luthy, Beth	Assistant Professor	Nursing		DNP	Rush University	2008	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Macintosh, Janelle B.	Assistant Professor	Nursing		PhD	University of Utah	2010	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Merrill, Katreena C.	Assistant Professor	Nursing		PhD	University of Utah	2011	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Ravert, Patty	Professor	Nursing		PhD	University of Utah	2004	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Rogers, Sandra	Associate Professor	Nursing		PhD	University of California, San Francisco	1989	
+	1fd466a14270f4f4193cd96a6fe3a8fd		Williams, Mary	Associate Professor	Nursing		PhD	University of Arizona	1991	
+	33057d2cec7e3435b19d2306410c202e		Bellini, Sarah	Assistant Professor	Nutrition, Dietetics, and Food Science		PhD	Utah State University	2012	
+	33057d2cec7e3435b19d2306410c202e		Brown, Lora Beth	Professor	Nutrition, Dietetics, and Food Science		EdD	Brigham Young University	1982	
+	33057d2cec7e3435b19d2306410c202e		Christensen, Merrill J.	Professor	Nutrition, Dietetics, and Food Science		PhD	Massachusetts Institute of Technology	1982	
+	33057d2cec7e3435b19d2306410c202e		Dunn, Michael L.	Professor	Nutrition, Dietetics, and Food Science		PhD	Cornell University	1996	
+	33057d2cec7e3435b19d2306410c202e		Fullmer, Susan	Teaching Professor	Nutrition, Dietetics, and Food Science		PhD	Brigham Young University	2004	
+	33057d2cec7e3435b19d2306410c202e		Hancock, Chad	Assistant Professor	Nutrition, Dietetics, and Food Science		PhD	University of Missouri, Columbia	2005	
+	33057d2cec7e3435b19d2306410c202e		Jefferies, Laura K.	Assistant Professor	Nutrition, Dietetics, and Food Science		PhD	Utah State University	2011	
+	33057d2cec7e3435b19d2306410c202e		Johnston, N. Paul	Professor	Nutrition, Dietetics, and Food Science		PhD	Oregon State University	1971	
+	33057d2cec7e3435b19d2306410c202e		Kenealey, Jason	Assistant Professor	Nutrition, Dietetics, and Food Science		PhD	University of Wisconsin-Madison	2011	
+	33057d2cec7e3435b19d2306410c202e		Nyland Kerr, Nora	Associate Professor	Nutrition, Dietetics, and Food Science		PhD	Kansas State University	1989	
+	33057d2cec7e3435b19d2306410c202e		Pike, Oscar	Professor	Nutrition, Dietetics, and Food Science		PhD	Purdue University	1986	
+	33057d2cec7e3435b19d2306410c202e		Richards, Rickelle	Associate Professor	Nutrition, Dietetics, and Food Science		PhD	University of Minnesota, St. Paul	2007	
+	33057d2cec7e3435b19d2306410c202e		Steele, Frost M.	Associate Professor	Nutrition, Dietetics, and Food Science		PhD	Purdue University	1990	
+	33057d2cec7e3435b19d2306410c202e		Tessem, Jeffery S.	Assistant Professor	Nutrition, Dietetics, and Food Science		PhD	University of Colorado	2007	
+	33057d2cec7e3435b19d2306410c202e		Williams, D. Pauline	Assistant Teaching Professor	Nutrition, Dietetics, and Food Science		PhD	Utah State University	2011	
+	db5bc19a1e05eb044bd268de9dc0e71b		Allred, David D.	Professor	Physics and Astronomy		PhD	Princeton University	1977	
+	db5bc19a1e05eb044bd268de9dc0e71b		Bergeson, Scott D.	Professor	Physics and Astronomy		PhD	University of Wisconsin	1995	
+	db5bc19a1e05eb044bd268de9dc0e71b		Berrondo, Manuel	Professor	Physics and Astronomy		PhD	University of Uppsala, Sweden	1969	
+	db5bc19a1e05eb044bd268de9dc0e71b		Campbell, Branton J.	Associate Professor	Physics and Astronomy		PhD	University of California, Santa Barbara	1999	
+	db5bc19a1e05eb044bd268de9dc0e71b		Chesnel, Karine	Assistant Professor	Physics and Astronomy		PhD	Joseph Fourier University, France	2002	
+	db5bc19a1e05eb044bd268de9dc0e71b		Colton, John	Associate Professor	Physics and Astronomy		PhD	University of California	2000	
+	db5bc19a1e05eb044bd268de9dc0e71b		Davis, Robert C.	Professor	Physics and Astronomy		PhD	University of Utah	1996	
+	db5bc19a1e05eb044bd268de9dc0e71b		Durfee, Dallin S.	Associate Professor	Physics and Astronomy		PhD	Massachusetts Institute of Technology	1999	
+	db5bc19a1e05eb044bd268de9dc0e71b		Gee, Kent	Associate Professor	Physics and Astronomy		PhD	Pennsylvania State University	2005	
+	db5bc19a1e05eb044bd268de9dc0e71b		Hart, Grant W.	Associate Professor	Physics and Astronomy		PhD	University of Maryland	1983	
+	db5bc19a1e05eb044bd268de9dc0e71b		Hart, Gus L. W.	Professor	Physics and Astronomy		PhD	University of California, Davis	1999	
+	db5bc19a1e05eb044bd268de9dc0e71b		Hess, Bret C.	Associate Professor	Physics and Astronomy		PhD	Iowa State University	1988	
+	db5bc19a1e05eb044bd268de9dc0e71b		Hintz, Eric G.	Associate Professor	Physics and Astronomy		PhD	Brigham Young University	1995	
+	db5bc19a1e05eb044bd268de9dc0e71b		Hirschmann, Eric W.	Associate Professor	Physics and Astronomy		PhD	University of California, Santa Barbara	1996	
+	db5bc19a1e05eb044bd268de9dc0e71b		Leishman, Timothy W.	Professor	Physics and Astronomy		PhD	Pennsylvania State University	2000	
+	db5bc19a1e05eb044bd268de9dc0e71b		Moody, J. Ward	Professor	Physics and Astronomy		PhD	University of Michigan	1986	
+	db5bc19a1e05eb044bd268de9dc0e71b		Neilsen, David W.	Associate Professor	Physics and Astronomy		PhD	University of Texas, Austin	1999	
+	db5bc19a1e05eb044bd268de9dc0e71b		Peatross, Justin B.	Professor	Physics and Astronomy		PhD	University of Rochester	1993	
+	db5bc19a1e05eb044bd268de9dc0e71b		Peterson, Bryan G.	Research Associate Professor	Physics and Astronomy		PhD	Brigham Young University	1983	
+	db5bc19a1e05eb044bd268de9dc0e71b		Rees, Lawrence B.	Professor	Physics and Astronomy		PhD	University of Maryland	1983	
+	db5bc19a1e05eb044bd268de9dc0e71b		Sommerfeldt, Scott D.	Professor	Physics and Astronomy		PhD	Pennsylvania State University	1989	
+	db5bc19a1e05eb044bd268de9dc0e71b		Spencer, Ross L.	Professor	Physics and Astronomy		PhD	University of Wisconsin	1979	
+	db5bc19a1e05eb044bd268de9dc0e71b		Stephens, Denise	Assistant Professor	Physics and Astronomy		PhD	New Mexico State University	2001	
+	db5bc19a1e05eb044bd268de9dc0e71b		Turley, R. Steven	Professor	Physics and Astronomy		PhD	Massachusetts Institute of Technology	1984	
+	db5bc19a1e05eb044bd268de9dc0e71b		Vanfleet, Richard R.	Professor	Physics and Astronomy		PhD	University of Illinois	1997	
+	db5bc19a1e05eb044bd268de9dc0e71b		Van Huele, Jean-Francois	Associate Professor	Physics and Astronomy		PhD	Brussels Free University, Belgium	1987	
+	db5bc19a1e05eb044bd268de9dc0e71b		Ware, Michael J.	Associate Professor	Physics and Astronomy		PhD	Brigham Young University	2001	
+	70135d270cfa15604ec67151ef1a1018		Alder, Jonathan K.	Assistant Professor	Physiology and Developmental Biology		PhD	Johns Hopkins University	2007	
+	70135d270cfa15604ec67151ef1a1018		Arroyo, Juan A.	Assistant Professor	Physiology and Developmental Biology		PhD	Southern Illinois University School of Medicine	2003	
+	70135d270cfa15604ec67151ef1a1018		Barrow, Jeffery R.	Associate Professor	Physiology and Developmental Biology		PhD	University of Utah	1999	
+	70135d270cfa15604ec67151ef1a1018		Bikman, Benjamin T.	Assistant Professor	Physiology and Developmental Biology		PhD	East Carolina University	2008	
+	70135d270cfa15604ec67151ef1a1018		Brown, Michael D.	Associate Teaching Professor	Physiology and Developmental Biology		PhD	Colorado State University	1999	
+	70135d270cfa15604ec67151ef1a1018		Busath, David D.	Professor	Physiology and Developmental Biology		MD	University of Utah	1978	
+	70135d270cfa15604ec67151ef1a1018		Charles, Steven K.	Assistant Professor	Physiology and Developmental Biology		PhD	Harvard-MIT Division of Health Sciences and Technology	2008	
+	70135d270cfa15604ec67151ef1a1018		Edwards, Jeffrey G.	Associate Professor	Physiology and Developmental Biology		PhD	University of Utah	2003	
+	70135d270cfa15604ec67151ef1a1018		Hansen, Marc D.	Associate Professor	Physiology and Developmental Biology		PhD	Stanford University	2002	
+	70135d270cfa15604ec67151ef1a1018		Hedges, Dawson W.	Professor	Physiology and Developmental Biology		MD	University of Utah	1988	
+	70135d270cfa15604ec67151ef1a1018		Hopkins, Ramona O.	Professor	Physiology and Developmental Biology		PhD	University of Utah	1996	
+	70135d270cfa15604ec67151ef1a1018		Judd, Allan M.	Professor	Physiology and Developmental Biology		PhD	West Virginia University	1981	
+	70135d270cfa15604ec67151ef1a1018		Kirwan, Brock	Assistant Professor	Physiology and Developmental Biology		PhD	Johns Hopkins University	2006	
+	70135d270cfa15604ec67151ef1a1018		Kooyman, David L.	Professor	Physiology and Developmental Biology		PhD	Ohio University	1993	
+	70135d270cfa15604ec67151ef1a1018		Porter, James P.	Professor	Physiology and Developmental Biology		PhD	University of California, San Francisco	1982	
+	70135d270cfa15604ec67151ef1a1018		Reynolds, Paul R.	Associate Professor	Physiology and Developmental Biology		PhD	University of Cincinnati, Cin. Children	2004	
+	70135d270cfa15604ec67151ef1a1018		Silcox, Roy W.	Associate Professor	Physiology and Developmental Biology		PhD	North Carolina State University	1986	
+	70135d270cfa15604ec67151ef1a1018		South, Mikle	Assistant Professor	Physiology and Developmental Biology		PhD	University of Utah	2005	
+	70135d270cfa15604ec67151ef1a1018		Stark, Michael R.	Associate Professor	Physiology and Developmental Biology		PhD	University of California, Irvine	1998	
+	70135d270cfa15604ec67151ef1a1018		Steffensen, Scott C.	Associate Professor	Physiology and Developmental Biology		PhD	University of Utah	1986	
+	70135d270cfa15604ec67151ef1a1018		Sudweeks, Sterling N.	Associate Professor	Physiology and Developmental Biology		PhD	University of Utah	1997	
+	70135d270cfa15604ec67151ef1a1018		Suli, Arminda	Assistant Professor	Physiology and Developmental Biology		PhD	University of Utah	1999	
+	70135d270cfa15604ec67151ef1a1018		Thomson, David M.	Assistant Professor	Physiology and Developmental Biology		PhD	East Carolina University	2005	
+	70135d270cfa15604ec67151ef1a1018		Wisco, Jonathan J.	Associate Professor	Physiology and Developmental Biology		PhD	Boston University School of Medicine	2003	
+	70135d270cfa15604ec67151ef1a1018		Woodbury, Dixon J.	Professor	Physiology and Developmental Biology		PhD	University of California, Irvine	1986	
+	39dd71011d47663800c4b5e7514268da		Aanderud, Zachary T.	Associate Professor	Plant and Wildlife Sciences		PhD	University of California, Davis	2006	
+	39dd71011d47663800c4b5e7514268da		Allen, Phil S.	Professor	Plant and Wildlife Sciences		PhD	University of Minnesota	1990	
+	39dd71011d47663800c4b5e7514268da		Allphin-Rapier, Loreen	Associate Professor	Plant and Wildlife Sciences		PhD	University of Utah	1996	
+	39dd71011d47663800c4b5e7514268da		Anderson, Val Jo	Professor	Plant and Wildlife Sciences		PhD	Texas A&M University	1988	
+	39dd71011d47663800c4b5e7514268da		Coleman, Craig E.	Associate Professor	Plant and Wildlife Sciences		PhD	Pennsylvania State University	1992	
+	39dd71011d47663800c4b5e7514268da		Geary, Bradley D.	Associate Professor	Plant and Wildlife Sciences		PhD	Washington State University	1999	
+	39dd71011d47663800c4b5e7514268da		Hansen, Neil C.	Associate Professor	Plant and Wildlife Sciences		PhD	University of Minnesota	1998	
+	39dd71011d47663800c4b5e7514268da		Hopkins, Bryan G.	Professor	Plant and Wildlife Sciences		PhD	Kansas State University	1995	
+	39dd71011d47663800c4b5e7514268da		Jellen, Eric N.	Associate Professor	Plant and Wildlife Sciences		PhD	University of Minnesota	1992	
+	39dd71011d47663800c4b5e7514268da		Larsen, Randy	Assistant Professor	Plant and Wildlife Sciences		PhD	Utah State University	2008	
+	39dd71011d47663800c4b5e7514268da		Maughan, P. Jeffrey	Professor	Plant and Wildlife Sciences		PhD	Virginia Polytechnic Institute & State University	1996	
+	39dd71011d47663800c4b5e7514268da		McMillan, Brock R.	Professor	Plant and Wildlife Sciences		PhD	Kansas State University	1999	
+	39dd71011d47663800c4b5e7514268da		Petersen, Steven L.	Associate Professor	Plant and Wildlife Sciences		PhD	Oregon State University	2004	
+	39dd71011d47663800c4b5e7514268da		Robinson, Todd F.	Associate Professor	Plant and Wildlife Sciences		PhD	Cornell University	1998	
+	39dd71011d47663800c4b5e7514268da		Roundy, Bruce A.	Professor	Plant and Wildlife Sciences		PhD	Utah State University	1984	
+	39dd71011d47663800c4b5e7514268da		Smith, Thomas S.	Associate Professor	Plant and Wildlife Sciences		PhD	Brigham Young University	1992	
+	39dd71011d47663800c4b5e7514268da		St. Clair, Samuel	Associate Professor	Plant and Wildlife Sciences		PhD	Pennsylvania State University	2004	
+	39dd71011d47663800c4b5e7514268da		Stevens, Mikel R.	Professor	Plant and Wildlife Sciences		PhD	University of Arkansas	1993	
+	39dd71011d47663800c4b5e7514268da		Stewart, J. Ryan	Associate Professor	Plant and Wildlife Sciences		PhD	Iowa State University	2005	
+	39dd71011d47663800c4b5e7514268da		Terry, Richard E.	Professor	Plant and Wildlife Sciences		PhD	Purdue University	1976	
+	39dd71011d47663800c4b5e7514268da		Udall, Joshua A.	Associate Professor	Plant and Wildlife Sciences		PhD	University of Wisconsin	2003	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Baldwin, Scott A.	Associate Professor	Psychology		PhD	University of Memphis	2006	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Bigler, Erin D.	Professor	Psychology		PhD	Brigham Young University	1974	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Birmingham, Wendy	Assistant Professor	Psychology		PhD	University of Utah	2011	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Braithwaite, Scott R.	Assistant Professor	Psychology		PhD	Florida State University	2010	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Brown, Bruce L.	Professor	Psychology		PhD	McGill University, Canada	1969	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Burlingame, Gary M.	Professor	Psychology		PhD	University of Utah	1983	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Carpenter, Bruce N.	Associate Professor	Psychology		PhD	University of Wisconsin, Madison	1980	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Flom, Ross	Associate Professor	Psychology		PhD	University of Minnesota	1999	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Gale, Shawn D.	Associate Professor	Psychology		PhD	Brigham Young University	1994	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Gantt, Edwin E.	Associate Professor	Psychology		PhD	Duquesne University	1998	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Hardy, Sam A.	Associate Professor	Psychology		PhD	University of Nebraska-Lincoln	2005	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Hedges, Dawson W.	Professor	Psychology		MD	University of Utah	1988	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Higley, J. Dee	Professor	Psychology		PhD	University of Wisconsin	1985	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Holt-Lunstad, Julianne	Associate Professor	Psychology		PhD	University of Utah	2001	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Hopkins, Ramona O.	Professor	Psychology		PhD	University of Utah	1996	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Jensen, Chad D.	Assistant Professor	Psychology		PhD	University of Kansas	2011	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Kirwan, C. Brock	Associate Professor	Psychology		PhD	Johns Hopkins University	2006	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Lambert, Michael J.	Professor	Psychology		PhD	University of Utah	1971	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Larson, Michael J.	Associate Professor	Psychology		PhD	University of Florida	2008	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Luke, Steven	Assistant Professor	Psychology		PhD	University of Illinois	2011	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Lundwall, Rebecca	Assistant Professor	Psychology		PhD	Rice University	2013	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Miller Jr., Harold L.	Professor	Psychology		PhD	Harvard University	1975	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Nielsen, Stevan Lars	Clinical Professor	Psychology		PhD	University of Washington	1984	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Ridge, Robert D.	Associate Professor	Psychology		PhD	University of Minnesota	1993	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Slife, Brent	Professor	Psychology		PhD	Purdue University	1981	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		South, Mikle	Associate Professor	Psychology		PhD	University of Utah	2005	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Steffen, Patrick R.	Professor	Psychology		PhD	University of Miami	1998	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Steffensen, Scott	Professor	Psychology		PhD	University of Utah	1987	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Warren, Jared	Associate Professor	Psychology		PhD	University of Kansas	2003	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Williams, Richard N.	Professor	Psychology		PhD	Purdue University	1981	
+	01ce1a5cdfcdb1ab9b0ef8ce9c0fe78f		Yamawaki, Niwako	Associate Professor	Psychology		PhD	University of Utah	2002	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Agle, Bradley R.	Professor	Public Management, Romney Institute of		PhD	University of Washington	1993	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Facer, Rex L.	Associate Professor	Public Management, Romney Institute of		PhD	University of Georgia	2002	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Hart, David W.	Associate Professor	Public Management, Romney Institute of		PhD	State University of New York, Albany	1997	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Nelson, Ray D.	Associate Professor	Public Management, Romney Institute of		PhD	University of California, Berkeley	1975	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Owens, Bradley P.	Assistant Professor	Public Management, Romney Institute of		PhD	University of Washington	2009	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Silvia, Chris	Assistant Professor	Public Management, Romney Institute of		PhD	Indiana University	2010	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Thompson, Jeffry A.	Associate Professor	Public Management, Romney Institute of		PhD	University of Minnesota	1999	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Turley, Ty	Assistant Professor	Public Management, Romney Institute of		PhD	University of Chicago	2013	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Wadsworth, Lori L.	Associate Professor	Public Management, Romney Institute of		PhD	University of Utah	2003	
+	23cee87d3d6b0063ce56d6c2f38ec7eb		Witesman, Eva H.	Assistant Professor	Public Management, Romney Institute of		PhD	Indiana University, Bloomington	2008	
+	73543a8c83acbfa4bfd40e0603e935b4		Duerden, Mat	Assistant Professor	Recreation Management		PhD	Texas A&M	2009	
+	73543a8c83acbfa4bfd40e0603e935b4		Freeman, Patti A.	Professor	Recreation Management		PhD	Indiana University	1993	
+	73543a8c83acbfa4bfd40e0603e935b4		Hill, Brian J.	Professor	Recreation Management		PhD	Clemson University	1994	
+	73543a8c83acbfa4bfd40e0603e935b4		Lundberg, Neil R.	Associate Professor	Recreation Management		PhD	Indiana University	2006	
+	73543a8c83acbfa4bfd40e0603e935b4		Taniguchi, Stacy	Associate Professor	Recreation Management		PhD	Brigham Young University	2004	
+	73543a8c83acbfa4bfd40e0603e935b4		Ward, Peter J.	Associate Professor	Recreation Management		PhD	University of Utah	2006	
+	73543a8c83acbfa4bfd40e0603e935b4		Widmer, Mark A.	Professor	Recreation Management		PhD	University of Utah	1993	
+	73543a8c83acbfa4bfd40e0603e935b4		Zabriskie, Ramon B.	Professor	Recreation Management		PhD	Indiana University	2000	
+	e72392d915bc4fcb8b1ed080d9b80677		Alford, Kenneth L.	Associate Professor	Religious Education		PhD	George Mason University	2000	
+	e72392d915bc4fcb8b1ed080d9b80677		Ball, Terry B.	Professor	Religious Education		PhD	Brigham Young University	1992	
+	e72392d915bc4fcb8b1ed080d9b80677		Baugh, Alexander L.	Professor	Religious Education		PhD	Brigham Young University	1996	
+	e72392d915bc4fcb8b1ed080d9b80677		Belnap, Daniel L.	Associate Professor	Religious Education		PhD	University of Chicago	2007	
+	e72392d915bc4fcb8b1ed080d9b80677		Bennett, Richard E.	Professor	Religious Education		PhD	Wayne State University	1984	
+	e72392d915bc4fcb8b1ed080d9b80677		Chadwick, Jeffrey R.	Associate Professor	Religious Education		PhD	University of Utah Middle East Center	1992	
+	e72392d915bc4fcb8b1ed080d9b80677		Cope, Rachel	Assistant Professor	Religious Education		PhD	Syracuse University	2009	
+	e72392d915bc4fcb8b1ed080d9b80677		Dirkmaat, Gerrit J.	Assistant Professor	Religious Education		PhD	University of Colorado	2010	
+	e72392d915bc4fcb8b1ed080d9b80677		Dorius, Guy L.	Teaching Professor	Religious Education		PhD	Brigham Young University	1994	
+	e72392d915bc4fcb8b1ed080d9b80677		Esplin, Scott C.	Associate Professor	Religious Education		PhD	Brigham Young University	2006	
+	e72392d915bc4fcb8b1ed080d9b80677		Freeman, Robert C.	Professor	Religious Education		JD	Western State University	1989	
+	e72392d915bc4fcb8b1ed080d9b80677		Gaskill, Alonzo L.	Associate Professor	Religious Education		PhD	Trinity Theology Seminary	2000	
+	e72392d915bc4fcb8b1ed080d9b80677		Goodman, Michael A.	Associate Professor	Religious Education		PhD	Brigham Young University	2004	
+	e72392d915bc4fcb8b1ed080d9b80677		Hauglid, Brian M.	Associate Professor	Religious Education		PhD	University of Utah	1998	
+	e72392d915bc4fcb8b1ed080d9b80677		Hilton, John L.	Associate Professor	Religious Education		PhD	Brigham Young University	2010	
+	e72392d915bc4fcb8b1ed080d9b80677		Holzapfel, Richard Neitzel	Associate Professor	Religious Education		PhD	University of California, Irvine	1993	
+	e72392d915bc4fcb8b1ed080d9b80677		Huntington, Ray L.	Professor	Religious Education		PhD	Brigham Young University	1995	
+	e72392d915bc4fcb8b1ed080d9b80677		Huntsman, Eric D.	Professor	Religious Education		PhD	University of Pennsylvania	1997	
+	e72392d915bc4fcb8b1ed080d9b80677		Jackson, Kent P.	Professor	Religious Education		PhD	University of Michigan	1980	
+	e72392d915bc4fcb8b1ed080d9b80677		Judd, Daniel K.	Professor	Religious Education		PhD	Brigham Young University	1987	
+	e72392d915bc4fcb8b1ed080d9b80677		Judd, Frank F.	Associate Professor	Religious Education		PhD	University of North Carolina, Chapel Hill	2003	
+	e72392d915bc4fcb8b1ed080d9b80677		Largey, Dennis L.	Professor	Religious Education		EdD	Brigham Young University	1981	
+	e72392d915bc4fcb8b1ed080d9b80677		Ludlow, Jared W.	Associate Professor	Religious Education		PhD	University of California, Berkeley	2000	
+	e72392d915bc4fcb8b1ed080d9b80677		Merrill, Byron	Teaching Professor	Religious Education		JD	University of California, Davis	1975	
+	e72392d915bc4fcb8b1ed080d9b80677		Minert, Roger P.	Professor	Religious Education		PhD	Ohio State University	1991	
+	e72392d915bc4fcb8b1ed080d9b80677		Muhlestein, Kerry M.	Professor	Religious Education		PhD	University of California	2003	
+	e72392d915bc4fcb8b1ed080d9b80677		Olson, Camille Fronk	Professor	Religious Education		PhD	Brigham Young University	1996	
+	e72392d915bc4fcb8b1ed080d9b80677		Ostler, Craig J.	Professor	Religious Education		PhD	Brigham Young University	1995	
+	e72392d915bc4fcb8b1ed080d9b80677		Pike, Dana M.	Professor	Religious Education		PhD	University of Pennsylvania	1990	
+	e72392d915bc4fcb8b1ed080d9b80677		Richardson, Matthew O.	Professor	Religious Education		EdD	Brigham Young University	1996	
+	e72392d915bc4fcb8b1ed080d9b80677		Seely, David R.	Professor	Religious Education		PhD	University of Michigan	1990	
+	e72392d915bc4fcb8b1ed080d9b80677		Skinner, Andrew C.	Professor	Religious Education		PhD	University of Denver	1986	
+	e72392d915bc4fcb8b1ed080d9b80677		Sperry, Kip	Professor	Religious Education		MLS	Brigham Young University	1974	
+	e72392d915bc4fcb8b1ed080d9b80677		Strathearn, Gaye	Associate Professor	Religious Education		PhD	Claremont Graduate University	2004	
+	e72392d915bc4fcb8b1ed080d9b80677		Sweat, Anthony R.	Assistant Professor	Religious Education		PhD	Utah State University	2011	
+	e72392d915bc4fcb8b1ed080d9b80677		Swift, Charles	Associate Professor	Religious Education		PhD	Brigham Young University	2003	
+	e72392d915bc4fcb8b1ed080d9b80677		Top, Brent	Professor	Religious Education		PhD	Brigham Young University	1984	
+	e72392d915bc4fcb8b1ed080d9b80677		Wayment, Thomas A.	Associate Professor	Religious Education		PhD	Claremont Graduate School	2000	
+	e72392d915bc4fcb8b1ed080d9b80677		Whitchurch, David M.	Associate Professor	Religious Education		PhD	Brigham Young University	1991	
+	e72392d915bc4fcb8b1ed080d9b80677		Wilson, Keith J.	Associate Professor	Religious Education		PhD	University of Utah	1995	
+	e72392d915bc4fcb8b1ed080d9b80677		Woodger, Mary Jane	Professor	Religious Education		EdD	University of Utah	1997	
+	e72392d915bc4fcb8b1ed080d9b80677		Woods, Fred E.	Professor	Religious Education		PhD	University of Utah	1991	
+	72bf1f19118c8afdbcaeab55325da78a		Alford, Kenneth L.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	George Mason University	2000	
+	72bf1f19118c8afdbcaeab55325da78a		Ball, Terry B.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1992	
+	72bf1f19118c8afdbcaeab55325da78a		Baugh, Alexander L.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1996	
+	72bf1f19118c8afdbcaeab55325da78a		Belnap, Daniel L.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Chicago	2007	
+	72bf1f19118c8afdbcaeab55325da78a		Bennett, Richard E.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Wayne State University	1984	
+	72bf1f19118c8afdbcaeab55325da78a		Chadwick, Jeffrey R.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Utah Middle East Center	1992	
+	72bf1f19118c8afdbcaeab55325da78a		Cope, Rachel	Assistant Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Syracuse University	2009	
+	72bf1f19118c8afdbcaeab55325da78a		Dirkmaat, Gerrit J.	Assistant Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Colorado	2010	
+	72bf1f19118c8afdbcaeab55325da78a		Dorius, Guy L.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1994	
+	72bf1f19118c8afdbcaeab55325da78a		Esplin, Scott C.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	2006	
+	72bf1f19118c8afdbcaeab55325da78a		Freeman, Robert C.	Professor	Religious Studies - Military Chaplaincy (Program)		JD	Western State University	1989	
+	72bf1f19118c8afdbcaeab55325da78a		Gaskill, Alonzo L.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Trinity Theology Seminary	2000	
+	72bf1f19118c8afdbcaeab55325da78a		Goodman, Michael A.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	2004	
+	72bf1f19118c8afdbcaeab55325da78a		Hauglid, Brian M.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Utah	1998	
+	72bf1f19118c8afdbcaeab55325da78a		Hilton, John L.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	2010	
+	72bf1f19118c8afdbcaeab55325da78a		Holzapfel, Richard Neitzel	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of California, Irvine	1993	
+	72bf1f19118c8afdbcaeab55325da78a		Huntington, Ray L.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1995	
+	72bf1f19118c8afdbcaeab55325da78a		Huntsman, Eric D.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Pennsylvania	1997	
+	72bf1f19118c8afdbcaeab55325da78a		Jackson, Kent P.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Michigan	1980	
+	72bf1f19118c8afdbcaeab55325da78a		Judd, Daniel K.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1987	
+	72bf1f19118c8afdbcaeab55325da78a		Judd, Frank F.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of North Carolina, Chapel Hill	2003	
+	72bf1f19118c8afdbcaeab55325da78a		Largey, Dennis L.	Professor	Religious Studies - Military Chaplaincy (Program)		EdD	Brigham Young University	1981	
+	72bf1f19118c8afdbcaeab55325da78a		Ludlow, Jared W.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of California, Berkeley	2000	
+	72bf1f19118c8afdbcaeab55325da78a		Merrill, Byron	Teaching Professor	Religious Studies - Military Chaplaincy (Program)		JD	University of California, Davis	1975	
+	72bf1f19118c8afdbcaeab55325da78a		Minert, Roger P.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Ohio State University	1991	
+	72bf1f19118c8afdbcaeab55325da78a		Muhlstein, Kerry M.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of California	2003	
+	72bf1f19118c8afdbcaeab55325da78a		Olson, Camille Fronk	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1996	
+	72bf1f19118c8afdbcaeab55325da78a		Ostler, Craig J.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1995	
+	72bf1f19118c8afdbcaeab55325da78a		Pike, Dana M.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Pennsylvania	1990	
+	72bf1f19118c8afdbcaeab55325da78a		Richardson, Matthew O.	Professor	Religious Studies - Military Chaplaincy (Program)		EdD	Brigham Young University	1996	
+	72bf1f19118c8afdbcaeab55325da78a		Seely, David R.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Michigan	1990	
+	72bf1f19118c8afdbcaeab55325da78a		Skinner, Andrew C.	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Denver	1986	
+	72bf1f19118c8afdbcaeab55325da78a		Sperry, Kip	Professor	Religious Studies - Military Chaplaincy (Program)		MLS	Brigham Young University	1974	
+	72bf1f19118c8afdbcaeab55325da78a		Strathearn, Gaye	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Claremont Graduate University	2004	
+	72bf1f19118c8afdbcaeab55325da78a		Sweat, Anthony R.	Assistant Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Utah State University	2011	
+	72bf1f19118c8afdbcaeab55325da78a		Swift, Charles	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	2003	
+	72bf1f19118c8afdbcaeab55325da78a		Top, Brent	Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1984	
+	72bf1f19118c8afdbcaeab55325da78a		Wayment, Thomas A.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Claremont Graduate School	2000	
+	72bf1f19118c8afdbcaeab55325da78a		Whitchurch, David M.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	Brigham Young University	1991	
+	72bf1f19118c8afdbcaeab55325da78a		Wilson, Keith J.	Associate Professor	Religious Studies - Military Chaplaincy (Program)		PhD	University of Utah	1995	
+	bfdfacc53c584d86ad81507819946982		Limb, Gordon E.	Associate Professor	Social Work		PhD	University of California, Berkeley	2000	
+	bfdfacc53c584d86ad81507819946982		Roby, Jini L.	Professor	Social Work		JD, MSW	Brigham Young University	1990	
+	bfdfacc53c584d86ad81507819946982		Shafer, Kevin	Assistant Professor	Social Work		PhD	The Ohio State University	2009	
+	ec36607eee3d64f3dbe93056f2d7e044		Call, Vaughn R. A.	Professor	Sociology		PhD	Washington State University	1977	
+	ec36607eee3d64f3dbe93056f2d7e044		Child, Curtis	Assistant Professor	Sociology		PhD	Indiana University at Bloomington	2011	
+	ec36607eee3d64f3dbe93056f2d7e044		Dahlin, Eric	Assistant Professor	Sociology		PhD	University of Minnesota	2010	
+	ec36607eee3d64f3dbe93056f2d7e044		Dufur, Mikaela J.	Associate Professor	Sociology		PhD	Ohio State University	2000	
+	ec36607eee3d64f3dbe93056f2d7e044		Erickson, Lance D.	Associate Professor	Sociology		PhD	University of North Carolina, Chapel Hill	2005	
+	ec36607eee3d64f3dbe93056f2d7e044		Forste, Renata	Professor	Sociology		PhD	University of Chicago	1992	
+	ec36607eee3d64f3dbe93056f2d7e044		Gibbs, Benjamin	Assistant Professor	Sociology		PhD	Ohio State University	2009	
+	ec36607eee3d64f3dbe93056f2d7e044		Heaton, Tim B.	Professor	Sociology		PhD	University of Wisconsin, Madison	1979	
+	ec36607eee3d64f3dbe93056f2d7e044		Hoffmann, John P.	Professor	Sociology		PhD	State University of New York, Albany	1991	
+	ec36607eee3d64f3dbe93056f2d7e044		Jacobson, Cardell K.	Professor	Sociology		PhD	University of North Carolina, Chapel Hill	1971	
+	ec36607eee3d64f3dbe93056f2d7e044		Knapp, Stan J.	Associate Professor	Sociology		PhD	Florida State University	1996	
+	ec36607eee3d64f3dbe93056f2d7e044		Phillips, Kristie J. R.	Assistant Professor	Sociology		PhD	Vanderbilt University	2005	
+	ec36607eee3d64f3dbe93056f2d7e044		Rees, Carter	Assistant Professor	Sociology		PhD	University of Albany, State University of New York	2011	
+	ec36607eee3d64f3dbe93056f2d7e044		Rugh, Jacob S.	Assistant Professor	Sociology		PhD	Princeton University	2012	
+	ec36607eee3d64f3dbe93056f2d7e044		Sanders, Scott R.	Assistant Professor	Sociology		PhD	Cornell University	2013	
+	258ad10b6f21d8416cb7a11a172320e0		Alba, Orlando	Professor	Spanish and Portuguese		PhD	Universidad Complutense de Madrid, Spain	1988	
+	258ad10b6f21d8416cb7a11a172320e0		Alvord, Scott M.	Associate Professor	Spanish and Portuguese		PhD	University of Minnesota	2006	
+	258ad10b6f21d8416cb7a11a172320e0		Bateman, Blair E.	Associate Professor	Spanish and Portuguese		PhD	University of Minnesota	2002	
+	258ad10b6f21d8416cb7a11a172320e0		Fails, Willis C.	Associate Professor	Spanish and Portuguese		PhD	University of Texas, Austin	1984	
+	258ad10b6f21d8416cb7a11a172320e0		Fitzgibbon, Vanessa	Assistant Professor	Spanish and Portuguese		PhD	University of Wisconsin, Madison	2006	
+	258ad10b6f21d8416cb7a11a172320e0		Garcia, Mara Lucy	Professor	Spanish and Portuguese		PhD	University of Kentucky	1997	
+	258ad10b6f21d8416cb7a11a172320e0		Hague, Daryl R.	Associate Professor	Spanish and Portuguese		PhD	State University of New York, Binghamton	2002	
+	258ad10b6f21d8416cb7a11a172320e0		Hegstrom, Valerie	Associate Professor	Spanish and Portuguese		PhD	University of Kansas	1992	
+	258ad10b6f21d8416cb7a11a172320e0		Knapp, Nieves Perez	Associate Teaching Professor	Spanish and Portuguese		PhD	University of Oviedo, Spain	2003	
+	258ad10b6f21d8416cb7a11a172320e0		Krause, James R.	Assistant Professor	Spanish and Portuguese		PhD	Vanderbilt University	2010	
+	258ad10b6f21d8416cb7a11a172320e0		Laraway, David	Associate Professor	Spanish and Portuguese		PhD	Cornell University	1998	
+	258ad10b6f21d8416cb7a11a172320e0		Larson, Erik M.	Assistant Professor	Spanish and Portuguese		PhD	University of California, Davis	2012	
+	258ad10b6f21d8416cb7a11a172320e0		Lopez-Alcala, Samuel	Assistant Professor	Spanish and Portuguese		PhD	Universidad Pontificia Comillas, Madrid	2012	
+	258ad10b6f21d8416cb7a11a172320e0		Lund, Christopher C.	Professor	Spanish and Portuguese		PhD	University of Texas, Austin	1974	
+	258ad10b6f21d8416cb7a11a172320e0		Martinsen, Rob A.	Associate Professor	Spanish and Portuguese		PhD	University of Texas, Austin	2007	
+	258ad10b6f21d8416cb7a11a172320e0		Montgomery, Cherice	Assistant Professor	Spanish and Portuguese		PhD	Michigan State University	2009	
+	258ad10b6f21d8416cb7a11a172320e0		Nielson, Rex	Assistant Professor	Spanish and Portuguese		PhD	Brown University	2010	
+	258ad10b6f21d8416cb7a11a172320e0		Pratt, Dale J.	Professor	Spanish and Portuguese		PhD	Cornell University	1994	
+	258ad10b6f21d8416cb7a11a172320e0		Rosenberg, John R.	Professor	Spanish and Portuguese		PhD	Cornell University	1985	
+	258ad10b6f21d8416cb7a11a172320e0		Sherman Jr., Alvin F.	Professor	Spanish and Portuguese		PhD	University of Virginia	1990	
+	258ad10b6f21d8416cb7a11a172320e0		Smead, Robert N.	Associate Professor	Spanish and Portuguese		PhD	University of Texas, Austin	1988	
+	258ad10b6f21d8416cb7a11a172320e0		Stallings, Gregory C.	Associate Professor	Spanish and Portuguese		PhD	University of California, Irvine	1999	
+	258ad10b6f21d8416cb7a11a172320e0		Thompson, Gregory L.	Associate Professor	Spanish and Portuguese		PhD	University of Arizona	2006	
+	258ad10b6f21d8416cb7a11a172320e0		Turley, Jeffrey S.	Associate Professor	Spanish and Portuguese		PhD	University of California, Berkeley	1992	
+	258ad10b6f21d8416cb7a11a172320e0		Weatherford, Douglas J.	Associate Professor	Spanish and Portuguese		PhD	Pennsylvania State University	1997	
+	258ad10b6f21d8416cb7a11a172320e0		Williams, Frederick G.	Gerrit de Jong, Jr, Distinguished Professor of Luso-Afro-Brazilian Studies	Spanish and Portuguese		PhD	University of Wisconsin	1971	
+	258ad10b6f21d8416cb7a11a172320e0		Williams, Lynn	Professor	Spanish and Portuguese		PhD	University of London	1978	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Berrett, Candace	Assistant Professor	Statistics		PhD	The Ohio State University	2010	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Blades, Natalie J.	Associate Professor	Statistics		PhD	Johns Hopkins University	2003	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Christensen, William F.	Professor	Statistics		PhD	Iowa State University	1999	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Dahl, David B.	Professor	Statistics		PhD	University of Wisconsin - Madison	2004	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Eggett, Dennis L.	Research Associate Professor	Statistics		PhD	North Carolina State University	1987	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Engler, David A.	Associate Professor	Statistics		PhD	Harvard University	2007	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Fellingham, Gilbert W.	Professor	Statistics		PhD	University of Washington	1990	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Grimshaw, Scott D.	Professor	Statistics		PhD	Texas A&M University	1989	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Hartman, Brian M.	Assistant Professor	Statistics		PhD	Texas A&M University	2012	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Heaton, Matthew J.	Assistant Professor	Statistics		PhD	Duke University	2011	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Lawson, John S.	Professor	Statistics		PhD	Polytechnic Institute of New York	1984	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Page, Garritt L.	Assistant Professor	Statistics		PhD	Iowa State University	2009	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Reese, C. Shane	Professor	Statistics		PhD	Texas A&M University	1999	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Richardson, Robert A.	Assistant Professor	Statistics		PhD	University of California Santa Cruz	2015	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Scott, Del T	Professor	Statistics		PhD	Pennsylvania State University	1977	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Tass, E. Shannon	Associate Professor	Statistics		PhD	Rice University	2009	
+	0398c77a6c2d4ac4887fd0e0f20c7c59		Tolley, H. Dennis	Professor	Statistics		PhD	University of North Carolina	1974	
+	700f5f6ee348b515de8aab30dab68f1e		Bahr, Damon L.	Associate Professor	Teacher Education		EdD	Brigham Young University	1988	
+	700f5f6ee348b515de8aab30dab68f1e		Barney, David	Associate Professor	Teacher Education		EdD	Florida State University	2002	
+	700f5f6ee348b515de8aab30dab68f1e		Bullough Jr., Robert V.	Professor	Teacher Education		PhD	Ohio State University	1976	
+	700f5f6ee348b515de8aab30dab68f1e		Cutri, Ramona M.	Associate Professor	Teacher Education		PhD	University of California, Los Angeles	1997	
+	700f5f6ee348b515de8aab30dab68f1e		Draper, Roni Jo	Professor	Teacher Education		PhD	University of Nevada, Reno	2000	
+	700f5f6ee348b515de8aab30dab68f1e		Erickson, Lynnette B.	Associate Professor	Teacher Education		PhD	Arizona State University	1996	
+	700f5f6ee348b515de8aab30dab68f1e		Feinauer, Erika	Assistant Professor	Teacher Education		EdD	Harvard University	2006	
+	700f5f6ee348b515de8aab30dab68f1e		Hall-Kenyon, Kendra	Associate Professor	Teacher Education		PhD	Columbia University	2002	
+	700f5f6ee348b515de8aab30dab68f1e		Jensen, Bryant	Assistant Professor	Teacher Education		PhD	Arizona State University	2009	
+	700f5f6ee348b515de8aab30dab68f1e		Korth, Byran	Assistant Professor	Teacher Education		PhD	Auburn University	2000	
+	700f5f6ee348b515de8aab30dab68f1e		Monroe, Eula E.	Professor	Teacher Education		EdD	George Peabody College for Teachers of Vanderbilt University	1980	
+	700f5f6ee348b515de8aab30dab68f1e		Morrison, Timothy G.	Associate Professor	Teacher Education		PhD	University of Illinois	1986	
+	700f5f6ee348b515de8aab30dab68f1e		Newberry, Melissa	Assistant Professor	Teacher Education		PhD	The Ohio State University	2008	
+	700f5f6ee348b515de8aab30dab68f1e		Pennington, Todd R.	Associate Professor	Teacher Education		PhD	Virginia Tech	1998	
+	700f5f6ee348b515de8aab30dab68f1e		Pinnegar, Stefinee E.	Associate Professor	Teacher Education		PhD	University of Arizona	1989	
+	700f5f6ee348b515de8aab30dab68f1e		Prusak, Keven A.	Associate Professor	Teacher Education		PhD	Arizona State University	2000	
+	700f5f6ee348b515de8aab30dab68f1e		Richardson, Michael J.	Assistant Professor	Teacher Education		PhD	Brigham Young University	2009	
+	700f5f6ee348b515de8aab30dab68f1e		Rosborough, Alex	Assistant Professor	Teacher Education		PhD	University of Nevada, Las Vegas	2010	
+	700f5f6ee348b515de8aab30dab68f1e		Smith, Leigh	Associate Professor	Teacher Education		PhD	University of Utah	2002	
+	700f5f6ee348b515de8aab30dab68f1e		Tunnell, Michael O.	Professor	Teacher Education		EdD	Brigham Young University	1986	
+	700f5f6ee348b515de8aab30dab68f1e		Whiting, Erin Feinauer	Assistant Professor	Teacher Education		PhD	University of Missouri-Columbia	2006	
+	700f5f6ee348b515de8aab30dab68f1e		Wilcox, Bradley Ray	Associate Professor	Teacher Education		PhD	University of Wyoming	1994	
+	700f5f6ee348b515de8aab30dab68f1e		Wilkinson, Carol	Associate Professor	Teacher Education		EdD	Brigham Young University	1983	
+	700f5f6ee348b515de8aab30dab68f1e		Wimmer, Jennifer	Assistant Professor	Teacher Education		PhD	University of Nevada, Las Vegas	2010	
+	700f5f6ee348b515de8aab30dab68f1e		Young, Janet R.	Associate Professor	Teacher Education		PhD	University of Oklahoma	1996	
+	700f5f6ee348b515de8aab30dab68f1e		Young, Terrell A.	Professor	Teacher Education		EdD	Brigham Young University	1988	
+	974ca87ec30972845d3054dda89f28e2		Burr, Kevin L.	Associate Professor	Technology		EdD	Oklahoma State University	1997	
+	974ca87ec30972845d3054dda89f28e2		Campbell, Jeffery L.	Associate Professor	Technology		PhD	University of Idaho	1999	
+	974ca87ec30972845d3054dda89f28e2		Christensen, Kip W.	Professor	Technology		PhD	Colorado State University	1991	
+	974ca87ec30972845d3054dda89f28e2		Christofferson, Jay P.	Professor	Technology		PhD	Colorado State University	1996	
+	974ca87ec30972845d3054dda89f28e2		Ekstrom, Joseph J.	Associate Professor	Technology		PhD	Brigham Young University	1991	
+	974ca87ec30972845d3054dda89f28e2		Farnsworth, Clifton	Assistant Professor	Technology		PhD	University of Utah	2008	
+	974ca87ec30972845d3054dda89f28e2		Fry, Richard E.	Associate Professor	Technology		MFA	University of Illinois	1994	
+	974ca87ec30972845d3054dda89f28e2		George, Andrew R.	Assistant Professor	Technology		PhD	University of Stuttgart	2011	
+	974ca87ec30972845d3054dda89f28e2		Hansen, Derek	Assistant Professor	Technology		PhD	University of Michigan	2007	
+	974ca87ec30972845d3054dda89f28e2		Harrell, Charles R.	Associate Professor	Technology		PhD	University of Denmark	1988	
+	974ca87ec30972845d3054dda89f28e2		Hawks, Val D.	Associate Professor	Technology		PhD	Gonzaga University	2005	
+	974ca87ec30972845d3054dda89f28e2		Helps, C. Richard G.	Associate Professor	Technology		MSc Eng	Witwatersrand University Johannesburg .		
+	974ca87ec30972845d3054dda89f28e2		Howell, Bryan	Associate Professor	Technology		MFA	University of Texas, Austin	2003	
+	974ca87ec30972845d3054dda89f28e2		Hutchings, Mark D.	Associate Professor	Technology		PhD	Texas A&M University	2002	
+	974ca87ec30972845d3054dda89f28e2		Lunt, Barry M.	Professor	Technology		PhD	Utah State University	1993	
+	974ca87ec30972845d3054dda89f28e2		Miles, Michael P.	Professor	Technology		PhD	Ecole des Mines de Paris	1995	
+	974ca87ec30972845d3054dda89f28e2		Miller, Kevin R.	Associate Professor	Technology		PhD	Arizona State University	2001	
+	974ca87ec30972845d3054dda89f28e2		Rowe, Dale C.	Assistant Professor	Technology		PhD	University of Kent	2010	
+	974ca87ec30972845d3054dda89f28e2		Shumway, Steven L.	Associate Professor	Technology		PhD	Utah State University	1999	
+	974ca87ec30972845d3054dda89f28e2		Skaggs, Paul T.	Associate Professor	Technology		MFA	Rochester Institute of Technology	2002	
+	974ca87ec30972845d3054dda89f28e2		Teng, Chia Chi	Associate Professor	Technology		PhD	University of Washington	2007	
+	974ca87ec30972845d3054dda89f28e2		Tew, Kevin	Assistant Professor	Technology		PhD	University of Utah	2013	
+	974ca87ec30972845d3054dda89f28e2		Weidman, Justin E.	Assistant Professor	Technology		PhD	Virginia Tech	2012	
+	974ca87ec30972845d3054dda89f28e2		Wright, Geoffrey A.	Assistant Professor	Technology		PhD	Brigham Young University	2008	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Barber, Brad	Associate Teaching Professor	Theatre and Media Arts		MFA	University of Southern California	2005	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Duncan, Dean	Associate Professor	Theatre and Media Arts		PhD	University of Glasgow, Scotland	1999	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Heiner, Barta	Professor	Theatre and Media Arts		MFA	American Conservatory Theatre	1977	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Hollingshaus, Wade	Associate Professor	Theatre and Media Arts		PhD	University of Minnesota	2008	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Jensen, Amy Petersen	Professor	Theatre and Media Arts		PhD	University of Illinois at Urbana Champaign	2003	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Jones, Megan Sanborn	Associate Professor	Theatre and Media Arts		PhD	University of Minnesota	2003	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Larsen, Darl	Professor	Theatre and Media Arts		PhD	Northern Illinois University	2000	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Livingston, Lindsay	Assistant Professor	Theatre and Media Arts		PhD	CUNY Graduate Center	2013	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Nelson, George D.	Professor	Theatre and Media Arts		MFA	University of Washington	1979	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Parkin, Jeffrey L.	Associate Teaching Professor	Theatre and Media Arts		MFA	University of Southern California	1991	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Scanlon, Rory R.	Professor	Theatre and Media Arts		MFA	University of Illinois	1984	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Sorensen, Rodger D.	Professor	Theatre and Media Arts		PhD	University of Texas at Dallas	1999	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Swenson, Sharon	Assistant Professor	Theatre and Media Arts		PhD	University of Utah	1993	
+	273b70b8c13c7f75587f70b7f2dcd4a4		Thevenin, Benjamin	Assistant Professor	Theatre and Media Arts		PhD	University of Colorado	2012	

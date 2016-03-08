@@ -22,7 +22,7 @@ class grad_departments extends grad {
     preg_match("#<h2>Departments</h2>.*?<select.*?Select a Department.*?</select>#uism", $data, $departments);
     preg_match_all("#<option value=\"([A-Za-z0-9].*?)::(.*?)\">\s*(.*?)\s*</option>#uism", $departments[0], $department);
     // TSV file header
-    $departments_file = "college-stub\tdepartments-stub\tcollege-name-short\tdepartment-name\tdepartment-url\n";
+    $departments_file = "college-stub\tdepartment-stub\tcollege-name-short\tdepartment-name\tdepartment-url\n";
     for($i = 0; $i < count($department[0]); $i++) {
       $id                = $this->get_clean_data($department[1][$i]);
       $url               = $this->get_clean_data($department[2][$i]);

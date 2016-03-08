@@ -32,7 +32,6 @@ class grad implements course_catalog {
   }
 
   public function faculty() {
-    return null;
     $faculty = new grad_faculty;
     $faculty->get_faculty();
   }

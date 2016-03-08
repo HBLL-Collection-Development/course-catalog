@@ -12,5 +12,6 @@ $grad = new grad;
 // $grad->colleges();
 // $grad->departments();
 // $grad->programs();
-$grad->courses();
+// $grad->courses();
+// $grad->faculty();
 ?>

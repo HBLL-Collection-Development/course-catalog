@@ -13,7 +13,7 @@ class undergrad_faculty extends undergrad {
 
   public function get_faculty($page_number = 0) {
     $page_count = 1;
-    $header = "college-stub\tdepartment-stub\tfaculty-stub\tfaculty-name\tfaculty-rank\tdepartment-name\tfaculty-url\n";
+    $header = "college-stub\tdepartment-stub\tfaculty-stub\tfaculty-name\tfaculty-rank\tdepartment-name\tfaculty-url\tfaculty-degree\tfaculty-school\tfaculty-degree-year\tfaculty-discipline\n";
     $this->write_file('undergrad_faculty.tsv', $header);
     for($t = 0; $t <= $page_count; $t++) {
       // Query needed to get college information from undergraduate catalog

@@ -1,4 +1,4 @@
-college-stub	department-stub	faculty-stub	faculty-name	faculty-rank	department-name	faculty-url
+college-stub	department-stub	faculty-stub	faculty-name	faculty-rank	department-name	faculty-url	faculty-degree	faculty-school	faculty-degree-year	faculty-discipline
 life-sciences	plant-and-wildlife-sciences	zachary-thomas-aanderud	Zachary Thomas Aanderud	Assistant Professor	Plant and Wildlife Sciences	/life-sciences/plant-and-wildlife-sciences/zachary-thomas-aanderud
 life-sciences	biology	marta-jean-adair	Marta Jean Adair	Associate Teaching Professor	Biology	/life-sciences/biology/marta-jean-adair
 life-sciences	biology	byron-james-adams	Byron James Adams	Professor	Biology	/life-sciences/biology/byron-james-adams
@@ -48,7 +48,7 @@ fine-arts-and-communications	dance	edwin-gean-austin	Edwin Gean Austin	Associate
 fine-arts-and-communications	school-of-music	darrell-gordon-babidge	Darrell Gordon Babidge	Assistant Professor	School of Music	/fine-arts-and-communications/school-of-music/darrell-gordon-babidge
 education	teacher-education	damon-l-bahr	Damon L Bahr	Associate Professor	Teacher Education	/education/teacher-education/damon-l-bahr
 life-sciences	exercise-sciences	bruce-w-bailey	Bruce W Bailey	Associate Professor	Exercise Sciences	/life-sciences/exercise-sciences/bruce-w-bailey
-non-college-and-other-units	counseling-and-career-center	russell-james-bailey	Russell James Bailey	Assistant Clinical Professor	Counseling and Career Center	/non-college-and-other-units/counseling-and-career-center/russell-james-bailey				
+non-college-and-other-units	counseling-and-career-center	russell-james-bailey	Russell James Bailey	Assistant Clinical Professor	Counseling and Career Center	/non-college-and-other-units/counseling-and-career-center/russell-james-bailey
 physical-and-mathematical-sciences	mathematics	roger-clive-baker	Roger Clive Baker	Professor	Mathematics	/physical-and-mathematical-sciences/mathematics/roger-clive-baker
 physical-and-mathematical-sciences	mathematics	lennard-frank-bakker	Lennard Frank Bakker	Associate Professor	Mathematics	/physical-and-mathematical-sciences/mathematics/lennard-frank-bakker
 family-home-and-social-sciences	psychology	scott-baldwin	Scott A Baldwin	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/scott-baldwin
@@ -98,7 +98,7 @@ physical-and-mathematical-sciences	physics-and-astronomy	scott-d-bergeson	Scott 
 physical-and-mathematical-sciences	statistics	candace-berrett	Candace Berrett	Assistant Professor	Statistics	/physical-and-mathematical-sciences/statistics/candace-berrett
 fine-arts-and-communications	dance	marilyn-berrett	Marilyn Berrett	Professor	Dance	/fine-arts-and-communications/dance/marilyn-berrett
 physical-and-mathematical-sciences	physics-and-astronomy	manuel-berrondo	Manuel Berrondo	Professor	Physics and Astronomy	/physical-and-mathematical-sciences/physics-and-astronomy/manuel-berrondo
-physical-and-mathematical-sciences	geological-sciences	barry-r-bickmore	Barry R Bickmore	Professor	Geological Sciences	/physical-and-mathematical-sciences/geological-sciences/barry-r-bickmore				
+physical-and-mathematical-sciences	geological-sciences	barry-r-bickmore	Barry R Bickmore	Professor	Geological Sciences	/physical-and-mathematical-sciences/geological-sciences/barry-r-bickmore
 fine-arts-and-communications	school-of-music	anny-claudine-bigelow	Anny Claudine Bigelow	Professor	School of Music	/fine-arts-and-communications/school-of-music/anny-claudine-bigelow
 family-home-and-social-sciences	psychology	erin-david-bigler	Erin David Bigler	Professor	Psychology	/family-home-and-social-sciences/psychology/erin-david-bigler
 life-sciences	physiology-and-developmental-biology	benjamin-thomas-bikman	Benjamin Thomas Bikman	Assistant Professor	Physiology and Developmental Biology	/life-sciences/physiology-and-developmental-biology/benjamin-thomas-bikman
@@ -148,7 +148,7 @@ family-home-and-social-sciences	psychology	bruce-l-brown	Bruce L Brown	Professor
 fine-arts-and-communications	school-of-music	david-c-brown	David C Brown	Associate Professor	School of Music	/fine-arts-and-communications/school-of-music/david-c-brown
 fine-arts-and-communications	dance	graham-harris-brown	Graham Harris Brown	Assistant Professor	Dance	/fine-arts-and-communications/dance/graham-harris-brown
 family-home-and-social-sciences	history	kendall-walker-brown	Kendall Walker Brown	Professor	History	/family-home-and-social-sciences/history/kendall-walker-brown
-life-sciences	physiology-and-developmental-biology	michael-d-brown	Michael D Brown	Associate Professor	Physiology and Developmental Biology	/life-sciences/physiology-and-developmental-biology/michael-d-brown				
+life-sciences	physiology-and-developmental-biology	michael-d-brown	Michael D Brown	Associate Professor	Physiology and Developmental Biology	/life-sciences/physiology-and-developmental-biology/michael-d-brown
 humanities	german-and-russian	newel-anthony-brown	Newel Anthony Brown	Associate Professor	German and Russian	/humanities/german-and-russian/newel-anthony-brown
 humanities	digital-humanities-program	jeremy-michael-browne	Jeremy Michael Browne	Associate Research Professor	Digital Humanities Program	/humanities/digital-humanities-program/jeremy-michael-browne
 fine-arts-and-communications	school-of-communications	pamela-jo-brubaker	Pamela Jo Brubaker	Assistant Professor	School of Communications	/fine-arts-and-communications/school-of-communications/pamela-jo-brubaker
@@ -198,7 +198,7 @@ education	communication-disorders	ron-w-channell	Ron W Channell	Associate Profes
 humanities	linguistics-and-english-language	don-william-chapman	Don William Chapman	Associate Professor	Linguistics and English Language	/humanities/linguistics-and-english-language/don-william-chapman
 non-college-and-other-units	counseling-and-career-center	ronald-k-chapman	Ronald K Chapman	Clinical Professor	Counseling and Career Center	/non-college-and-other-units/counseling-and-career-center/ronald-k-chapman
 engineering-and-technology	mechanical-engineering	steven-knight-charles	Steven Knight Charles	Assistant Professor	Mechanical Engineering	/engineering-and-technology/mechanical-engineering/steven-knight-charles
-life-sciences	plant-and-wildlife-sciences	john-m-chaston	John M Chaston	Assistant Professor	Plant and Wildlife Sciences	/life-sciences/plant-and-wildlife-sciences/john-m-chaston				
+life-sciences	plant-and-wildlife-sciences	john-m-chaston	John M Chaston	Assistant Professor	Plant and Wildlife Sciences	/life-sciences/plant-and-wildlife-sciences/john-m-chaston
 physical-and-mathematical-sciences	physics-and-astronomy	karine-marguerite-chesnel	Karine Marguerite Chesnel	Assistant Professor	Physics and Astronomy	/physical-and-mathematical-sciences/physics-and-astronomy/karine-marguerite-chesnel
 engineering-and-technology	electrical-and-computer-engineering	shiuhhua-chiang	Shiuhhua Chiang	Assistant Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/shiuhhua-chiang
 family-home-and-social-sciences	sociology	curtis-d-child	Curtis D Child	Assistant Professor	Sociology	/family-home-and-social-sciences/sociology/curtis-d-child
@@ -248,7 +248,7 @@ nursing	nursing-program	cheryl-ann-corbett	Cheryl Ann Corbett	Associate Teaching
 physical-and-mathematical-sciences	mathematics-education	douglas-lyman-corey	Douglas Lyman Corey	Associate Professor	Mathematics Education	/physical-and-mathematical-sciences/mathematics-education/douglas-lyman-corey
 non-college-and-other-units	counseling-and-career-center	jonathan-c-cox	Jonathan C Cox	Assistant Clinical Professor	Counseling and Career Center	/non-college-and-other-units/counseling-and-career-center/jonathan-c-cox
 humanities	center-language-studies	troy-l-cox	Troy L Cox	Assistant Professor	Center for Language Studies	/humanities/center-language-studies/troy-l-cox
-family-home-and-social-sciences	school-of-family-life	sarah-marie-coyne	Sarah Marie Coyne	Associate Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/sarah-marie-coyne				
+family-home-and-social-sciences	school-of-family-life	sarah-marie-coyne	Sarah Marie Coyne	Associate Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/sarah-marie-coyne
 life-sciences	health-science	aliceann-crandall	Aliceann Crandall	Assistant Professor	Health Science	/life-sciences/health-science/aliceann-crandall
 family-home-and-social-sciences	anthropology	david-p-crandall	David P Crandall	Associate Professor	Anthropology	/family-home-and-social-sciences/anthropology/david-p-crandall
 family-home-and-social-sciences	history	jill-n-crandell	Jill N Crandell	Assistant Teaching Professor	History	/family-home-and-social-sciences/history/jill-n-crandell
@@ -298,7 +298,7 @@ family-home-and-social-sciences	school-of-family-life	david-c-dollahite	David C 
 physical-and-mathematical-sciences	geological-sciences	michael-john-dorais	Michael John Dorais	Research Professor	Geological Sciences	/physical-and-mathematical-sciences/geological-sciences/michael-john-dorais
 physical-and-mathematical-sciences	mathematics	michael-john-dorff	Michael John Dorff	Professor	Mathematics	/physical-and-mathematical-sciences/mathematics/michael-john-dorff
 religious-education	church-history-and-doctrine	guy-lewis-dorius	Guy Lewis Dorius	Teaching Professor	Church History and Doctrine	/religious-education/church-history-and-doctrine/guy-lewis-dorius
-management	marketing-and-global-supply-chain	jeffrey-p-dotson	Jeffrey P Dotson	Associate Professor	Marketing and Global Supply Chain	/management/marketing-and-global-supply-chain/jeffrey-p-dotson				
+management	marketing-and-global-supply-chain	jeffrey-p-dotson	Jeffrey P Dotson	Associate Professor	Marketing and Global Supply Chain	/management/marketing-and-global-supply-chain/jeffrey-p-dotson
 physical-and-mathematical-sciences	mathematics	darrin-m-doud	Darrin M Doud	Professor	Mathematics	/physical-and-mathematical-sciences/mathematics/darrin-m-doud
 management	school-of-accountancy	michael-stephen-drake	Michael Stephen Drake	Assistant Professor	School of Accountancy	/management/school-of-accountancy/michael-stephen-drake
 fine-arts-and-communications	art	bryon-kay-draper	Bryon Kay Draper	Associate Professor	Art	/fine-arts-and-communications/art/bryon-kay-draper
@@ -348,7 +348,7 @@ humanities	french-and-italian	robert-gammell-erickson	Robert Gammell Erickson	As
 humanities	english	emron-lee-esplin	Emron Lee Esplin	Assistant Professor	English	/humanities/english/emron-lee-esplin
 humanities	comparative-arts-and-letters	marlene-hansen-esplin	Marlene Hansen Esplin	Assistant Professor	Comparative Arts and Letters	/humanities/comparative-arts-and-letters/marlene-hansen-esplin
 religious-education	church-history-and-doctrine	scott-c-esplin	Scott C Esplin	Associate Professor	Church History and Doctrine	/religious-education/church-history-and-doctrine/scott-c-esplin
-physical-and-mathematical-sciences	chemistry-and-biochemistry	daniel-halsell-ess	Daniel Halsell Ess	Assistant Professor	Chemistry and Biochemistry	/physical-and-mathematical-sciences/chemistry-and-biochemistry/daniel-halsell-ess				
+physical-and-mathematical-sciences	chemistry-and-biochemistry	daniel-halsell-ess	Daniel Halsell Ess	Assistant Professor	Chemistry and Biochemistry	/physical-and-mathematical-sciences/chemistry-and-biochemistry/daniel-halsell-ess
 life-sciences	microbiology-and-molecular-biology	r-paul-evans	R Paul Evans	Assistant Professor	Microbiology and Molecular Biology	/life-sciences/microbiology-and-molecular-biology/r-paul-evans
 physical-and-mathematical-sciences	mathematics	emily-jennings-evans	Emily Jennings Evans	Assistant Professor	Mathematics	/physical-and-mathematical-sciences/mathematics/emily-jennings-evans
 humanities	linguistics-and-english-language	norman-wall-evans	Norman Wall Evans	Associate Professor	Linguistics and English Language	/humanities/linguistics-and-english-language/norman-wall-evans
@@ -398,7 +398,7 @@ family-home-and-social-sciences	psychology	shawn-d-gale	Shawn D Gale	Associate P
 management	organizational-leadership-and-strategy	benjamin-m-galvin	Benjamin M Galvin	Assistant Professor	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy/benjamin-m-galvin
 family-home-and-social-sciences	psychology	edwin-e-gantt	Edwin E Gantt	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/edwin-e-gantt
 family-home-and-social-sciences	history	ignacio-molina-garcia	Ignacio Molina Garcia	Professor	History	/family-home-and-social-sciences/history/ignacio-molina-garcia
-humanities	spanish-and-portuguese	mara-lucy-garcia	Mara Lucy Garcia	Professor	Spanish and Portuguese	/humanities/spanish-and-portuguese/mara-lucy-garcia				
+humanities	spanish-and-portuguese	mara-lucy-garcia	Mara Lucy Garcia	Professor	Spanish and Portuguese	/humanities/spanish-and-portuguese/mara-lucy-garcia
 humanities	linguistics-and-english-language	dee-i-gardner	Dee I Gardner	Associate Professor	Linguistics and English Language	/humanities/linguistics-and-english-language/dee-i-gardner
 management	marketing-and-global-supply-chain	john-wallace-gardner	John Wallace Gardner	Assistant Professor	Marketing and Global Supply Chain	/management/marketing-and-global-supply-chain/john-wallace-gardner
 humanities	linguistics-and-english-language	marvin-kent-gardner	Marvin Kent Gardner	Teaching Professor	Linguistics and English Language	/humanities/linguistics-and-english-language/marvin-kent-gardner
@@ -448,7 +448,7 @@ fine-arts-and-communications	school-of-music	jeremy-n-grimshaw	Jeremy N Grimshaw
 physical-and-mathematical-sciences	statistics	scott-d-grimshaw	Scott D Grimshaw	Professor	Statistics	/physical-and-mathematical-sciences/statistics/scott-d-grimshaw
 non-college-and-other-units	counseling-and-career-center	derek-griner	Derek Griner	Assistant Clinical Professor	Counseling and Career Center	/non-college-and-other-units/counseling-and-career-center/derek-griner
 life-sciences	microbiology-and-molecular-biology	julianne-house-grose	Julianne House Grose	Assistant Professor	Microbiology and Molecular Biology	/life-sciences/microbiology-and-molecular-biology/julianne-house-grose
-physical-and-mathematical-sciences	chemistry-and-biochemistry	xiaobo-gu	Xiaobo Gu	Research Associate	Chemistry and Biochemistry	/physical-and-mathematical-sciences/chemistry-and-biochemistry/xiaobo-gu				
+physical-and-mathematical-sciences	chemistry-and-biochemistry	xiaobo-gu	Xiaobo Gu	Research Associate	Chemistry and Biochemistry	/physical-and-mathematical-sciences/chemistry-and-biochemistry/xiaobo-gu
 family-home-and-social-sciences	political-science	joshua-r-gubler	Joshua R Gubler	Assistant Professor	Political Science	/family-home-and-social-sciences/political-science/joshua-r-gubler
 engineering-and-technology	civil-and-environmental-engineering	william-s-guthrie	William S Guthrie	Professor	Civil and Environmental Engineering	/engineering-and-technology/civil-and-environmental-engineering/william-s-guthrie
 family-home-and-social-sciences	history	leslie-hadfield	Leslie A Hadfield	Assistant Professor	History	/family-home-and-social-sciences/history/leslie-hadfield
@@ -498,7 +498,7 @@ physical-and-mathematical-sciences	physics-and-astronomy	grant-w-hart	Grant W Ha
 physical-and-mathematical-sciences	statistics	brian-matthew-hartman	Brian Matthew Hartman	Assistant Professor	Statistics	/physical-and-mathematical-sciences/statistics/brian-matthew-hartman
 family-home-and-social-sciences	history	gerald-myron-haslam	Gerald Myron Haslam	Associate Professor	History	/family-home-and-social-sciences/history/gerald-myron-haslam
 management	marketing-and-global-supply-chain	nile-w-hatch	Nile W Hatch	Associate Professor	Marketing and Global Supply Chain	/management/marketing-and-global-supply-chain/nile-w-hatch
-religious-education	ancient-scripture	brian-michael-hauglid	Brian Michael Hauglid	Associate Professor	Ancient Scripture	/religious-education/ancient-scripture/brian-michael-hauglid				
+religious-education	ancient-scripture	brian-michael-hauglid	Brian Michael Hauglid	Associate Professor	Ancient Scripture	/religious-education/ancient-scripture/brian-michael-hauglid
 engineering-and-technology	electrical-and-computer-engineering	aaron-r-hawkins	Aaron R Hawkins	Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/aaron-r-hawkins
 family-home-and-social-sciences	school-of-family-life	alan-j-hawkins	Alan J Hawkins	Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/alan-j-hawkins
 family-home-and-social-sciences	political-science	darren-greg-hawkins	Darren Greg Hawkins	Professor	Political Science	/family-home-and-social-sciences/political-science/darren-greg-hawkins
@@ -548,7 +548,7 @@ fine-arts-and-communications	theatre-and-media-arts	wade-james-hollingshaus	Wade
 fine-arts-and-communications	dance	curt-w-holman	Curt W Holman	Associate Professor	Dance	/fine-arts-and-communications/dance/curt-w-holman
 management	finance	andrew-l-holmes	Andrew L Holmes	Associate Professor	Finance	/management/finance/andrew-l-holmes
 family-home-and-social-sciences	school-of-family-life	erin-kramer-holmes	Erin Kramer Holmes	Assistant Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/erin-kramer-holmes
-family-home-and-social-sciences	psychology	julianne-holt-lunstad	Julianne Holt-Lunstad	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/julianne-holt-lunstad				
+family-home-and-social-sciences	psychology	julianne-holt-lunstad	Julianne Holt-Lunstad	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/julianne-holt-lunstad
 religious-education	church-history-and-doctrine	richard-neitzel-holzapfel	Richard Neitzel Holzapfel	Professor	Church History and Doctrine	/religious-education/church-history-and-doctrine/richard-neitzel-holzapfel
 engineering-and-technology	mechanical-engineering	eric-r-homer	Eric R Homer	Assistant Professor	Mechanical Engineering	/engineering-and-technology/mechanical-engineering/eric-r-homer
 humanities	asian-and-near-eastern-languages	david-brian-honey	David Brian Honey	Professor	Asian and Near Eastern Languages	/humanities/asian-and-near-eastern-languages/david-brian-honey
@@ -598,7 +598,7 @@ life-sciences	biology	jamie-l-jensen	Jamie L Jensen	Assistant Professor	Biology	
 engineering-and-technology	electrical-and-computer-engineering	michael-allen-jensen	Michael Allen Jensen	Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/michael-allen-jensen
 management	organizational-leadership-and-strategy	robert-j-jensen	Robert J Jensen	Associate Professor	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy/robert-j-jensen
 family-home-and-social-sciences	geography	ryan-russell-jensen	Ryan Russell Jensen	Professor	Geography	/family-home-and-social-sciences/geography/ryan-russell-jensen
-family-home-and-social-sciences	psychology	chad-d-jensen	Chad D Jensen	Assistant Professor	Psychology	/family-home-and-social-sciences/psychology/chad-d-jensen				
+family-home-and-social-sciences	psychology	chad-d-jensen	Chad D Jensen	Assistant Professor	Psychology	/family-home-and-social-sciences/psychology/chad-d-jensen
 humanities	philosophy	david-allen-jensen	David Allen Jensen	Associate Professor	Philosophy	/humanities/philosophy/david-allen-jensen
 family-home-and-social-sciences	school-of-family-life	alexander-charles-jensen	Alexander Charles Jensen	Assistant Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/alexander-charles-jensen
 fine-arts-and-communications	theatre-and-media-arts	amy-petersen-jensen	Amy Petersen Jensen	Associate Professor	Theatre and Media Arts	/fine-arts-and-communications/theatre-and-media-arts/amy-petersen-jensen
@@ -648,7 +648,7 @@ fine-arts-and-communications	school-of-music	michelle-la-ree-kesler	Michelle La 
 family-home-and-social-sciences	history	alisa-camille-kesler-lund	Alisa Camille Kesler Lund	Assistant Professor	History	/family-home-and-social-sciences/history/alisa-camille-kesler-lund
 engineering-and-technology	mechanical-engineering	marc-d-killpack	Marc D Killpack	Assistant Professor	Mechanical Engineering	/engineering-and-technology/mechanical-engineering/marc-d-killpack
 family-home-and-social-sciences	history	richard-ian-kimball	Richard Ian Kimball	Associate Professor	History	/family-home-and-social-sciences/history/richard-ian-kimball
-fine-arts-and-communications	school-of-music	wilford-w-kimball	Wilford W Kimball	Professor	School of Music	/fine-arts-and-communications/school-of-music/wilford-w-kimball				
+fine-arts-and-communications	school-of-music	wilford-w-kimball	Wilford W Kimball	Professor	School of Music	/fine-arts-and-communications/school-of-music/wilford-w-kimball
 education	instructional-psychology-and-technology	royce-matthew-kimmons	Royce Matthew Kimmons	Assistant Professor	Instructional Psychology and Technology	/education/instructional-psychology-and-technology/royce-matthew-kimmons
 family-home-and-social-sciences	psychology	christopher-b-kirwan	Christopher B Kirwan	Assistant Professor	Psychology	/family-home-and-social-sciences/psychology/christopher-b-kirwan
 humanities	french-and-italian	ilona-klein	Ilona Klein	Associate Professor	French and Italian	/humanities/french-and-italian/ilona-klein
@@ -698,7 +698,7 @@ family-home-and-social-sciences	school-of-family-life	chienti-lee	Chienti Lee	As
 engineering-and-technology	electrical-and-computer-engineering	dah-jye-lee	Dah Jye Lee	Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/dah-jye-lee
 humanities	french-and-italian	daryl-patrick-lee	Daryl Patrick Lee	Associate Professor	French and Italian	/humanities/french-and-italian/daryl-patrick-lee
 family-home-and-social-sciences	economics	lars-john-lefgren	Lars John Lefgren	Professor	Economics	/family-home-and-social-sciences/economics/lars-john-lefgren
-physical-and-mathematical-sciences	physics-and-astronomy	timothy-ward-leishman	Timothy Ward Leishman	Associate Professor	Physics and Astronomy	/physical-and-mathematical-sciences/physics-and-astronomy/timothy-ward-leishman				
+physical-and-mathematical-sciences	physics-and-astronomy	timothy-ward-leishman	Timothy Ward Leishman	Associate Professor	Physics and Astronomy	/physical-and-mathematical-sciences/physics-and-astronomy/timothy-ward-leishman
 humanities	english	peter-daniel-leman	Peter Daniel Leman	Assistant Professor	English	/humanities/english/peter-daniel-leman
 management	organizational-leadership-and-strategy	ben-william-lewis	Ben William Lewis	Assistant Professor	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy/ben-william-lewis
 engineering-and-technology	chemical-engineering	randy-s-lewis	Randy S Lewis	Professor	Chemical Engineering	/engineering-and-technology/chemical-engineering/randy-s-lewis
@@ -748,7 +748,7 @@ humanities	linguistics-and-english-language	alan-dee-manning	Alan Dee Manning	Pr
 religious-education	church-history-and-doctrine	craig-kent-manscill	Craig Kent Manscill	Associate Professor	Church History and Doctrine	/religious-education/church-history-and-doctrine/craig-kent-manscill
 non-college-and-other-units	ballard-center-economic-self-reliance	todd-m-manwaring	Todd M Manwaring	Assistant Teaching Professor	Ballard Center for Economic Self-Reliance	/non-college-and-other-units/ballard-center-economic-self-reliance/todd-m-manwaring
 family-home-and-social-sciences	school-of-social-work	kevin-m-marett	Kevin M Marett	Teaching Professor	School of Social Work	/family-home-and-social-sciences/school-of-social-work/kevin-m-marett
-family-home-and-social-sciences	school-of-family-life	loren-dean-marks	Loren Dean Marks	Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/loren-dean-marks				
+family-home-and-social-sciences	school-of-family-life	loren-dean-marks	Loren Dean Marks	Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/loren-dean-marks
 physical-and-mathematical-sciences	computer-science	tony-r-martinez	Tony R Martinez	Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/tony-r-martinez
 humanities	spanish-and-portuguese	rob-alan-martinsen	Rob Alan Martinsen	Associate Professor	Spanish and Portuguese	/humanities/spanish-and-portuguese/rob-alan-martinsen
 family-home-and-social-sciences	history	matthew-e-mason	Matthew E Mason	Associate Professor	History	/family-home-and-social-sciences/history/matthew-e-mason
@@ -798,7 +798,7 @@ family-home-and-social-sciences	history	shawn-william-miller	Shawn William Mille
 nursing	nursing-program	debra-ann-mills	Debra Ann Mills	Associate Teaching Professor	Nursing Program	/nursing/nursing-program/debra-ann-mills
 non-college-and-other-units	university	amy-baird-miner	Amy Baird Miner	Research Associate	University	/non-college-and-other-units/university/amy-baird-miner
 religious-education	church-history-and-doctrine	roger-minert	Roger Minert	Professor	Church History and Doctrine	/religious-education/church-history-and-doctrine/roger-minert
-life-sciences	exercise-sciences	ulrike-hildegard-mitchell	Ulrike Hildegard Mitchell	Associate Professor	Exercise Sciences	/life-sciences/exercise-sciences/ulrike-hildegard-mitchell				
+life-sciences	exercise-sciences	ulrike-hildegard-mitchell	Ulrike Hildegard Mitchell	Associate Professor	Exercise Sciences	/life-sciences/exercise-sciences/ulrike-hildegard-mitchell
 management	finance	todd-victor-mitton	Todd Victor Mitton	Professor	Finance	/management/finance/todd-victor-mitton
 management	marketing-and-global-supply-chain	richard-bruce-money	Richard Bruce Money	Professor	Marketing and Global Supply Chain	/management/marketing-and-global-supply-chain/richard-bruce-money
 education	teacher-education	eula-monroe	Eula Monroe	Professor	Teacher Education	/education/teacher-education/eula-monroe
@@ -848,7 +848,7 @@ physical-and-mathematical-sciences	chemistry-and-biochemistry	jennifer-burrows-n
 humanities	spanish-and-portuguese	rex-p-nielson	Rex P Nielson	Assistant Professor	Spanish and Portuguese	/humanities/spanish-and-portuguese/rex-p-nielson
 management	organizational-leadership-and-strategy	troy-r-nielson	Troy R Nielson	Associate Professor	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy/troy-r-nielson
 engineering-and-technology	mechanical-engineering	simeon-ning	Simeon A Ning	Assistant Professor	Mechanical Engineering	/engineering-and-technology/mechanical-engineering/simeon-ning
-education	communication-disorders	shawn-l-nissen	Shawn L Nissen	Associate Professor	Communication Disorders	/education/communication-disorders/shawn-l-nissen				
+education	communication-disorders	shawn-l-nissen	Shawn L Nissen	Associate Professor	Communication Disorders	/education/communication-disorders/shawn-l-nissen
 education	teacher-education	ryan-stephen-nixon	Ryan Stephen Nixon	Assistant Professor	Teacher Education	/education/teacher-education/ryan-stephen-nixon
 humanities	french-and-italian	cinzia-g-noble	Cinzia G Noble	Teaching Professor	French and Italian	/humanities/french-and-italian/cinzia-g-noble
 family-home-and-social-sciences	history	jeffery-d-nokes	Jeffery D Nokes	Associate Professor	History	/family-home-and-social-sciences/history/jeffery-d-nokes
@@ -898,7 +898,7 @@ life-sciences	biology	steven-l-peck	Steven L Peck	Associate Professor	Biology	/l
 humanities	comparative-arts-and-letters	cecilia-marie-peek	Cecilia Marie Peek	Associate Professor	Comparative Arts and Letters	/humanities/comparative-arts-and-letters/cecilia-marie-peek
 humanities	comparative-arts-and-letters	larry-h-peer	Larry H Peer	Professor	Comparative Arts and Letters	/humanities/comparative-arts-and-letters/larry-h-peer
 education	teacher-education	todd-robert-pennington	Todd Robert Pennington	Associate Professor	Teacher Education	/education/teacher-education/todd-robert-pennington
-engineering-and-technology	electrical-and-computer-engineering	david-penry	David A Penry	Associate Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/david-penry				
+engineering-and-technology	electrical-and-computer-engineering	david-penry	David A Penry	Associate Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/david-penry
 humanities	english	dennis-ralph-perry	Dennis Ralph Perry	Associate Professor	English	/humanities/english/dennis-ralph-perry
 management	organizational-leadership-and-strategy	lee-tom-perry	Lee Tom Perry	Professor	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy/lee-tom-perry
 life-sciences	plant-and-wildlife-sciences	steven-l-petersen	Steven L Petersen	Associate Professor	Plant and Wildlife Sciences	/life-sciences/plant-and-wildlife-sciences/steven-l-petersen
@@ -948,7 +948,7 @@ physical-and-mathematical-sciences	mathematics	jessica-shepherd-purcell	Jessica 
 humanities	german-and-russian	mark-richard-purves	Mark Richard Purves	Assistant Professor	German and Russian	/humanities/german-and-russian/mark-richard-purves
 physical-and-mathematical-sciences	geological-sciences	jani-radebaugh	Jani Radebaugh	Associate Professor	Geological Sciences	/physical-and-mathematical-sciences/geological-sciences/jani-radebaugh
 life-sciences	biology	russell-ben-rader	Russell Ben Rader	Professor	Biology	/life-sciences/biology/russell-ben-rader
-education	educational-leadership-and-foundations	earl-vance-randall	Earl Vance Randall	Professor	Educational Leadership and Foundations	/education/educational-leadership-and-foundations/earl-vance-randall				
+education	educational-leadership-and-foundations	earl-vance-randall	Earl Vance Randall	Professor	Educational Leadership and Foundations	/education/educational-leadership-and-foundations/earl-vance-randall
 fine-arts-and-communications	school-of-communications	quint-bryce-randle	Quint Bryce Randle	Associate Professor	School of Communications	/fine-arts-and-communications/school-of-communications/quint-bryce-randle
 family-home-and-social-sciences	economics	michael-r-ransom	Michael R Ransom	Professor	Economics	/family-home-and-social-sciences/economics/michael-r-ransom
 nursing	nursing-program	ryan-jay-rasmussen	Ryan Jay Rasmussen	Assistant Teaching Professor	Nursing Program	/nursing/nursing-program/ryan-jay-rasmussen
@@ -998,7 +998,7 @@ physical-and-mathematical-sciences	computer-science	kenneth-j-rodham	Kenneth J R
 life-sciences	biology	beverly-l-roeder	Beverly L Roeder	Professor	Biology	/life-sciences/biology/beverly-l-roeder
 engineering-and-technology	civil-and-environmental-engineering	kyle-rollins	Kyle Rollins	Professor	Civil and Environmental Engineering	/engineering-and-technology/civil-and-environmental-engineering/kyle-rollins
 management	information-systems	marshall-b-romney	Marshall B Romney	Professor	Information Systems	/management/information-systems/marshall-b-romney
-physical-and-mathematical-sciences	computer-science	paul-ross-roper	Paul Ross Roper	Associate Teaching Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/paul-ross-roper				
+physical-and-mathematical-sciences	computer-science	paul-ross-roper	Paul Ross Roper	Associate Teaching Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/paul-ross-roper
 family-home-and-social-sciences	school-of-family-life	susanne-olsen-roper	Susanne Olsen Roper	Associate Professor	School of Family Life	/family-home-and-social-sciences/school-of-family-life/susanne-olsen-roper
 education	teacher-education	alessandro-antonio-rosborough	Alessandro Antonio Rosborough	Assistant Professor	Teacher Education	/education/teacher-education/alessandro-antonio-rosborough
 humanities	spanish-and-portuguese	john-r-rosenberg	John R Rosenberg	Professor	Spanish and Portuguese	/humanities/spanish-and-portuguese/john-r-rosenberg
@@ -1048,7 +1048,7 @@ life-sciences	biology	dennis-kenji-shiozawa	Dennis Kenji Shiozawa	Professor	Biol
 family-home-and-social-sciences	economics	mark-h-showalter	Mark H Showalter	Professor	Economics	/family-home-and-social-sciences/economics/mark-h-showalter
 family-home-and-social-sciences	geography	j-matthew-shumway	J Matthew Shumway	Professor	Geography	/family-home-and-social-sciences/geography/j-matthew-shumway
 fine-arts-and-communications	school-of-music	jeffrey-l-shumway	Jeffrey L Shumway	Professor	School of Music	/fine-arts-and-communications/school-of-music/jeffrey-l-shumway
-family-home-and-social-sciences	history	jeffrey-merrill-shumway	Jeffrey Merrill Shumway	Associate Professor	History	/family-home-and-social-sciences/history/jeffrey-merrill-shumway				
+family-home-and-social-sciences	history	jeffrey-merrill-shumway	Jeffrey Merrill Shumway	Associate Professor	History	/family-home-and-social-sciences/history/jeffrey-merrill-shumway
 engineering-and-technology	school-of-technology	steven-leroy-shumway	Steven Leroy Shumway	Associate Professor	School of Technology	/engineering-and-technology/school-of-technology/steven-leroy-shumway
 physical-and-mathematical-sciences	mathematics-education	daniel-kevin-siebert	Daniel Kevin Siebert	Associate Professor	Mathematics Education	/physical-and-mathematical-sciences/mathematics-education/daniel-kevin-siebert
 humanities	english	brandie-r-siegfried	Brandie R Siegfried	Associate Professor	English	/humanities/english/brandie-r-siegfried
@@ -1098,7 +1098,7 @@ life-sciences	physiology-and-developmental-biology	michael-robert-stark	Michael 
 education	counseling-psychology-and-special-education	katie-edna-steed	Katie Edna Steed	Associate Clinical Professor	Counseling Psychology and Special Education	/education/counseling-psychology-and-special-education/katie-edna-steed
 life-sciences	nutrition-dietetics-and-food-science	frost-m-steele	Frost M Steele	Associate Professor	Nutrition Dietetics and Food Science	/life-sciences/nutrition-dietetics-and-food-science/frost-m-steele
 family-home-and-social-sciences	psychology	patrick-r-steffen	Patrick R Steffen	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/patrick-r-steffen
-family-home-and-social-sciences	psychology	scott-c-steffensen	Scott C Steffensen	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/scott-c-steffensen				
+family-home-and-social-sciences	psychology	scott-c-steffensen	Scott C Steffensen	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/scott-c-steffensen
 physical-and-mathematical-sciences	physics-and-astronomy	denise-catherine-stephens	Denise Catherine Stephens	Assistant Professor	Physics and Astronomy	/physical-and-mathematical-sciences/physics-and-astronomy/denise-catherine-stephens
 life-sciences	plant-and-wildlife-sciences	mikel-ross-stevens	Mikel Ross Stevens	Professor	Plant and Wildlife Sciences	/life-sciences/plant-and-wildlife-sciences/mikel-ross-stevens
 management	school-of-accountancy	bryan-w-stewart	Bryan W Stewart	Assistant Professor	School of Accountancy	/management/school-of-accountancy/bryan-w-stewart
@@ -1148,7 +1148,7 @@ nursing	nursing-program	michael-cornel-thomas	Michael Cornel Thomas	Assistant Te
 humanities	french-and-italian	chantal-p-thompson	Chantal P Thompson	Teaching Professor	French and Italian	/humanities/french-and-italian/chantal-p-thompson
 family-home-and-social-sciences	anthropology	gregory-thompson	Gregory A Thompson	Assistant Professor	Anthropology	/family-home-and-social-sciences/anthropology/gregory-thompson
 humanities	spanish-and-portuguese	gregory-l-thompson	Gregory L Thompson	Assistant Professor	Spanish and Portuguese	/humanities/spanish-and-portuguese/gregory-l-thompson
-management	organizational-leadership-and-strategy	michael-p-thompson	Michael P Thompson	Associate Professor	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy/michael-p-thompson				
+management	organizational-leadership-and-strategy	michael-p-thompson	Michael P Thompson	Associate Professor	Organizational Leadership and Strategy	/management/organizational-leadership-and-strategy/michael-p-thompson
 fine-arts-and-communications	school-of-communications	steven-riley-thomsen	Steven Riley Thomsen	Professor	School of Communications	/fine-arts-and-communications/school-of-communications/steven-riley-thomsen
 life-sciences	physiology-and-developmental-biology	david-morley-thomson	David Morley Thomson	Associate Professor	Physiology and Developmental Biology	/life-sciences/physiology-and-developmental-biology/david-morley-thomson
 management	finance	steven-r-thorley	Steven R Thorley	Professor	Finance	/management/finance/steven-r-thorley
@@ -1198,7 +1198,7 @@ management	recreation-management	peter-joseph-ward	Peter Joseph Ward	Associate P
 physical-and-mathematical-sciences	physics-and-astronomy	michael-j-ware	Michael J Ware	Associate Professor	Physics and Astronomy	/physical-and-mathematical-sciences/physics-and-astronomy/michael-j-ware
 humanities	asian-and-near-eastern-languages	j-paul-warnick	J Paul Warnick	Associate Professor	Asian and Near Eastern Languages	/humanities/asian-and-near-eastern-languages/j-paul-warnick
 engineering-and-technology	electrical-and-computer-engineering	karl-f-warnick	Karl F Warnick	Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/karl-f-warnick
-physical-and-mathematical-sciences	computer-science	sean-c-warnick	Sean C Warnick	Associate Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/sean-c-warnick				
+physical-and-mathematical-sciences	computer-science	sean-c-warnick	Sean C Warnick	Associate Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/sean-c-warnick
 family-home-and-social-sciences	psychology	jared-scott-warren	Jared Scott Warren	Associate Professor	Psychology	/family-home-and-social-sciences/psychology/jared-scott-warren
 humanities	asian-and-near-eastern-languages	masakazu-watabe	Masakazu Watabe	Professor	Asian and Near Eastern Languages	/humanities/asian-and-near-eastern-languages/masakazu-watabe
 physical-and-mathematical-sciences	chemistry-and-biochemistry	richard-kent-watt	Richard Kent Watt	Associate Professor	Chemistry and Biochemistry	/physical-and-mathematical-sciences/chemistry-and-biochemistry/richard-kent-watt
@@ -1248,7 +1248,7 @@ fine-arts-and-communications	school-of-communications	christopher-e-wilson	Chris
 life-sciences	microbiology-and-molecular-biology	eric-wilson	Eric Wilson	Associate Professor	Microbiology and Molecular Biology	/life-sciences/microbiology-and-molecular-biology/eric-wilson
 education	teacher-education	jennifer-j-wimmer	Jennifer J Wimmer	Assistant Professor	Teacher Education	/education/teacher-education/jennifer-j-wimmer
 nursing	nursing-program	debra-k-wing	Debra K Wing	Assistant Teaching Professor	Nursing Program	/nursing/nursing-program/debra-k-wing
-physical-and-mathematical-sciences	computer-science	david-wingate	David Wingate	Assistant Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/david-wingate				
+physical-and-mathematical-sciences	computer-science	david-wingate	David Wingate	Assistant Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/david-wingate
 nursing	nursing-program	blaine-ashby-winters	Blaine Ashby Winters	Assistant Teaching Professor	Nursing Program	/nursing/nursing-program/blaine-ashby-winters
 engineering-and-technology	electrical-and-computer-engineering	michael-joseph-wirthlin	Michael Joseph Wirthlin	Professor	Electrical and Computer Engineering	/engineering-and-technology/electrical-and-computer-engineering/michael-joseph-wirthlin
 life-sciences	physiology-and-developmental-biology	jonathan-jayme-wisco	Jonathan Jayme Wisco	Associate Professor	Physiology and Developmental Biology	/life-sciences/physiology-and-developmental-biology/jonathan-jayme-wisco
@@ -1284,4 +1284,4 @@ management	recreation-management	ramon-b-zabriskie	Ramon B Zabriskie	Professor	R
 education	teacher-education	maria-betio-zanandrea	Maria Betio Zanandrea	Associate Professor	Teacher Education	/education/teacher-education/maria-betio-zanandrea
 physical-and-mathematical-sciences	computer-science	daniel-mark-alexander-zappala	Daniel Mark Alexander Zappala	Associate Professor	Computer Science	/physical-and-mathematical-sciences/computer-science/daniel-mark-alexander-zappala
 management	school-of-accountancy	mark-foster-zimbelman	Mark Foster Zimbelman	Professor	School of Accountancy	/management/school-of-accountancy/mark-foster-zimbelman
-life-sciences	microbiology-and-molecular-biology	william-b-zundel	William B Zundel	Associate Professor	Microbiology and Molecular Biology	/life-sciences/microbiology-and-molecular-biology/william-b-zundel				
+life-sciences	microbiology-and-molecular-biology	william-b-zundel	William B Zundel	Associate Professor	Microbiology and Molecular Biology	/life-sciences/microbiology-and-molecular-biology/william-b-zundel
