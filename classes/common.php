@@ -21,19 +21,17 @@ trait common {
    * @param array $query An associative array of all query values
    * @return string Contents of requested page
    **/
-  protected function get_data($query = NULL) {
+  protected function get_data($url, $query = NULL) {
     $ch = curl_init();
     $options = array(CURLOPT_COOKIESESSION => true,
                      CURLOPT_COOKIEJAR => config::get('cookie_jar'),
                      CURLOPT_COOKIEFILE => config::get('cookie_jar'),
-                     CURLOPT_RETURNTRANSFER => true
+                     CURLOPT_RETURNTRANSFER => true,
+                     CURLOPT_URL => $url
                     );
-    if($query) { // Undergraduate data
-      $options[CURLOPT_URL] = config::get('undergrad_catalog_url');
+    if($query) {
       $options[CURLOPT_POST] = true;
       $options[CURLOPT_POSTFIELDS] = http_build_query($query);
-    } else { // Graduate data
-      $options[CURLOPT_URL] = config::get('graduate_catalog_url');
     }
     curl_setopt_array($ch, $options);
     if(!$result = curl_exec($ch)) {

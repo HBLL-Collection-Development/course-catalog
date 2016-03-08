@@ -10,11 +10,6 @@
 
 class grad implements course_catalog {
   use common;
-  protected $graduate_catalog;
-
-  public function __construct() {
-    $this->graduate_catalog = $this->get_data();
-  }
 
   public function colleges() {
     $colleges = new grad_colleges;
@@ -32,7 +27,6 @@ class grad implements course_catalog {
   }
 
   public function courses() {
-    return null;
     $courses = new grad_courses;
     $courses->get_courses();
   }

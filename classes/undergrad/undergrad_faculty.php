@@ -24,7 +24,7 @@ class undergrad_faculty extends undergrad {
                      'view_display_id' => 'block',
                      'page' => $page_number);
       // Get PHP array data from JSON in data
-      $faculty = json_decode($this->get_data($query), true);
+      $faculty = json_decode($this->get_data(config::get('undergrad_catalog_url'), $query), true);
       $data = $faculty[1]['data'];
       // Scrape data for relevant information
       // WARNING: very finicky and highly dependent on code in the

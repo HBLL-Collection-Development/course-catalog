@@ -12,7 +12,7 @@ class grad_colleges extends grad {
   use common;
 
   public function get_colleges() {
-    $this->write_colleges($this->graduate_catalog);
+    $this->write_colleges($this->get_data(config::get('graduate_catalog_url')));
   }
 
   private function write_colleges($data) {

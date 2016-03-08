@@ -18,7 +18,7 @@ class undergrad_colleges extends undergrad {
     $query = array('view_name' => 'colleges',
                    'view_display_id' => 'block_1');
     // Get PHP array data from JSON in data
-    $colleges = json_decode($this->get_data($query), true);
+    $colleges = json_decode($this->get_data(config::get('undergrad_catalog_url'), $query), true);
     // Write data to file
     $this->write_colleges($colleges);
   }

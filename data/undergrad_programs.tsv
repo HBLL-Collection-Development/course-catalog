@@ -1,4 +1,4 @@
-college-stub	department-stub	program-stub	college-name-short	program-name	program-url
+college-stub	department-stub	program-stub	college-name-short	department-name	program-name	program-url
 management	school-of-accountancy	accounting-bs	Management	School of Accountancy	Accounting (BS)	/management/school-of-accountancy/accounting-bs
 fine-arts-and-communications	theatre-and-media-arts	acting-bfa	Fine Arts and Communications	Theatre and Media Arts	Acting (BFA)	/fine-arts-and-communications/theatre-and-media-arts/acting-bfa
 physical-and-mathematical-sciences	statistics	actuarial-science-minor	Physical and Mathematical Sciences	Statistics	Actuarial Science (Minor)	/physical-and-mathematical-sciences/statistics/actuarial-science-minor
@@ -63,8 +63,8 @@ fine-arts-and-communications	school-of-communications	communications-news-media-
 fine-arts-and-communications	school-of-communications	communications-public-relations-ba	Fine Arts and Communications	School of Communications	Communications: Public Relations (BA)	/fine-arts-and-communications/school-of-communications/communications-public-relations-ba
 humanities	comparative-arts-and-letters	comparative-literature-ba	Humanities	Comparative Arts and Letters	Comparative Literature (BA)	/humanities/comparative-arts-and-letters/comparative-literature-ba
 engineering-and-technology	electrical-and-computer-engineering	computer-engineering-bs	Engineering and Technology	Electrical and Computer Engineering	Computer Engineering (BS)	/engineering-and-technology/electrical-and-computer-engineering/computer-engineering-bs
-physical-and-mathematical-sciences	computer-science	computer-science-minor	Physical and Mathematical Sciences	Computer Science	Computer Science (Minor)	/physical-and-mathematical-sciences/computer-science/computer-science-minor
 physical-and-mathematical-sciences	computer-science	computer-science-bs	Physical and Mathematical Sciences	Computer Science	Computer Science (BS)	/physical-and-mathematical-sciences/computer-science/computer-science-bs
+physical-and-mathematical-sciences	computer-science	computer-science-minor	Physical and Mathematical Sciences	Computer Science	Computer Science (Minor)	/physical-and-mathematical-sciences/computer-science/computer-science-minor
 physical-and-mathematical-sciences	computer-science	computer-science-teaching-minor	Physical and Mathematical Sciences	Computer Science	Computer Science Teaching (Minor)	/physical-and-mathematical-sciences/computer-science/computer-science-teaching-minor
 physical-and-mathematical-sciences	computer-science	computer-science-animation-bs	Physical and Mathematical Sciences	Computer Science	Computer Science: Animation (BS)	/physical-and-mathematical-sciences/computer-science/computer-science-animation-bs
 physical-and-mathematical-sciences	computer-science	computer-science-bioinformatics-bs	Physical and Mathematical Sciences	Computer Science	Computer Science: Bioinformatics (BS)	/physical-and-mathematical-sciences/computer-science/computer-science-bioinformatics-bs
@@ -84,8 +84,8 @@ humanities	digital-humanities-program	digital-humanities-and-technology-minor	Hu
 education	teacher-education	dual-language-immersion-k-12-teaching-minor	Education	Teacher Education	Dual-Language Immersion K-12 Teaching (Minor)	/education/teacher-education/dual-language-immersion-k-12-teaching-minor
 education	teacher-education	early-childhood-education-bs	Education	Teacher Education	Early Childhood Education (BS)	/education/teacher-education/early-childhood-education-bs
 physical-and-mathematical-sciences	geological-sciences	earth-space-science-education-bs	Physical and Mathematical Sciences	Geological Sciences	Earth & Space Science Education (BS)	/physical-and-mathematical-sciences/geological-sciences/earth-space-science-education-bs
-family-home-and-social-sciences	economics	economics-bs	Family Home and Social Sciences	Economics	Economics (BS)	/family-home-and-social-sciences/economics/economics-bs
 family-home-and-social-sciences	economics	economics-minor	Family Home and Social Sciences	Economics	Economics (Minor)	/family-home-and-social-sciences/economics/economics-minor
+family-home-and-social-sciences	economics	economics-bs	Family Home and Social Sciences	Economics	Economics (BS)	/family-home-and-social-sciences/economics/economics-bs
 humanities	linguistics-and-english-language	editing-minor	Humanities	Linguistics and English Language	Editing (Minor)	/humanities/linguistics-and-english-language/editing-minor
 engineering-and-technology	electrical-and-computer-engineering	electrical-engineering-bs	Engineering and Technology	Electrical and Computer Engineering	Electrical Engineering (BS)	/engineering-and-technology/electrical-and-computer-engineering/electrical-engineering-bs
 education	teacher-education	elementary-education-bs	Education	Teacher Education	Elementary Education (BS)	/education/teacher-education/elementary-education-bs
@@ -193,8 +193,8 @@ engineering-and-technology	mechanical-engineering	mechanical-engineering-bs	Engi
 fine-arts-and-communications	theatre-and-media-arts	media-arts-studies-minor	Fine Arts and Communications	Theatre and Media Arts	Media Arts Studies (Minor)	/fine-arts-and-communications/theatre-and-media-arts/media-arts-studies-minor
 fine-arts-and-communications	theatre-and-media-arts	media-arts-studies-ba	Fine Arts and Communications	Theatre and Media Arts	Media Arts Studies (BA)	/fine-arts-and-communications/theatre-and-media-arts/media-arts-studies-ba
 life-sciences	microbiology-and-molecular-biology	medical-laboratory-science-bs	Life Sciences	Microbiology and Molecular Biology	Medical Laboratory Science (BS)	/life-sciences/microbiology-and-molecular-biology/medical-laboratory-science-bs
-life-sciences	microbiology-and-molecular-biology	microbiology-bs	Life Sciences	Microbiology and Molecular Biology	Microbiology (BS)	/life-sciences/microbiology-and-molecular-biology/microbiology-bs
 life-sciences	microbiology-and-molecular-biology	microbiology-minor	Life Sciences	Microbiology and Molecular Biology	Microbiology (Minor)	/life-sciences/microbiology-and-molecular-biology/microbiology-minor
+life-sciences	microbiology-and-molecular-biology	microbiology-bs	Life Sciences	Microbiology and Molecular Biology	Microbiology (BS)	/life-sciences/microbiology-and-molecular-biology/microbiology-bs
 international-and-area-studies	middle-eastern-studies-arabic-program	middle-east-studies-minor	International and Area Studies	Middle Eastern Studies - Arabic Program	Middle East Studies (Minor)	/international-and-area-studies/middle-eastern-studies-arabic-program/middle-east-studies-minor
 international-and-area-studies	middle-eastern-studies-arabic-program	middle-east-studies-arabic-ba	International and Area Studies	Middle Eastern Studies - Arabic Program	Middle East Studies / Arabic (BA)	/international-and-area-studies/middle-eastern-studies-arabic-program/middle-east-studies-arabic-ba
 management	military-science	military-science-minor	Management	Military Science	Military Science (Minor)	/management/military-science/military-science-minor
@@ -227,8 +227,8 @@ humanities	philosophy	philosophy-ba	Humanities	Philosophy	Philosophy (BA)	/human
 humanities	philosophy	philosophy-minor	Humanities	Philosophy	Philosophy (Minor)	/humanities/philosophy/philosophy-minor
 fine-arts-and-communications	design	photography-bfa	Fine Arts and Communications	Design	Photography (BFA)	/fine-arts-and-communications/design/photography-bfa
 education	teacher-education	physical-education-tchgcoaching-k-12-bs	Education	Teacher Education	Physical Education Tchg/Coaching (K-12) (BS)	/education/teacher-education/physical-education-tchgcoaching-k-12-bs
-physical-and-mathematical-sciences	physics-and-astronomy	physics-minor	Physical and Mathematical Sciences	Physics and Astronomy	Physics (Minor)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-minor
 physical-and-mathematical-sciences	physics-and-astronomy	physics-bs	Physical and Mathematical Sciences	Physics and Astronomy	Physics (BS)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-bs
+physical-and-mathematical-sciences	physics-and-astronomy	physics-minor	Physical and Mathematical Sciences	Physics and Astronomy	Physics (Minor)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-minor
 physical-and-mathematical-sciences	physics-and-astronomy	physics-teaching-bs	Physical and Mathematical Sciences	Physics and Astronomy	Physics Teaching (BS)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-teaching-bs
 physical-and-mathematical-sciences	physics-and-astronomy	physics-teaching-minor	Physical and Mathematical Sciences	Physics and Astronomy	Physics Teaching (Minor)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-teaching-minor
 physical-and-mathematical-sciences	physics-and-astronomy	physics-astronomy-bs	Physical and Mathematical Sciences	Physics and Astronomy	Physics--Astronomy (BS)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-astronomy-bs
@@ -257,8 +257,8 @@ humanities	comparative-arts-and-letters	scandinavian-studies-minor	Humanities	Co
 life-sciences	health-science	school-health-education-minor	Life Sciences	Health Science	School Health Education (Minor)	/life-sciences/health-science/school-health-education-minor
 family-home-and-social-sciences	sociology	sociology-minor	Family Home and Social Sciences	Sociology	Sociology (Minor)	/family-home-and-social-sciences/sociology/sociology-minor
 family-home-and-social-sciences	sociology	sociology-bs	Family Home and Social Sciences	Sociology	Sociology (BS)	/family-home-and-social-sciences/sociology/sociology-bs
-humanities	spanish-and-portuguese	spanish-ba	Humanities	Spanish and Portuguese	Spanish (BA)	/humanities/spanish-and-portuguese/spanish-ba
 humanities	spanish-and-portuguese	spanish-minor	Humanities	Spanish and Portuguese	Spanish (Minor)	/humanities/spanish-and-portuguese/spanish-minor
+humanities	spanish-and-portuguese	spanish-ba	Humanities	Spanish and Portuguese	Spanish (BA)	/humanities/spanish-and-portuguese/spanish-ba
 humanities	spanish-and-portuguese	spanish-studies-secondary-major-ba	Humanities	Spanish and Portuguese	Spanish Studies (Secondary Major) (BA)	/humanities/spanish-and-portuguese/spanish-studies-secondary-major-ba
 humanities	spanish-and-portuguese	spanish-teaching-minor	Humanities	Spanish and Portuguese	Spanish Teaching (Minor)	/humanities/spanish-and-portuguese/spanish-teaching-minor
 humanities	spanish-and-portuguese	spanish-teaching-ba	Humanities	Spanish and Portuguese	Spanish Teaching (BA)	/humanities/spanish-and-portuguese/spanish-teaching-ba
