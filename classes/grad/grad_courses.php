@@ -39,7 +39,7 @@ class grad_courses extends grad {
         $course_name         = $this->get_clean_data($course_list[3][$j]);
         $course_credit_hours = $this->get_clean_data($course_list[5][$j]);
         $course_description  = $this->get_clean_data($course_list[7][$j]);
-        $courses_file       .= "\t$department_stub\t\t$department_name\t$course_credit_hours\t$course_description\t$course_prefix $course_number\t$course_name\t\n";
+        $courses_file       .= "\t$department_stub\t\t$department_name\t'$course_credit_hours\t$course_description\t$course_prefix $course_number\t$course_name\t\n";
       }
     }
     $this->write_file('grad_courses.tsv', $courses_file);

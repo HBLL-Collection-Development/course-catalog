@@ -34,7 +34,7 @@ class grad_faculty extends grad {
       $faculty_data = json_decode($faculty_json, true);
       $faculty_data = $faculty_data[1]['data'];
       preg_match_all("#<table.*?>(.*?)</table>#uism", $faculty_data, $department_faculty);
-      preg_match_all("#<tr.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?>.*?</tr.*?>#uism", $department_faculty[0][0], $faculty_member);
+      preg_match_all("#<tr.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?><td.*?>(.*?)</td.*?>.*?</tr.*?>#uism", $department_faculty[0][0], $faculty_member);
       $department_stub = $this->get_clean_data($department[1][$i]);
       $department_name = $this->get_clean_data($department[3][$i]);
       for($j = 0; $j < count($faculty_member[0]); $j++) {

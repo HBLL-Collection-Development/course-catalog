@@ -46,7 +46,7 @@ class undergrad_courses extends undergrad {
       $course_name   = $this->get_clean_data($data[4][$i]);
       $description   = explode("\n", $description);
       $department    = $this->get_clean_data($description[0]);
-      $credit_hours  = $this->get_clean_data($description[1]);
+      $credit_hours  = "'" . $this->get_clean_data($description[1]);
       $description   = $this->get_clean_data($description[2]);
       // Some courses only have a college and no department so leave
       // department-stub column empty if there are only 2 stubs instead of 3
