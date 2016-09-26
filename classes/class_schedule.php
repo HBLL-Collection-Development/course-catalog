@@ -30,6 +30,7 @@ class class_schedule {
     $data = strip_tags($data); // strip actual HTML/XML tags
     $data = preg_replace("#([0-9]{5})#uism", "\n$1", $data);
     $data = str_replace('#', "\t", $data);
+    $data = str_replace('"', '', $data);
     $this->write_file($semester . '_class_schedule.tsv', $data, true);
   }
 
