@@ -106,7 +106,28 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 00704	015	BIO	1	559	R	002		DAY	Adv Topics Ecology & Evolution	Adams, Byron	6V	TBA	TBA	TBA	TBA 	BIO 559R section 002:  Invertebrate Field Biology	20 / 20	0	
 00704	015	BIO	1	559	R	005		DAY	Adv Topics Ecology & Evolution	Belk, Mark	1	TBA	TBA	TBA	TBA 	BIO 559R section 005: Marine Fisheries and Conservation	3 / 8	0	
 00704	015	BIO	1	559	R	006		DAY	Adv Topics Ecology & Evolution	Jensen, Jamie	6V	TBA	TBA	TBA	TBA 		0 / 0	0	
-00704	015	BIO	1	559	R	008		DAY	Adv Topics Ecology & Evolution	Belk, Mark	1	TBA	TBA	TBA	TBA 	BIO 559R, Section 008:&
+00704	015	BIO	1	559	R	008		DAY	Adv Topics Ecology & Evolution	Belk, Mark	1	TBA	TBA	TBA	TBA 	BIO 559R, Section 008: Geometric Morphometrics	0 / 0	0	
+00704	020	BIO	1	559	R	009	N	ST ABROAD	Physiological Ecology		6V	TBA	TBA	TBA	TBA 		98 / 99	0	
+00711	006	BIO	1	699	R	001		DAY	Master's Thesis	Belk, Mark	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+00711	006	BIO	1	699	R	002		DAY	Master's Thesis	Bybee, Seth	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00711	006	BIO	1	699	R	003		DAY	Master's Thesis	Gill, Richard	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00711	006	BIO	1	699	R	004		DAY	Master's Thesis	Peck, Steven	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00711	006	BIO	1	699	R	005		DAY	Master's Thesis	Johnson, Jerry	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00711	006	BIO	1	699	R	006		DAY	Master's Thesis	Jensen, Jamie	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+00711	006	BIO	1	699	R	007		DAY	Master's Thesis	Whiting, Michael	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00711	006	BIO	1	699	R	008		DAY	Master's Thesis	Shiozawa, Dennis	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00711	006	BIO	1	699	R	009		DAY	Master's Thesis	Rogers, Duke	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00711	006	BIO	1	699	R	010		DAY	Master's Thesis	Adams, Byron	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+00720	005	BIO	1	799	R	001		DAY	Dissertation	Jellen, Rick	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+00720	005	BIO	1	799	R	002		DAY	Dissertation	Sites, Jack	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+00720	005	BIO	1	799	R	003		DAY	Dissertation	Bybee, Seth	9V	TBA	TBA	TBA	TBA 		3 / 5	0	
+00720	005	BIO	1	799	R	004		DAY	Dissertation	Kauwe, Keoni	9V	TBA	TBA	TBA	TBA 		2 / 3	0	
+00720	005	BIO	1	799	R	005		DAY	Dissertation	StClair, Larry	9V	TBA	TBA	TBA	TBA 		1 / 2	0	
+00720	005	BIO	1	799	R	006		DAY	Dissertation	Belk, Mark	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+00720	005	BIO	1	799	R	007		DAY	Dissertation	Johnson, Jerry	9V	TBA	TBA	TBA	TBA 		0 / 2	0	
+00720	005	BIO	1	799	R	008		DAY	Dissertation	Adams, Byron	9V	TBA	TBA	TBA	TBA 		1 / 2	0	
+00720	005	BIO	1	799	R	009		DAY	Dissertation	Gill, Richard	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+00720	005	BIO	1	799	R	010		DAY	Dissertation	Jensen, Jamie	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
 00799	011	BUS M	S	199	R	001		DAY	Academic Internship	Thompson, Michael	3V	TBA	TBA	TBA	TBA 	BUS M 199R: An APPROVED Internship Application is required before adding.BUS M 199R: You must contact the Internship Office in 460 TNRB for more information about class requirements. Please contact the Internship office immediately after registering for class.  If you have any questions you can call at 801-422-4573 or email internships@byu.net.This class requires internship coordinator approval.	8 / 30	0	
 00799	011	BUS M	S	199	R	002		DAY	Academic Internship	Thompson, Michael	3V	TBA	TBA	TBA	TBA 	BUS M 199R: An APPROVED Internship Application is required before adding.BUS M 199R: You must contact the Internship Office in 460 TNRB for more information about class requirements. Please contact the Internship office immediately after registering for class.  If you have any questions you can call at 801-422-4573 or email internships@byu.net.This class requires internship coordinator approval.	29 / 30	0	
 00799	011	BUS M	1	199	R	003	N	ST ABROAD	Academic Internship		3V	TBA	TBA	TBA	TBA 	BUS M 199R: An APPROVED Internship Application is required before adding.BUS M 199R: You must contact the Internship Office in 460 TNRB for more information about class requirements. Please contact the Internship office immediately after registering for class.  If you have any questions you can call at 801-422-4573 or email internships@byu.net.	98 / 99	0	
@@ -250,7 +271,13 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 00972	003	CH EN	1	498	R	001		DAY	Undrgraduate Research	Jacobson, Serena	3V	TBA	TBA	TBA	TBA 		0 / 10	0	
 00972	003	CH EN	1	498	R	002		DAY	Undrgraduate Research	Wheeler, Dean	3V	TBA	TBA	TBA	TBA 		3 / 5	0	
 07797	001	CH EN	1	518		001		DAY	Biomedical Engin Principles	Pitt, Bill	3	MWF	08:00am	09:50am	125 CB 		11 / 15	0	
-10943	000	CH EN	1	593	R	001		DAY	Special Topics - Intermediate	Harb, John	1	TBA	TBA	TBA	TBA 	CH EN 593R section 001:&
+10943	000	CH EN	1	593	R	001		DAY	Special Topics - Intermediate	Harb, John	1	TBA	TBA	TBA	TBA 	CH EN 593R section 001: Electrochemistry	9 / 10	0	
+01002	001	CH EN	1	693	R	001		DAY	Spcial Topics Grad	Baxter, Larry	3	MWF	1:00pm	2:50pm	393 CB 		4 / 15	0	
+01004	001	CH EN	1	698	R	001		DAY	Master's Project		6V	TBA	TBA	TBA	TBA 		10 / 10	0	
+01005	000	CH EN	1	699	R	001		DAY	Masters Thesis	Jacobson, Serena Baxter, LarryFletcher, TomKnotts, TommyLewis, RandyPitt, BillWheeler, Dean[+]	9V	TBA	TBA	TBA	TBA 		11 / 12	0	
+08680	000	CH EN	1	733		001		DAY	Coal Comb	Fletcher, Tom	3	MWF	09:00am	10:50am	384 CB 		2 / 10	0	
+01007	001	CH EN	1	793	R	001		DAY	Spcial Topics Grad		3V	TBA	TBA	TBA	TBA 		10 / 10	0	
+01009	000	CH EN	1	799	R	001		DAY	Dissertation	Jacobson, Serena Baxter, LarryFletcher, TomHarb, JohnHecker, WilliamKnotts, TommyPitt, BillRowley, RichardWheeler, DeanWilding, Vincent[+]	9V	TBA	TBA	TBA	TBA 		21 / 40	0	
 01012	004	CHEM	1	101		001		DAY	Introductory General Chemistry	Smith, Diana	3	MWF	08:00am	09:50am	W112 BNSN 		34 / 70	0	
 01016	010	CHEM	1	105		001		DAY	General College Chemistry	Burt, Scott	4	MWFTTh	10:00am08:00am	11:50am09:50am	W112 BNSN W011 BNSN 	CHEM 105: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	13 / 25	0	
 01016	010	CHEM	1	105		002		DAY	General College Chemistry	Burt, Scott	4	MWFTTh	10:00am09:00am	11:50am10:50am	W112 BNSN W141 BNSN 	CHEM 105: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	5 / 25	0	
@@ -259,7 +286,36 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 01016	010	CHEM	1	105		005		DAY	General College Chemistry	Burt, Scott	4	MWFTTh	10:00am09:00am	11:50am10:50am	W112 BNSN W005 BNSN 	CHEM 105: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	15 / 25	0	
 01016	010	CHEM	1	105		006		DAY	General College Chemistry	Burt, Scott	4	MWFTTh	10:00am12:00pm	11:50am1:50pm	W112 BNSN W005 BNSN 	CHEM 105: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	17 / 25	0	
 01016	010	CHEM	S	105		013		SALT LAKE	General College Chemistry	Hancock, Jared	4	TTh	5:15pm	7:40pm	415 SLC 		33 / 40	0	
-01015	003	CHEM	1	107		001		DAY	Gen Coll Chem Lab	Hynes, Rachel Willow	1	TThTTh	08:00am09:00am	08:50am10:50am	W140 BNSN C130 BNSN 	CHEM 107: CHEM 105 is a required prerequisite. CHEM 106 and 107 may be taken concurrently, or 107 can be taken after completing 106. The base lab fee of &
+01015	003	CHEM	1	107		001		DAY	Gen Coll Chem Lab	Hynes, Rachel Willow	1	TThTTh	08:00am09:00am	08:50am10:50am	W140 BNSN C130 BNSN 	CHEM 107: CHEM 105 is a required prerequisite. CHEM 106 and 107 may be taken concurrently, or 107 can be taken after completing 106. The base lab fee of $12.50, plus charges for breakage and any additional non-returnable materials used, will be charged to your student account at the end of the semester. Students are required to attend both the lecture and lab listed below.	81 / 120	0	
+11188	000	CHEM	1	201		001		DAY	Chem Handling & Safe Lab Prac	McLean, Steve	.5	T	1:00pm	1:50pm	W142 BNSN 		23 / 40	0	
+01025	018	CHEM	1	223		001		DAY	Quant & Qual Analy	Macedone, Jeff	4	MWMWF	10:00am1:00pm	11:50am4:50pm	W141 BNSN C131 BNSN 	CHEM 223: The base lab fee of $11.50, plus charges for breakage and any additional non-returnable materials used, will be charged to your student account at the end of the semester.	20 / 40	0	
+01021	002	CHEM	1	227		001		DAY	Principles of Chem Analysis	Austin, Daniel	4	TThMWF	09:00am08:00am	10:50am11:50am	W142 BNSN C131 BNSN 	CHEM 227: The base lab fee of $7.50, plus charges for breakage and any additional non-returnable materials used, will be charged to your student account at the end of the semester.	19 / 40	0	
+11429	000	CHEM	1	285		001		DAY	Intro Bio-organic Chemistry	Andrus, Merritt	4	MTWThF	12:00pm	1:50pm	W112 BNSN 		69 / 100	0	
+11987	000	CHEM	1	297	R	001		DAY	Research Training Experience	Woolley, Adam	3V	TBA	TBA	TBA	TBA 		7 / 10	0	
+01031	000	CHEM	1	351		001		DAY	Organic Chemistry	Castle, Steven	3	MWFTTh	10:00am09:00am	11:50am09:50am	W111 BNSN W009 BNSN 	CHEM 351: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	9 / 25	0	
+01031	000	CHEM	1	351		002		DAY	Organic Chemistry	Castle, Steven	3	MWFTTh	10:00am10:00am	11:50am10:50am	W111 BNSN W009 BNSN 	CHEM 351: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	7 / 26	0	
+01031	000	CHEM	1	351		003		DAY	Organic Chemistry	Castle, Steven	3	MWFTTh	10:00am12:00pm	11:50am12:50pm	W111 BNSN W009 BNSN 	CHEM 351: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	5 / 25	0	
+01031	000	CHEM	1	351		004		DAY	Organic Chemistry	Castle, Steven	3	MWFTTh	10:00am09:00am	11:50am09:50am	W111 BNSN W010 BNSN 	CHEM 351: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	5 / 25	0	
+01031	000	CHEM	1	351		005		DAY	Organic Chemistry	Castle, Steven	3	MWFTTh	10:00am10:00am	11:50am10:50am	W111 BNSN W010 BNSN 	CHEM 351: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	5 / 25	0	
+01031	000	CHEM	1	351		006		DAY	Organic Chemistry	Castle, Steven	3	MWFTTh	10:00am12:00pm	11:50am12:50pm	W111 BNSN W010 BNSN 	CHEM 351: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	8 / 25	0	
+01032	000	CHEM	1	352		001		DAY	Organic Chemistry	Peterson, Matt	3	MWFTTh	08:00am08:00am	09:50am08:50am	W140 BNSN W009 BNSN 	CHEM 352: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	2 / 25	0	
+01032	000	CHEM	1	352		002		DAY	Organic Chemistry	Peterson, Matt	3	MWFTTh	08:00am08:00am	09:50am08:50am	W140 BNSN W010 BNSN 	CHEM 352: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	3 / 25	0	
+01032	000	CHEM	1	352		003		DAY	Organic Chemistry	Peterson, Matt	3	MWFTTh	08:00am09:00am	09:50am09:50am	W140 BNSN W006 BNSN 	CHEM 352: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	5 / 25	0	
+01032	000	CHEM	1	352		004		DAY	Organic Chemistry	Peterson, Matt	3	MWFTTh	08:00am10:00am	09:50am10:50am	W140 BNSN W006 BNSN 	CHEM 352: Registering for a given section will automatically register you for both the lecture on the first line and the recitation section directly below.	4 / 25	0	
+01033	001	CHEM	1	353		001		DAY	Organic Chem Lab-Nonmajors	Bronson, Todd	2V	MWFMWF	10:00am11:00am	10:50am1:50pm	W142 BNSN C171 BNSN 	CHEM 353: The base lab fee of $30.00, plus charges for breakage and any additional non-returnable materials used, will be charged to your student account at the end of the semester. Students are required to attend both the lecture and lab listed below.	14 / 50	0	
+01033	001	CHEM	1	353		002		DAY	Organic Chem Lab-Nonmajors	Bronson, Todd	2V	MWFMWF	2:00pm3:00pm	2:50pm5:50pm	W142 BNSN C171 BNSN 	CHEM 353: The base lab fee of $30.00, plus charges for breakage and any additional non-returnable materials used, will be charged to your student account at the end of the semester. Students are required to attend both the lecture and lab listed below.	16 / 60	0	
+01034	001	CHEM	1	354		001		DAY	Organic Chem Lab-Major	Bronson, Todd	2	MWFMWF	10:00am11:00am	10:50am1:50pm	W142 BNSN C171 BNSN 	CHEM 354: The base lab fee of $30.00, plus charges for breakage and any additional non-returnable materials used, will be charged to your student account at the end of the semester. Students are required to attend both the lecture and lab listed below.This class is for majors only.	5 / 10	0	
+11290	000	CHEM	1	355		001		DAY	Organic Lab 2 - Nonmajors	Bronson, Todd	1	TBA	TBA	TBA	TBA 		10 / 10	0	
+09983	001	CHEM	1	481		001		DAY	Biochemistry	Price, John	3	MWF	10:00am	11:50am	W140 BNSN 		62 / 100	0	
+09934	000	CHEM	1	496	R	001		DAY	Academic Internship	Asplund, Matthew	6V	TBA	TBA	TBA	TBA 	CHEM 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	4 / 5	0	
+01068	004	CHEM	1	497	R	001		DAY	Special Problems	Hansen, Jaron	6V	TBA	TBA	TBA	TBA 	ANALYTICAL	45 / 50	0	
+01068	004	CHEM	1	497	R	002		DAY	Special Problems	Graves, Steven	6V	TBA	TBA	TBA	TBA 	BIOCHEM	42 / 50	0	
+01068	004	CHEM	1	497	R	003		DAY	Special Problems	Harrison, Roger	6V	TBA	TBA	TBA	TBA 	INORGANIC	0 / 0	0	
+01068	004	CHEM	1	497	R	004		DAY	Special Problems	Price, Josh	6V	TBA	TBA	TBA	TBA 	ORGANIC	0 / 0	0	
+01068	004	CHEM	1	497	R	005		DAY	Special Problems	Patterson, James	6V	TBA	TBA	TBA	TBA 	PHYSICAL	0 / 0	0	
+08835	000	CHEM	1	499	R	001		DAY	Honors Thesis	Harrison, Roger	6V	TBA	TBA	TBA	TBA 	You must be an honors student to add this section.	10 / 10	0	
+01088	002	CHEM	1	697	R	001		DAY	Graduate Research	Woolley, Adam	6V	TBA	TBA	TBA	TBA 		54 / 100	0	
+01089	005	CHEM	1	699	R	001		DAY	Graduate Thesis/Dissertation	Woolley, Adam	9V	TBA	TBA	TBA	TBA 		63 / 100	0	
 01190	006	CHIN	1	101		001		DAY	Beginning Mandarin	Kim, Erin	4	MWThFT	10:00am10:00am	11:50am10:50am	1107 JKB 1107 JKB 		7 / 15	0	
 01192	012	CHIN	1	201		001		DAY	Intermediate Mandarin	Lefgren, Julie	4	MTWThF	12:00pm	1:50pm	1107 JKB 		8 / 15	0	
 09147	000	CHIN	1	321		001		DAY	Selected Rdgs of Modern Chin	Kuo, Allison	3	MWF	10:00am	11:50am	1101 JKB 		10 / 15	0	
@@ -328,7 +384,38 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 10429	000	COMMS	1	321		002		DAY	News Reporting	Campbell, Joel	3	MWMTWThF	11:00am10:00am	12:50pm10:50am	230 BRMB 152 BRMB 	This class requires departmental approval.LAB INCLUDED	0 / 5	0	
 10429	000	COMMS	1	321		003		DAY	News Reporting	Campbell, Joel	3	MWMTWThF	11:00am12:00pm	12:50pm12:50pm	230 BRMB 152 BRMB 	This class requires departmental approval.LAB INCLUDED	0 / 5	0	
 10429	000	COMMS	1	321		004		DAY	News Reporting	Campbell, Joel	3	MWMTWThF	11:00am1:00pm	12:50pm1:50pm	230 BRMB 152 BRMB 	This class requires departmental approval.LAB INCLUDED	0 / 5	0	
-10429	000	COMMS	1	321		008		DAY	News Reporting	Campbell, Joel	3	MWTBA	11:00amTBA	12:50pmTBA	230 BRMB TBA 	COMMS 321 section 008: Will specialize in Public Affairs. &
+10429	000	COMMS	1	321		008		DAY	News Reporting	Campbell, Joel	3	MWTBA	11:00amTBA	12:50pmTBA	230 BRMB TBA 	COMMS 321 section 008: Will specialize in Public Affairs. If you are interested in this class, please come to 360 BRMB and schedule a time for an interview with Joel Campbell before April 18.This class requires departmental approval.MAJORS ONLYLAB INCLUDED	1 / 10	0	
+11119	001	COMMS	1	322		001		DAY	Video & Audio News Production	Johnson, Jared	3	MWMW	12:00pm2:00pm	1:30pm3:50pm	380 BRMB 240 BRMB 	This class is for majors only.LAB INCLUDED	0 / 10	0	
+11121	001	COMMS	1	325		001		DAY	Broadcast Reporting	Johnson, Jared	3	MWFMWF	2:00pm08:00am	2:50pm12:50pm	242 BRMB 150 BRMB 	LAB INCLUDED	0 / 3	0	
+11121	001	COMMS	1	325		002		DAY	Broadcast Reporting	Johnson, Jared	3	MWFTThF	2:00pm08:00am	2:50pm12:50pm	242 BRMB 150 BRMB 	LAB INCLUDED	0 / 3	0	
+06207	002	COMMS	1	332		001		DAY	Mrkt Media Planning & Strategy	Robinson, Tom	3	MW	10:00am	12:30pm	240 BRMB 	This class is for majors only.	8 / 20	0	
+01370	004	COMMS	1	336		001		DAY	Strategic Planning	Plowman, Ken	3	MW	1:00pm	3:30pm	382 BRMB 	This class is for majors only.	3 / 20	0	
+11669	000	COMMS	1	337		001		EVENING	Advertising Account Management	Kelly, Kevin	3	MW	4:00pm	6:30pm	382 BRMB 	This class is for majors only.	8 / 20	0	
+01425	005	COMMS	1	382		001		DAY	Issues in Global Communication	Callahan, Clark	3	MW	1:00pm	3:50pm	264 BRMB 	This class requires departmental approval.	7 / 35	0	
+11494	001	COMMS	1	390	R	001		DAY	Student Media Labs	Hubbard, Lincoln Jackson, Debby[+]	1	Th	11:00am	11:50am	106 JSB 	PREVIOUS APPLICATION	18 / 30	0	
+11494	001	COMMS	1	390	R	002		DAY	Student Media Labs	Doyle, Pat Jackson, Debby[+]	1	Th	11:00am	11:50am	110 JSB 	PREVIOUS APPLICATION	30 / 30	0	
+01404	017	COMMS	1	396	R	001		DAY	Comms Practicum	Cressman, Dale	1	TBA	TBA	TBA	TBA 	This class requires departmental approval.PREVIOUS APPLICATION	10 / 10	0	
+07630	000	COMMS	1	398	R	001		DAY	Projects in Communications	Cressman, Dale Jackson, Debby[+]	4V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	10 / 10	0	
+07630	000	COMMS	1	398	R	002		DAY	Projects in Communications	Doyle, Pat	4V	TBA	TBA	TBA	TBA 	COMMS 398R section 002: For AdLab student projectsPREVIOUS APPLICATION	10 / 10	0	
+11849	000	COMMS	1	399	R	001		DAY	Academic Internship	Chambers, Natalie Cressman, Dale[+]	1	TBA	TBA	TBA	TBA 	COMMS 399R: An APPROVED Internship Application is required before adding.COMMS 399R: Additional Department Paperwork must be submitted to 280 BRMB prior to registering.This class requires internship coordinator approval.	3 / 10	0	
+05375	032	COMMS	1	432		001		DAY	Account Planning Mgmt	McKinlay, Douglas	3	MW	09:00am	11:30am	264 BRMB 		11 / 20	0	
+11604	000	COMMS	1	482		001		DAY	Media and World Religions	Callister, Mark Chambers, Natalie[+]	3	TBA	TBA	TBA	TBA 	COMMS 482 section 001: This class is for students who are in New York during spring term.This class requires departmental approval.	23 / 30	0	
+09448	001	COMMS	1	483		001		DAY	Adv Communications Studies	Davies, John	3	MW	1:00pm	3:30pm	220 BRMB 		15 / 20	0	
+10439	001	COMMS	1	487		002		EVENING	Adv Multiplatform Journalism	Souza, Daniel	3	TTh	5:00pm	7:30pm	240 BRMB 		19 / 28	0	
+10440	000	COMMS	1	489		001		DAY	Strategic Ad Campaigns	McKinlay, Douglas	3	MW	2:00pm	4:30pm	380 BRMB 		3 / 20	0	
+01410	002	COMMS	1	495	R	001		DAY	Resrch & Read in Comm Practice	Cressman, Dale	4V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	10 / 10	0	
+08771	003	COMMS	1	496	R	001		DAY	Academic Internship	Campbell, Joel Chambers, Natalie[+]	6V	TBA	TBA	TBA	TBA 	COMMS 496R: An APPROVED Internship Application is required before adding.COMMS 496R: Additional Department Paperwork must be submitted to 280 BRMB prior to registering.COMMS 496R section 001: For Journalism students.This class requires internship coordinator approval.	14 / 30	0	
+08771	003	COMMS	1	496	R	002		DAY	Academic Internship	McKinlay, Douglas Chambers, Natalie[+]	6V	TBA	TBA	TBA	TBA 	COMMS 496R: An APPROVED Internship Application is required before adding.COMMS 496R: Additional Department Paperwork must be submitted to 280 BRMB prior to registering.COMMS 496R section 002: For Advertising students.This class requires internship coordinator approval.	0 / 30	0	
+08771	003	COMMS	1	496	R	003		DAY	Academic Internship	Wakefield, Robert Chambers, Natalie[+]	6V	TBA	TBA	TBA	TBA 	COMMS 496R: An APPROVED Internship Application is required before adding.COMMS 496R: Additional Department Paperwork must be submitted to 280 BRMB prior to registering.COMMS 496R section 003: For Public Relations students.This class requires internship coordinator approval.	11 / 30	0	
+08771	003	COMMS	1	496	R	004		DAY	Academic Internship	Callister, Mark Chambers, Natalie[+]	6V	TBA	TBA	TBA	TBA 	COMMS 496R: An APPROVED Internship Application is required before adding.COMMS 496R: Additional Department Paperwork must be submitted to 280 BRMB prior to registering.COMMS 496R section 004:  For students in New York.This class requires internship coordinator approval.	44 / 60	0	
+08771	003	COMMS	1	496	R	008		ST ABROAD	Academic Internship		6V	TBA	TBA	TBA	TBA 	COMMS 496R: An APPROVED Internship Application is required before adding.COMMS 496R: Additional Department Paperwork must be submitted to 280 BRMB prior to registering.	97 / 99	0	
+08771	003	COMMS	S	496	R	009	N	ST ABROAD	Academic Internship		6V	TBA	TBA	TBA	TBA 	COMMS 496R: An APPROVED Internship Application is required before adding.COMMS 496R: Additional Department Paperwork must be submitted to 280 BRMB prior to registering.This class requires departmental approval.	98 / 99	0	
+11605	001	COMMS	1	497	R	001		DAY	Mentored Research Practicum.	Callahan, Clark	1	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	19 / 20	0	
+01439	001	COMMS	1	612	R	001		DAY	Research Practicum	Callister, Mark	3V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	10 / 10	0	
+01443	001	COMMS	1	691	R	001		DAY	Spec Studies Comms	Callister, Mark	3V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	9 / 10	0	
+10448	000	COMMS	1	692	R	001		DAY	Professional Practicum	Callister, Mark	3V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	10 / 10	0	
+11318	000	COMMS	1	698	R	001		DAY	Master's Project	Callister, Mark	6V	TBA	TBA	TBA	TBA 		10 / 10	0	
+01446	000	COMMS	1	699	R	001		DAY	Master's Thesis	Callister, Mark	6V	TBA	TBA	TBA	TBA 		6 / 20	0	
 02517	007	CPSE	1	300		001		DAY	Ex Studnts:Prin of Collaboratn	Smith, Barbara	2	TTh	1:00pm	2:50pm	160 MCKB 	CPSE 300 is designed to provide a service learning educational opportunity for students.Additional clearance required. Please contact your advisement center.	2 / 32	0	
 02517	007	CPSE	1	300		002		DAY	Ex Studnts:Prin of Collaboratn	Steed, Katie Munk, JoAnn[+]	2	MW	10:00am	11:50am	160 MCKB 	CPSE 300 is designed to provide a service learning educational opportunity for students.Additional clearance required. Please contact your advisement center.	25 / 32	0	
 11017	001	CPSE	1	402		001		DAY	Educ Stdnts w/Disablts in ScEd	Anderson, Darlene	2	MW	10:00am	11:50am	277 MCKB 	Additional clearance required. Please contact your advisement center.	11 / 32	0	
@@ -346,8 +433,26 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 12228	000	CPSE	1	650		002		DAY	Social Psychology	Smith, Timothy	3	MW	11:00am	1:50pm	238 MCKB 		16 / 32	0	
 12397	001	CPSE	1	651		001		DAY	Statistics 1: Foundations	Richards, Scott	3	MW	4:30pm	7:00pm	102 SWKT 		0 / 20	0	
 08987	004	CPSE	1	655		001		DAY	Crisis Interventn	Heath, Melissa	3	MW	11:00am	1:50pm	341 MCKB 		7 / 28	0	
-06805	008	CPSE	1	678	R	001		DAY	School Psychology Practicum	Leavy, Deon	3V	M	3:00pm	4:00pm	343 MCKB 	CPSE 678R:&
-11930	002	CSANM	1	150		002		DAY	Intro to 3D Graphics	Warner, Michael	1.5	MW	2:00pm	3:50pm	1130 TMCB 	CSANM 150 section 002:&
+06805	008	CPSE	1	678	R	001		DAY	School Psychology Practicum	Leavy, Deon	3V	M	3:00pm	4:00pm	343 MCKB 	CPSE 678R: CPSE 678R section 001 is required for all 2nd year students. CPSE 678R section 002 is an optional assessment practicum.	2 / 12	0	
+06805	008	CPSE	1	678	R	002		DAY	School Psychology Practicum	Gabrielsen, Terisa	1	TBA	TBA	TBA	TBA 	CPSE 678R: CPSE 678R section 001 is required for all 2nd year students. CPSE 678R section 002 is an optional assessment practicum.	4 / 12	0	
+06211	028	CPSE	1	688	R	001		DAY	Internship: School Psychology	Miramontes, Nancy	3V	W	3:30pm	4:20pm	343 MCKB 	CPSE 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	3 / 12	0	
+06218	004	CPSE	1	693	R	004		DAY	Directed Indiv Std	Ashbaker, Betty	1	TBA	TBA	TBA	TBA 	CPSE 693R section 004: For Special Education masters students ONLY.	3 / 12	0	
+06221	005	CPSE	1	697	R	001		DAY	Special Projects	Smith, Timothy	6V	TBA	TBA	TBA	TBA 		10 / 10	0	
+06222	005	CPSE	1	699	R	001		DAY	Master's Thesis	Young, Ellie	6V	W	11:00am	12:40pm	343 MCKB 	CPSE 699R section 001 is for school Psych Ed. S. students.	9 / 20	0	
+06222	005	CPSE	1	699	R	002		DAY	Master's Thesis	Ashbaker, Betty	6V	TBA	TBA	TBA	TBA 	CPSE 699R section 002 is for Special Ed Masters students only	0 / 15	0	
+12398	001	CPSE	1	730		001		DAY	Hierarchical Linear Modeling	Fischer, Lane Sudweeks, Richard[+]	3	TTh	12:00pm	2:50pm	112 SWKT 		16 / 25	0	
+02503	010	CPSE	1	751		001		EVENING	Coun Mult Divr Pop	Smith, Timothy	3	MW	4:00pm	6:30pm	283 MCKB 		10 / 20	0	
+09629	001	CPSE	1	776	R	001		DAY	Adv Prac 1: Counseling Psy	Jackson, Aaron	3V	TBA	TBA	TBA	TBA 		3 / 10	0	
+09630	001	CPSE	1	777	R	001		DAY	Adv Prac 2: Coun Psych	Jackson, Aaron	3V	TBA	TBA	TBA	TBA 		10 / 10	0	
+09631	001	CPSE	1	778	R	001		DAY	Counseling Psych Clerkship	Jackson, Aaron	3V	TBA	TBA	TBA	TBA 		1 / 10	0	
+02625	012	CPSE	1	779	R	001		DAY	University Teaching Practicum	Jackson, Aaron	3	TBA	TBA	TBA	TBA 		2 / 5	0	
+06227	019	CPSE	1	788	R	001		DAY	Predoc Counseling Internship	Jackson, Aaron	9V	TBA	TBA	TBA	TBA 	CPSE 788R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	5 / 10	0	
+06229	019	CPSE	1	790	R	001		DAY	Adv Seminar Couns	Jackson, Aaron	3V	MW	12:00pm	2:30pm	359 MCKB 		32 / 32	0	
+06231	004	CPSE	1	799	R	001		DAY	Doctoral Dissertat	Jackson, Aaron	9V	TBA	TBA	TBA	TBA 		13 / 20	0	
+11930	002	CSANM	1	150		002		DAY	Intro to 3D Graphics	Warner, Michael	1.5	MW	2:00pm	3:50pm	1130 TMCB 	CSANM 150 section 002: Non-majors who wish to register for this class should email mikewarner@byu.edu for a permission-to-add code.This class is for majors only.	20 / 29	0	
+11647	003	CSANM	1	358		001		DAY	Scripting for Animation	Holladay, Seth	3	TTh	1:00pm	2:50pm	1130 TMCB 		2 / 25	0	
+12051	001	CSANM	1	494	R	001		DAY	Special Problems in Animation	Holladay, Seth	3V	TBA	TBA	TBA	TBA 		9 / 10	0	
+12052	001	CSANM	1	497	R	001		DAY	BFA Final Project	Holladay, Seth	3V	TBA	TBA	TBA	TBA 		10 / 10	0	
 07122	002	DANCE	1	135		001		DAY	Tap Dance, Beginning	Westbrook, Tara	.5	MTWTh	3:00pm	3:50pm	158 RB 		16 / 25	0	
 04349	033	DANCE	1	140		001		DAY	Contemporary Dance, Beginning	Huckins, Chara	.5	MTWTh	1:00pm	1:50pm	164 RB 		17 / 25	0	
 04343	020	DANCE	1	170		001		DAY	World Dance, Beginning	Romney, Mike	.5	MTWTh	2:00pm	2:50pm	278 RB 		26 / 36	0	
@@ -407,7 +512,16 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 01690	007	EC EN	1	301		001		DAY	Elements of Electrical Engr	Wilde, Doran Selfridge, Richard[+]	3	MWMWF	1:00pm10:00am	3:50pm11:50am	428 CB C261 ESC 		2 / 32	0	
 12332	000	EC EN	1	330		001		DAY	Intro Embedded Programming	Archibald, James	4	MWF	10:00am	11:50am	406 CB 		31 / 49	0	
 10923	000	EC EN	1	370		001		DAY	Probability Theory	Jeffs, Brian	3	MWF	12:00pm	1:50pm	406 CB 	This class is for majors only.	31 / 49	0	
-10195	000	EC EN	S	490		001		DAY	Team Design Project	Nordin, Greg	4	MWMW	2:00pm3:00pm	2:50pm3:50pm	490 CB 490 CB 	EC EN 490 section 001:&
+10195	000	EC EN	S	490		001		DAY	Team Design Project	Nordin, Greg	4	MWMW	2:00pm3:00pm	2:50pm3:50pm	490 CB 490 CB 	EC EN 490 section 001: Laser Protein Sensing with Precision Sample Positioning and Microcontroller Data AnalysisThis class is for majors only.	3 / 8	0	
+10195	000	EC EN	S	490		002		DAY	Team Design Project	Mazzeo, Brian	4	MWMW	2:00pm3:00pm	2:50pm3:50pm	490 CB 435 CB 	EC EN 490 section 002: Chemical SensingThis class is for majors only.	5 / 8	0	
+08681	000	EC EN	1	493	R	001		DAY	Spec Tpcs in Elec & Comp Engr	Hawkins, Aaron	4V	TBA	TBA	TBA	TBA 	This class is for majors only.	0 / 0	0	
+08681	000	EC EN	1	493	R	002		DAY	Spec Tpcs in Elec & Comp Engr	Allred, David	4V	TBA	TBA	TBA	TBA 	This class is for majors only.	0 / 0	0	
+01719	001	EC EN	1	522	R	001		DAY	Spec Topics in Computer Sys		3V	TBA	TBA	TBA	TBA 		0 / 0	0	
+10171	000	EC EN	1	549		001		DAY	VLSI Comm Circuits	Comer, David	3	MWF	10:00am	11:50am	490 CB 		4 / 10	0	
+09771	000	EC EN	1	682	R	001		DAY	Spec Tpcs Sig/Sys		3V	TBA	TBA	TBA	TBA 		0 / 0	0	
+09773	000	EC EN	1	689	R	001		DAY	Adv Topics: Signals & Systems		3	TBA	TBA	TBA	TBA 		0 / 0	0	
+01761	001	EC EN	1	699	R	001		DAY	Master's Thesis	Jeffs, Brian	9V	TBA	TBA	TBA	TBA 		19 / 30	0	
+01765	001	EC EN	1	799	R	001		DAY	Dissertation	Jeffs, Brian	9V	TBA	TBA	TBA	TBA 		26 / 35	0	
 11766	001	ECE	1	422		001		DAY	Preschl or K Student Teaching	Steel, Heather	6	TBA	TBA	TBA	TBA 	Additional clearance required. Please contact your advisement center.	20 / 20	0	
 09614	003	ECE	1	425		001		DAY	Grades 1-3 Student Teaching	Steel, Heather	12V	TBA	TBA	TBA	TBA 	Additional clearance required. Please contact your advisement center.	20 / 20	0	
 11287	002	ECE	1	441		001		DAY	Primary Grade Seminar	Steel, Heather Reed, Kalani[+]	1	Th	4:00pm	6:30pm	283 MCKB 	Additional clearance required. Please contact your advisement center.	4 / 10	0	
@@ -418,7 +532,20 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 08735	001	ECON	1	199	R	001		DAY	Academic Internship	Pope, Arden	3V	TBA	TBA	TBA	TBA 	ECON 199R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.DEPARTMENT APPROVAL	5 / 10	0	
 08735	001	ECON	S	199	R	003		DAY	Academic Internship	Pope, Arden	3V	TBA	TBA	TBA	TBA 	ECON 199R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	9 / 10	0	
 01579	002	ECON	1	230		001		DAY	Econ Development & Growth	Stoddard, Olga	3	MTWTh	1:35pm	2:50pm	3712 HBLL 	ECON 230: If you plan to complete Econ 110 through Independent Study, this class cannot be registered for until the Independent Study course is completed.	6 / 35	0	
-01572	002	ECON	1	378		001		DAY	Statistics for Economists	Howard, Heather	3	MTWTh	08:00am	09:15am	B132 JFSB 	ECON 378: If you plan to complete Econ 110 and/or Math 112 through Independent Study, this class cannot be registered for until the Independent Study course is completed.&
+01572	002	ECON	1	378		001		DAY	Statistics for Economists	Howard, Heather	3	MTWTh	08:00am	09:15am	B132 JFSB 	ECON 378: If you plan to complete Econ 110 and/or Math 112 through Independent Study, this class cannot be registered for until the Independent Study course is completed.	17 / 30	0	
+01566	018	ECON	1	380		001		DAY	Intermediate Price Theory 1	Price, Joe	3	MTWTh	3:00pm	4:15pm	3712 HBLL 	ECON 380: If you plan to complete Econ 110 and/or Math 112 through Independent Study, this class cannot be registered for until the Independent Study course is completed.	9 / 35	0	
+01566	018	ECON	1	380		002		DAY	Intermediate Price Theory 1	Price, Joe	3	MTWTh	09:30am	10:45am	3712 HBLL 	ECON 380: If you plan to complete Econ 110 and/or Math 112 through Independent Study, this class cannot be registered for until the Independent Study course is completed.	23 / 35	0	
+01577	002	ECON	1	381		001		DAY	Intermed Macroecon	Spencer, David	3	MTWTh	09:30am	10:45am	B060 JFSB 	ECON 381: If you plan to complete Econ 110 and/or Math 112 through Independent Study, this class cannot be registered for until the Independent Study course is completed.	16 / 35	0	
+01568	020	ECON	1	382		001		DAY	Intermediate Price Theory 2	Pope, Jaren	3	MTWTh	12:05pm	1:20pm	3712 HBLL 		19 / 35	0	
+01580	001	ECON	1	388		001		DAY	Intro to Econometrics	Butler, Richard	3	MTWTh	08:00am	09:15am	B060 JFSB 		27 / 35	0	
+01617	008	ECON	1	413	R	001		DAY	Topics in Economic Theory	Phillips, Kerk Evans, Rick[+]	3	MWFTTh	10:00am08:00am	11:50am10:50am	170 FOB 170 FOB 	ECON 413R section 001: Computational Economics	4 / 15	0	
+10927	000	ECON	1	431		001		DAY	Economic Development	Stoddard, Olga	3	MTWTh	08:00am	09:15am	3712 HBLL 		13 / 35	0	
+08622	003	ECON	1	440		001		DAY	Natrl Resources & Envir Econ	Pope, Jaren	3	MTWTh	3:00pm	4:15pm	B060 JFSB 		22 / 30	0	
+01623	002	ECON	1	453		001		DAY	Monetary Theory & Policy	Spencer, David	3	MTWTh	1:35pm	2:50pm	B060 JFSB 		20 / 30	0	
+01624	003	ECON	1	458		001		DAY	International Trade Theory	Bradford, Scott	3	MTWTh	09:30am	10:45am	W118 TNRB 		12 / 30	0	
+07514	001	ECON	1	463		001		DAY	Economics of the Labor Market	Butler, Richard	3	MTWTh	12:05pm	1:20pm	B060 JFSB 		26 / 30	0	
+06143	002	ECON	1	490		001		DAY	Senior Paper		1	TBA	TBA	TBA	TBA 	DEPARTMENT APPROVAL	5 / 5	0	
+01640	002	ECON	1	498	R	001		DAY	Readings in Economics		2V	TBA	TBA	TBA	TBA 	DEPARTMENT APPROVAL	5 / 5	0	
 12102	000	EDLF	1	201		001		DAY	Foundations of Education	Pratt, Mike	3	MW	4:00pm	6:50pm	168 MCKB 		22 / 32	0	
 06016	003	EDLF	1	622		001		DAY	The Law & Education	Ferrin, Scott	3	W	08:00am	12:15pm	319 MCKB 	LPP GROUP 28 ONLY	5 / 13	0	
 02480	017	EDLF	1	631		003		DAY	The Curriculum:Theory&Practice	Pratt, Mike	3	TTh	4:30pm	7:30pm	166 MCKB 		1 / 20	0	
@@ -447,7 +574,30 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 02490	018	EL ED	1	400	R	001		DAY	Elementary Student Teaching	Campbell, Joy	12V	MTWThF	08:00am	4:00pm	TBA 	Additional clearance required. Please contact your advisement center.	1 / 10	0	
 02490	018	EL ED	1	400	R	002		DAY	Elementary Student Teaching		12V	MTWThF	08:00am	4:00pm	TBA 	Additional clearance required. Please contact your advisement center.	0 / 0	0	
 02490	018	EL ED	S	400	R	004		ST ABROAD	Elementary Student Teaching		12V	TBA	TBA	TBA	TBA 	Additional clearance required. Please contact your advisement center.	95 / 99	0	
-12056	001	EL ED	1	440		001		DAY	Grades 3-6 Practicum Seminar	Shumway, Jill	1	M	11:00am	11:50am	220 MCKB 	EL ED 440:&
+12056	001	EL ED	1	440		001		DAY	Grades 3-6 Practicum Seminar	Shumway, Jill	1	M	11:00am	11:50am	220 MCKB 	EL ED 440: Sections are added with corresponding section of EL ED 442.This class requires departmental approval.	0 / 20	0	
+12099	000	EL ED	1	442		001		DAY	Prctcm in El Ed 3-6 Classroom	Leavitt, Teresa	2	TBA	TBA	TBA	ALPNE DIST 	EL ED 422: Fast Track Students Only. Practicum will be April 29 - May 24.Additional clearance required. Please contact your advisement center.This class requires departmental approval.	5 / 10	0	
+12099	000	EL ED	1	442		002		DAY	Prctcm in El Ed 3-6 Classroom	Campbell, Joy	2	TBA	TBA	TBA	JRDAN DIST 	EL ED 422: Fast Track Students Only. Practicum will be April 29 - May 24.Additional clearance required. Please contact your advisement center.This class requires departmental approval.	6 / 10	0	
+12099	000	EL ED	1	442		003		DAY	Prctcm in El Ed 3-6 Classroom	Losser, Janet	2	TBA	TBA	TBA	NEBO DIST 	EL ED 422: Fast Track Students Only. Practicum will be April 29 - May 24.Additional clearance required. Please contact your advisement center.This class requires departmental approval.	4 / 10	0	
+12099	000	EL ED	1	442		004		DAY	Prctcm in El Ed 3-6 Classroom	Neff, Lynette	2	TBA	TBA	TBA	PROVO DIST 	EL ED 422: Fast Track Students Only. Practicum will be April 29 - May 24.Additional clearance required. Please contact your advisement center.This class requires departmental approval.	6 / 10	0	
+12099	000	EL ED	1	442		005		DAY	Prctcm in El Ed 3-6 Classroom	Shumway, Jill	2	TBA	TBA	TBA	WSTCH DIST 	EL ED 422: Fast Track Students Only. Practicum will be April 29 - May 24.Additional clearance required. Please contact your advisement center.This class requires departmental approval.	9 / 10	0	
+12097	000	EL ED	1	443		001		DAY	Tchg Literacy in Grades 3-6	Francis, Betty	3	MTWTh	12:00pm	2:50pm	220 MCKB 	This class requires departmental approval.	0 / 20	0	
+12101	000	EL ED	1	445		001		DAY	Tchng Social Studies in K-6	Miner, Amy	3	MTWThMTWTh	08:00am08:00am	10:50am10:50am	230 MCKB 238 MCKB 	This class requires departmental approval.	0 / 20	0	
+05668	002	EL ED	1	493	R	001		DAY	Indepndent Readings or Project	Morrison, Tim	4V	TBA	TBA	TBA	TBA 		2 / 2	0	
+11908	006	EL ED	1	589	R	001		CONF WKSH	Art Education	Nelson, George	3V	TBA	TBA	TBA	TBD TBA 		194 / 200	0	
+11908	006	EL ED	1	589	R	002		CONF WKSH	Art Education	Nelson, George	3V	TBA	TBA	TBA	TBD TBA 		195 / 200	0	
+11908	001	EL ED	S	589	R	003		CONF WKSH	Children's Literature		3V	TBA	TBA	TBA	TBA 		135 / 200	0	
+11908	004	EL ED	S	589	R	004		CONF WKSH	Effective Teaching	Mantle, D.Ray	1V	TBA	TBA	TBA	TBD TBA 		200 / 200	0	
+11908	003	EL ED	S	589	R	005		CONF WKSH	Writing Instruction	Wilcox, Brad	1V	TBA	TBA	TBA	TBD TBA 		200 / 200	0	
+11908	006	EL ED	S	589	R	006		CONF WKSH	Art Education	Graham, Mark	1V	TBA	TBA	TBA	TBD TBA 		197 / 200	0	
+11908	004	EL ED	S	589	R	007		CONF WKSH	Effective Teaching	Ross, Bradley	1V	TBA	TBA	TBA	TBD TBA 		200 / 200	0	
+11908	004	EL ED	S	589	R	008		CONF WKSH	Effective Teaching	Ross, Bradley	1V	TBA	TBA	TBA	TBD TBA 		200 / 200	0	
+11908	016	EL ED	S	589	R	009		CONF WKSH	Utah Math Core Curriculum	Bahr, Damon	2V	TBA	TBA	TBA	TBD TBA 		200 / 200	0	
+11908	001	EL ED	S	589	R	010		CONF WKSH	Children's Literature	Barrett, Emilee	2V	TBA	TBA	TBA	TBD TBA 		200 / 200	0	
+11908	021	EL ED	S	589	R	011		CONF WKSH	Techniques for Elementary Math	Bahr, Damon	2V	TBA	TBA	TBA	TBD TBA 		200 / 200	0	
+11908	003	EL ED	S	589	R	012		CONF WKSH	Writing Instruction	Bridges, Elaine	3V	TBA	TBA	TBA	TBA 		185 / 200	0	
+11908	011	EL ED	S	589	R	013		CONF WKSH	Literacy Development&Instructn		3V	TBA	TBA	TBA	TBA 		187 / 200	0	
+11908	006	EL ED	S	589	R	014		CONF WKSH	Art Education		3V	TBA	TBA	TBA	TBA 		200 / 200	0	
+11908	006	EL ED	1	589	R	015		CONF WKSH	Art Education	Graham, Mark	2V	TBA	TBA	TBA	TBD TBA 		199 / 200	0	
 01840	012	ELANG	1	223		001		DAY	Intro to English Language	Skousen, Royal	3	MWF	2:00pm	3:40pm	B050 JFSB 		22 / 35	0	
 01905	009	ELANG	1	324		001		DAY	Hist of the English Language	Chapman, Don	3	MWF	10:00am	11:40am	1105 JKB 		32 / 35	0	
 07638	005	ELANG	1	325		001		DAY	Grammar of English	Gardner, Dee	3	TTh	08:15am	10:45am	B050 JFSB 	ELANG 325:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	20 / 35	0	
@@ -519,7 +669,16 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 01874	004	ENGL	1	452		001		DAY	Literary Thry 2:Contemp Crit	Duerden, Rick	3	MWF	12:00pm	1:50pm	B101 JFSB 		17 / 30	0	
 10959	000	ENGL	1	480	R	001		DAY	Directed Research in English	Hauglid, Tessa	3V	TBA	TBA	TBA	TBA 	This class requires departmental approval.	5 / 5	0	
 01820	013	ENGL	1	490	R	001		DAY	Individual Readings in English	Hauglid, Tessa	3V	TBA	TBA	TBA	TBA 	This class requires departmental approval.	10 / 10	0	
-08560	001	ENGL	1	495		001		DAY	The Senior Course	Cutchins, Dennis	3	MW	10:00am	12:30pm	4186 JFSB 	ENGL 495:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.ENGL 495 section 001: Engl 381 is also a valid prerequisite choice.&
+08560	001	ENGL	1	495		001		DAY	The Senior Course	Cutchins, Dennis	3	MW	10:00am	12:30pm	4186 JFSB 	ENGL 495:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.ENGL 495 section 001: Engl 381 is also a valid prerequisite choice. See the instructor to obtain a permission-to-add code.	6 / 20	0	
+01917	002	ENGL	1	499	R	001		DAY	Honors Thesis	Hauglid, Tessa	6V	TBA	TBA	TBA	TBA 	This class requires departmental approval.	10 / 10	0	
+01914	010	ENGL	1	590	R	001		DAY	Directed Readings	Crisler, Lou Ann	3V	TBA	TBA	TBA	TBA 	This class requires departmental approval.	14 / 15	0	
+01914	010	ENGL	1	590	R	003	N	ST ABROAD	Directed Readings		3V	TBA	TBA	TBA	TBA 	This class requires departmental approval.	98 / 99	0	
+01936	003	ENGL	1	599	R	001		DAY	Academic Internship	Horrocks, Jamie	9V	TBA	TBA	TBA	TBA 	ENGL 599R: An APPROVED  Internship Application is required before adding.This class requires internship coordinator approval.	15 / 15	0	
+10047	001	ENGL	1	611	R	001		DAY	Tchg Advanced Composition	Larsen, Lance	3	TBA	TBA	TBA	TBA 	ENGL 611R section 001: For ENGL 218 interns only.This class requires departmental approval.	9 / 10	0	
+11281	000	ENGL	1	628	R	001		DAY	American Lit 1914-Present	Snyder, Phil	3	MW	10:00am	12:30pm	4188 JFSB 		9 / 15	0	
+01935	003	ENGL	1	630	R	001		DAY	Theoretical Discourse	Wickman, Matthew	3	TTh	12:00pm	2:30pm	B112 JFSB 	This class requires departmental approval.	11 / 15	0	
+11272	001	ENGL	1	670	R	001		DAY	Young Adult Novel Workshop	Crowe, Chris	3	MTh	3:00pm	5:30pm	4116 JFSB 		7 / 15	0	
+01968	000	ENGL	1	699	R	001		DAY	Masters Thesis	Crisler, Lou Ann	18V	TBA	TBA	TBA	TBA 	This class requires departmental approval.	9 / 25	0	
 09800	001	EXSC	1	302		001		DAY	Philosophical & Ethical Issues	Wilkinson, Carol	1	TTh	10:00am	10:50am	249L SFH 		6 / 43	0	
 09800	001	EXSC	1	302		002		DAY	Philosophical & Ethical Issues	Lockhart, Barbara	1	MW	10:00am	10:50am	277 SFH 		15 / 42	0	
 09800	001	EXSC	1	302		003		SALT LAKE	Philosophical & Ethical Issues	Lockhart, Barbara	1	F	3:15pm	5:10pm	403 SLC 		23 / 30	0	
@@ -528,7 +687,57 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 09802	001	EXSC	1	362		001		DAY	Kinesiology & Biomechanics	Ridge, Sarah	3	MWF	12:00pm	1:50pm	255 SFH 		13 / 45	0	
 07995	005	EXSC	1	366		001		DAY	Sci Bases Sport: Ex Physiology	Allsen, Philip	2.5	MWFMWF	10:00am10:00am	11:50am11:50am	249L SFH 293A SFH 		18 / 30	0	
 11152	000	EXSC	1	387		001		DAY	Chronic Disease Prevention	Hager, Ron	3	MWF	10:00am	11:50am	267 RB 		72 / 100	0	
-04501	009	EXSC	1	390		001		DAY	Adv Musskl Hum Anat (incl lab)	Feland, Brent	4	MWF	10:00am	11:50am	285 SFH 	EXSC 390:Register for the lab by going to 106 SFH to receive a permission to add code.&
+04501	009	EXSC	1	390		001		DAY	Adv Musskl Hum Anat (incl lab)	Feland, Brent	4	MWF	10:00am	11:50am	285 SFH 	EXSC 390:Register for the lab by going to 106 SFH to receive a permission to add code. You WILL NOT be given a lab section unless you are ALREADY registered in a Lecture class.This class is for majors only.LAB REQUIRED	16 / 64	0	
+04501	009	EXSC	1	390		002	L	DAY	Adv Musskl Hum Anat (incl lab)	Crossley, Kent	0	T	08:00am	09:50am	278 SFH 	EXSC 390:Register for the lab by going to 106 SFH to receive a permission to add code. You WILL NOT be given a lab section unless you are ALREADY registered in a Lecture class.This class is for majors only.	0 / 16	0	
+04501	009	EXSC	1	390		003	L	DAY	Adv Musskl Hum Anat (incl lab)	Crossley, Kent	0	Th	08:00am	09:50am	278 SFH 	EXSC 390:Register for the lab by going to 106 SFH to receive a permission to add code. You WILL NOT be given a lab section unless you are ALREADY registered in a Lecture class.This class is for majors only.	4 / 16	0	
+04501	009	EXSC	1	390		004	L	DAY	Adv Musskl Hum Anat (incl lab)	Crossley, Kent	0	T	12:00pm	1:50pm	278 SFH 	EXSC 390:Register for the lab by going to 106 SFH to receive a permission to add code. You WILL NOT be given a lab section unless you are ALREADY registered in a Lecture class.This class is for majors only.	4 / 16	0	
+04501	009	EXSC	1	390		009	L	DAY	Adv Musskl Hum Anat (incl lab)	Crossley, Kent	0	Th	12:00pm	1:50pm	278 SFH 	EXSC 390:Register for the lab by going to 106 SFH to receive a permission to add code. You WILL NOT be given a lab section unless you are ALREADY registered in a Lecture class.This class is for majors only.	9 / 16	0	
+07988	027	EXSC	1	399	R	001		DAY	Exercise & Wellness Internship	Bailey, Bruce	9V	TBA	TBA	TBA	267 SFH 	EXSC 399R:  An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.PREVIOUS APPLICATION	0 / 15	0	
+07988	027	EXSC	1	399	R	002		DAY	Exercise & Wellness Internship	Hager, Ron	9V	TBA	TBA	TBA	228B SFH 	EXSC 399R:  An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.PREVIOUS APPLICATION	1 / 15	0	
+07988	027	EXSC	1	399	R	003		DAY	Exercise & Wellness Internship	LeCheminant, James	9V	TBA	TBA	TBA	269 SFH 	EXSC 399R:  An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.PREVIOUS APPLICATION	10 / 15	0	
+07988	027	EXSC	1	399	R	004		DAY	Exercise & Wellness Internship	George, James	9V	TBA	TBA	TBA	228A SFH 	EXSC 399R:  An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.PREVIOUS APPLICATION	7 / 15	0	
+04444	021	EXSC	1	460		001		DAY	Ortho Impairments & Ther Exer	Johnson, Wayne	3	MWF	10:00am	11:50am	106 RB 		7 / 50	0	
+04413	023	EXSC	1	463		001		DAY	Exercise Physiology	Vehrs, Pat	3	MWF	10:00am	11:50am	255 SFH 	EXSC 463 requires concurrent enrollment in EXSC 464.	11 / 40	0	
+04309	006	EXSC	1	464		001		DAY	Exercise Physiology Lab	Vehrs, Pat Hafen, Paul[+]	.5	T	4:00pm	5:50pm	201 SFH 		3 / 20	0	
+04309	006	EXSC	1	464		002		DAY	Exercise Physiology Lab	Vehrs, Pat deVries, Tiffany[+]	.5	Th	4:00pm	5:50pm	201 SFH 		5 / 20	0	
+04495	006	EXSC	1	468		001		DAY	Problems in Exercise Prsrptn	Allsen, Philip	2	MW	08:00am	09:50am	249L SFH 		28 / 35	0	
+11571	000	EXSC	1	480		001		DAY	Obesity & Weight Management	LeCheminant, James	3	MWF	08:00am	09:50am	255 SFH 		11 / 30	0	
+04519	015	EXSC	1	496	R	001		DAY	Academic Internship	Hopkins, Ty	8V	TBA	TBA	TBA	120B RB 	EXSC 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.PREVIOUS APPLICATION	17 / 20	0	
+04518	007	EXSC	1	497	R	001		DAY	Undergrad Research & Study	Mitchell, Ulrike	4V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04518	007	EXSC	1	497	R	002		DAY	Undergrad Research & Study	Hyldahl, Robert	4V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04518	007	EXSC	1	497	R	003		DAY	Undergrad Research & Study	Ridge, Sarah	4V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04518	007	EXSC	1	497	R	004		DAY	Undergrad Research & Study	Johnson, Wayne	4V	MTWThF	09:00am	09:50am	106 RB 		5 / 5	0	
+04518	007	EXSC	1	497	R	005		DAY	Undergrad Research & Study	LeCheminant, James	4V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04518	007	EXSC	1	497	R	006		DAY	Undergrad Research & Study		4V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04518	007	EXSC	1	497	R	007		DAY	Undergrad Research & Study		4V	TBA	TBA	TBA	TBA 		5 / 5	0	
+10638	002	EXSC	1	501		001		DAY	Sports Med Path & Pharm	Hyldahl, Robert	3	MWF	08:00am	09:50am	235 RB 		3 / 20	0	
+10005	014	EXSC	1	625	R	001		DAY	Functional Testing & Exercise	George, James	2	TTh	1:00pm	2:50pm	201 SFH 		12 / 18	0	
+04500	005	EXSC	1	662		001		DAY	Mech Analysis of Activities	Hunter, Iain	2	MW	10:00am	11:50am	204 RB 		6 / 10	0	
+07418	004	EXSC	1	663		001		DAY	Research Tech in Biomechanics	Seeley, Matthew	2	MW	08:00am	09:50am	204 RB 		7 / 10	0	
+04451	048	EXSC	1	688	R	001		DAY	Health Promotion Practicum	Tucker, Larry	9V	TBA	TBA	TBA	237 SFH 	EXSC 688R:  An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.PREVIOUS APPLICATION	19 / 20	0	
+04515	021	EXSC	1	693	R	001		DAY	Readings Seminar	Myrer, Bill	1	W	12:00pm	1:50pm	206 RB 		18 / 20	0	
+04521	014	EXSC	1	699	R	001		DAY	Master's Thesis	Vehrs, Pat	9V	TBA	TBA	TBA	TBA 		28 / 30	0	
+04521	014	EXSC	1	699	R	002		DAY	Master's Thesis	LeCheminant, James	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04521	014	EXSC	1	699	R	003		DAY	Master's Thesis	Seeley, Matthew	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04521	014	EXSC	1	699	R	004		DAY	Master's Thesis	Hopkins, Ty	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04521	014	EXSC	1	699	R	005		DAY	Master's Thesis	Mack, Gary	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04521	014	EXSC	1	699	R	006		DAY	Master's Thesis	Johnson, Wayne	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04521	014	EXSC	1	699	R	007		DAY	Master's Thesis	Mitchell, Ulrike	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04521	014	EXSC	1	699	R	008		DAY	Master's Thesis	Feland, Brent	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04521	014	EXSC	1	699	R	009		DAY	Master's Thesis	Hager, Ron	9V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04521	014	EXSC	1	699	R	010		DAY	Master's Thesis	Ridge, Sarah	9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04521	014	EXSC	1	699	R	011		DAY	Master's Thesis		9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04521	014	EXSC	1	699	R	012		DAY	Master's Thesis		9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04521	014	EXSC	1	699	R	013		DAY	Master's Thesis		9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04521	014	EXSC	1	699	R	014		DAY	Master's Thesis		9V	TBA	TBA	TBA	TBA 		20 / 20	0	
+04523	007	EXSC	1	797	R	001		DAY	Individual Research & Study	Feland, Brent	9V	TBA	TBA	TBA	TBA 		9 / 10	0	
+04523	007	EXSC	1	797	R	002		DAY	Individual Research & Study		9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04523	007	EXSC	1	797	R	003		DAY	Individual Research & Study		9V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04525	004	EXSC	1	799	R	001		DAY	Doctoral Dissertation	Draper, David	18V	TBA	TBA	TBA	TBA 		30 / 30	0	
+04525	004	EXSC	1	799	R	002		DAY	Doctoral Dissertation	Feland, Brent	18V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04525	004	EXSC	1	799	R	003		DAY	Doctoral Dissertation	Seeley, Matthew	18V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04525	004	EXSC	1	799	R	004		DAY	Doctoral Dissertation	Hopkins, Ty	18V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04525	004	EXSC	1	799	R	005		DAY	Doctoral Dissertation		18V	TBA	TBA	TBA	TBA 		5 / 5	0	
 00796	009	FIN	1	201		001		DAY	Principles of Finance	Larson, Jenn	3	MW	12:30pm	3:15pm	151 TNRB 		184 / 344	0	
 00796	009	FIN	1	201		002		DAY	Principles of Finance	Cardell, Sunshine	3	MW	11:00am	1:45pm	251 TNRB 		41 / 170	0	
 00817	001	FIN	1	432		001	N	ST ABROAD	International Corp Finance		3	TBA	TBA	TBA	TBA 	This class is for majors only.	83 / 99	0	
@@ -568,7 +777,12 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 08529	001	FREN	1	399	R	003	N	ST ABROAD	Academic Internship		6V	TBA	TBA	TBA	TBA 	FREN 399R: An APPROVED Internship Application is required before adding.	95 / 99	0	
 02090	002	FREN	1	411	R	001	N	ST ABROAD	4th Yr Convers		2	TBA	TBA	TBA	TBA 		99 / 99	0	
 11392	000	FREN	1	445		001	N	ST ABROAD	Advanced Francophone Culture		3	TBA	TBA	TBA	TBA 		92 / 99	0	
-10484	000	FREN	1	452	R	001		DAY	Studies in Period,Mvmt & Theme	Unlandt, Nicolaas	3	MWF	10:00am	11:50am	B140 JFSB 	FREN 452R section 001:&
+10484	000	FREN	1	452	R	001		DAY	Studies in Period,Mvmt & Theme	Unlandt, Nicolaas	3	MWF	10:00am	11:50am	B140 JFSB 	FREN 452R section 001: Troubadour Poetry	13 / 20	0	
+11393	000	FREN	1	457	R	002	N	ST ABROAD	Studies in French Culture		3	TBA	TBA	TBA	TBA 		83 / 99	0	
+02105	001	FREN	1	490	R	001		ST ABROAD	Individual Study		3	TBA	TBA	TBA	TBA 		96 / 99	0	
+08337	002	FREN	1	491	R	001		DAY	Sr Oral Proficiency Evaluation	Thompson, Chantal	0	TBA	TBA	TBA	TBA 		7 / 10	0	
+11790	000	FREN	1	495		001		DAY	Senior Portfolio Seminar	Cropper, Corry	.5	TBA	TBA	TBA	TBA 		16 / 20	0	
+02142	000	FREN	1	699	R	001		DAY	Masters Thesis	Sprenger, Anca	6V	TBA	TBA	TBA	TBA 		4 / 5	0	
 02247	015	GEOG	1	101		001		DAY	Global Environment	Monson, Clark	3	MWF	10:00am	11:50am	270 SWKT 	GEOG 101:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	62 / 76	0	
 02249	005	GEOG	1	120		001		DAY	Geography & World Affairs	Knapp, Jill	3	MWF	10:00am	11:50am	230 SWKT 	GEOG 120:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	61 / 76	0	
 02251	005	GEOG	1	211		001		DAY	Map Use & Interpretation	Monson, Clark	4	MWF	1:00pm	2:50pm	660 SWKT 	LAB INCLUDED	9 / 25	0	
@@ -606,7 +820,11 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 02418	010	GERM	1	399	R	004		ST ABROAD	Academic Internship		6V	TBA	TBA	TBA	TBA 	GERM 399R: An APPROVED Internship Application is required before adding.	88 / 99	0	
 02418	010	GERM	1	399	R	007		DAY	Academic Internship		6	TBA	TBA	TBA	TBA 	GERM 399R: An APPROVED Internship Application is required before adding.	5 / 5	0	
 02402	005	GERM	1	400	R	001		DAY	4th-Yr Proficiency Tutorial	James, Michelle	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
-11372	000	GERM	1	445	R	001		DAY	Special Topics	Spencer, Tom	3	MWF	12:00pm	1:50pm	3116 JFSB 	GERM 445R section 001:&
+11372	000	GERM	1	445	R	001		DAY	Special Topics	Spencer, Tom	3	MWF	12:00pm	1:50pm	3116 JFSB 	GERM 445R section 001: Faith and Reason	6 / 10	0	
+02416	000	GERM	1	490	R	001		EVENING	Special Studies in German	Kelling, Hans-Wilhelm	3	MW	4:00pm	6:30pm	3116 JFSB 	GERM 490R:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.GERM 490R section 001 is cross-listed with ARTHC 595R section 001: German for Reading.PREVIOUS APPLICATION	5 / 5	0	
+02416	000	GERM	1	490	R	002		ST ABROAD	Special Studies in German		3	TBA	TBA	TBA	TBA 	GERM 490R:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	98 / 99	0	
+02414	008	GERM	1	499	R	001		DAY	Honors Thesis		6V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATON	5 / 5	0	
+07939	000	GERM	1	680	R	001		DAY	Special Studies in German		3V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	5 / 5	0	
 02766	001	GREEK	1	201		001		DAY	Intermediate Greek	Cox, Eric	4	MTWTh	12:00pm	1:50pm	B042 JFSB 		16 / 20	0	
 08267	001	HEB	1	100	R	002		JERUSALEM	Intro to Hebrew	Goldman, Judy	.5V	TBA	TBA	TBA	TBA 		46 / 90	0	
 02840	009	HEB	1	102		001		DAY	1st-Year Modern Hebrew 2	Call, Rebekah	4	MWThT	10:00am10:00am	11:50am10:50am	3068 JFSB 3068 JFSB 		19 / 20	0	
@@ -633,7 +851,16 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 10526	000	HIST	S	481	R	002		DAY	Family History Directed Rsrch		3V	TBA	TBA	TBA	2130 JFSB 	HIST 481R section 002: This class will be taught as a full semester class over both spring and summer terms.  Please do not schedule courses that conflict with this same time, if you take additional summer term classes. More information.	10 / 10	0	
 10526	000	HIST	1	481	R	006		CONF WKSH	Family History Directed Rsrch		1V	TBA	TBA	TBA	TBA 		16 / 20	0	
 10526	000	HIST	1	481	R	007		DAY	Family History Directed Rsrch		3V	TBA	TBA	TBA	TBA 		0 / 0	0	
-02959	009	HIST	1	490		001		DAY	Capstone Research Seminar	Hodson, Chris	3	MWF	10:00am	11:40am	2114 JFSB 	HIST 490: Foreign language skills not required.HIST 490 section 001: Age of Revolutions&
+02959	009	HIST	1	490		001		DAY	Capstone Research Seminar	Hodson, Chris	3	MWF	10:00am	11:40am	2114 JFSB 	HIST 490: Foreign language skills not required.HIST 490 section 001: Age of Revolutions	2 / 12	0	
+02959	009	HIST	1	490		002		DAY	Capstone Research Seminar	Hardy, Jeff	3	TTh	1:30pm	4:00pm	2114 JFSB 	HIST 490: Foreign language skills not required.HIST 490 section 002:Crime and Punishment in Europe and its Colonies, 1700 - Present	6 / 12	0	
+02959	009	HIST	1	490		003		DAY	Capstone Research Seminar	Cooper, Glen	3	TTh	08:00am	10:30am	2114 JFSB 	HIST 490: Foreign language skills not required.HIST 490 section 003: Byzantine Empire and Civilization	10 / 12	0	
+07287	003	HIST	S	495	R	001		DAY	Directed Research		3	TBA	TBA	TBA	2130 JFSB 	HIST 495R section 001: This class will be taught as a full semester class over both spring and summer terms.  Please do not schedule courses that conflict with this same time, if you take additional summer term classes. More information.	9 / 10	0	
+07288	003	HIST	1	496	R	001		DAY	Acad Internship: Family Hist	Haslam, Gerald	6V	TBA	TBA	TBA	2130 JFSB 	HIST 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	6 / 10	0	
+07288	003	HIST	S	496	R	002		DAY	Acad Internship: Family Hist	Haslam, Gerald	6V	TBA	TBA	TBA	2130 JFSB 	HIST 496R: An APPROVED Internship Application is required before adding.HIST 496R section 002: This class will be taught as a full semester class over both spring and summer terms.  Please do not schedule courses that conflict with this same time, if you take additional summer term classes. More information.This class requires internship coordinator approval.	8 / 10	0	
+07288	003	HIST	1	496	R	004	N	ST ABROAD	Acad Internship: Family Hist		6V	TBA	TBA	TBA	TBA 	HIST 496R: An APPROVED Internship Application is required before adding.	96 / 99	0	
+02961	000	HIST	S	498	R	001		DAY	Directed Readings		3V	TBA	TBA	TBA	2130 JFSB 	HIST 498R section 001: This class will be taught as a full semester class over both spring and summer terms.  Please do not schedule courses that conflict with this same time, if you take additional summer term classes. More information.	10 / 10	0	
+02961	000	HIST	1	498	R	002		DAY	Directed Readings		3V	TBA	TBA	TBA	TBA 		8 / 10	0	
+02961	000	HIST	S	498	R	004		ST ABROAD	Directed Readings		3V	TBA	TBA	TBA	TBA 		98 / 99	0	
 02824	006	HLTH	1	310		001		DAY	Chrnc Disease:Prevntn & Cntrl	Novilla, Len	3	MW	09:30am	11:55am	206 RB 	This class is for majors only.	32 / 42	0	
 11197	001	HLTH	1	311		001		DAY	Infectious Diseases	Cole, Gene	3	TTh	12:00pm	2:30pm	235 RB 	This class is for majors only.	32 / 47	0	
 02805	004	HLTH	1	320		001		EVENING	Adv First Aid & Safety	Fabis, Steven	3	TTh	4:00pm	6:30pm	235 RB 		13 / 25	0	
@@ -642,8 +869,75 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 07410	004	HLTH	1	335		001		DAY	Health Behavior Change	West, Josh	3	TTh	08:00am	10:30am	206 RB 	This class is for majors only.	7 / 20	0	
 06976	009	HLTH	1	345		001		DAY	Principles of Epidemiology	Merrill, Ray	3	TTh	08:00am	10:30am	231 RB 	HLTH 345:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	30 / 45	0	
 10100	000	HLTH	1	383		001		EVENING	Mind/Body Health	Shores, Karen	3	TTh	4:00pm	6:30pm	271 RB 		32 / 60	0	
-02813	001	HLTH	S	403	R	001		DAY	Hlth Prblms Wrkshp	Page, Randy	3	TBA	TBA	TBA	TBA 	HLTH 403R section 001:&
-02233	006	HONRS	1	203	R	001		DAY	Literature	Spencer, Tom	3	MWF	12:00pm	1:50pm	3116 JFSB 	HONRS 203R section 001:&
+02813	001	HLTH	S	403	R	001		DAY	Hlth Prblms Wrkshp	Page, Randy	3	TBA	TBA	TBA	TBA 	HLTH 403R section 001: International Public Health - Asia	9 / 10	0	
+02813	001	HLTH	S	403	R	002		ST ABROAD	Hlth Prblms Wrkshp		3	TBA	TBA	TBA	TBA 		91 / 99	0	
+02813	001	HLTH	1	403	R	003		ST ABROAD	Hlth Prblms Wrkshp		3	TBA	TBA	TBA	TBA 		95 / 99	0	
+02819	005	HLTH	1	420		001		DAY	Injury & Violence Prevention	Thygerson, Steve	3	TTh	12:00pm	2:30pm	231 RB 		21 / 40	0	
+09408	003	HLTH	1	432		001		DAY	Methods in Health Promotion	Sevy, Melissa	3	MW	2:00pm	4:30pm	206 RB 	This class is for majors only.	20 / 30	0	
+12146	001	HLTH	1	434		001		DAY	Evaluation Methods	Thackeray, Rosemary	3	MW	09:30am	12:00pm	231 RB 	This class is for majors only.	17 / 30	0	
+02831	004	HLTH	1	436		001		DAY	Sexuality Educ in Curriculum	Hall, Cougar	3	TTh	08:00am	10:30am	235 RB 		30 / 45	0	
+09311	004	HLTH	1	439		001		DAY	Program Planning	Hanson, Carl	3	MWMW	12:30pm12:30pm	3:00pm3:00pm	231 RB 105 SWKT 		14 / 25	0	
+02811	016	HLTH	1	460		001		DAY	Substance Abuse & Addict Beh	Lindsay, Gordon	3	TTh	12:00pm	2:30pm	206 RB 		12 / 40	0	
+11198	000	HLTH	1	491	R	001		DAY	Mentored Research	Cole, Gene	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+11198	000	HLTH	1	491	R	002		DAY	Mentored Research	Johnston, Jim	3V	TBA	TBA	TBA	TBA 		2 / 5	0	
+11198	000	HLTH	1	491	R	003		DAY	Mentored Research	Magnusson, Brianna	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+11198	000	HLTH	1	491	R	004		DAY	Mentored Research	Merrill, Ray	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+11198	000	HLTH	1	491	R	005		DAY	Mentored Research	Swanson, Robert	3V	TBA	TBA	TBA	TBA 		10 / 10	0	
+11198	000	HLTH	1	491	R	006		DAY	Mentored Research	Thygerson, Steve	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+11198	000	HLTH	S	491	R	011		ST ABROAD	Mentored Research		3	TBA	TBA	TBA	TBA 		99 / 99	0	
+11198	000	HLTH	1	491	R	012		ST ABROAD	Mentored Research		3	TBA	TBA	TBA	TBA 		96 / 99	0	
+11198	000	HLTH	1	491	R	014		DAY	Mentored Research	Thacker, Evan	3V	TBA	TBA	TBA	TBA 		3 / 5	0	
+09674	001	HLTH	S	496	R	001		DAY	Academic Internship	Hawkins, RILLA	9V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	20 / 20	0	
+09674	001	HLTH	S	496	R	002		DAY	Academic Internship	Lutz, Stephanie	9V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	6 / 40	0	
+09674	001	HLTH	1	496	R	003		DAY	Academic Internship	Hawkins, RILLA	9V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	19 / 20	0	
+09674	001	HLTH	1	496	R	004		DAY	Academic Internship	Lutz, Stephanie	9V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	36 / 40	0	
+09674	001	HLTH	S	496	R	007		ST ABROAD	Academic Internship		9V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.	95 / 99	0	
+09674	001	HLTH	S	496	R	008		ST ABROAD	Academic Internship	Lutz, Stephanie	9V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.	95 / 99	0	
+09674	001	HLTH	S	496	R	009		ST ABROAD	Academic Internship	Lutz, Stephanie	6V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.	97 / 99	0	
+09674	001	HLTH	S	496	R	010		DAY	Academic Internship	Thygerson, Steve	6V	TBA	TBA	TBA	TBA 	HLTH 496R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	10 / 10	0	
+02816	008	HLTH	1	603	R	001		DAY	Spec Topics in Public Health		7V	TBA	TBA	TBA	TBA 		0 / 0	0	
+10465	001	HLTH	1	688	R	001		DAY	Field Experience	Barnes, Michael	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	13 / 15	0	
+10465	001	HLTH	1	688	R	002		DAY	Field Experience	Cole, Gene	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	15 / 15	0	
+10465	001	HLTH	1	688	R	003		DAY	Field Experience	Hall, Cougar	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	004		DAY	Field Experience	Thygerson, Steve	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	005		DAY	Field Experience	Magnusson, Brianna	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	15 / 15	0	
+10465	001	HLTH	1	688	R	006		DAY	Field Experience	West, Josh	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	15 / 15	0	
+10465	001	HLTH	1	688	R	007		DAY	Field Experience	Crookston, Benjamin	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	008		DAY	Field Experience	Lindsay, Gordon	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	009		DAY	Field Experience	Merrill, Ray	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	010		DAY	Field Experience	Neiger, Brad	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	011		DAY	Field Experience	Novilla, Len	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	012		DAY	Field Experience	Page, Randy	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	15 / 15	0	
+10465	001	HLTH	1	688	R	013		DAY	Field Experience	Thackeray, Rosemary	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	15 / 15	0	
+10465	001	HLTH	1	688	R	014		DAY	Field Experience	Johnston, Jim	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	015		DAY	Field Experience	Hanson, Carl	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	14 / 15	0	
+10465	001	HLTH	1	688	R	031	N	ST ABROAD	Field Experience		6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.	98 / 99	0	
+10465	001	HLTH	1	688	R	032	N	ST ABROAD	Field Experience		6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.	98 / 99	0	
+10465	001	HLTH	1	688	R	033		DAY	Field Experience	Thacker, Evan	6V	TBA	TBA	TBA	TBA 	HLTH 688R: An APPROVED Internship Application is required before adding.	4 / 5	0	
+02836	001	HLTH	1	696	R	001		DAY	Independent Studies	Page, Randy	3V	TBA	TBA	TBA	TBA 		25 / 25	0	
+02836	001	HLTH	1	696	R	002		DAY	Independent Studies	Neiger, Brad	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+02836	001	HLTH	1	696	R	003		DAY	Independent Studies	Merrill, Ray	3V	TBA	TBA	TBA	TBA 		3 / 3	0	
+10466	001	HLTH	1	698	R	001		DAY	Public Health Project	Barnes, Michael	3V	TBA	TBA	TBA	TBA 		14 / 15	0	
+10466	001	HLTH	1	698	R	002		DAY	Public Health Project	Cole, Gene	3V	TBA	TBA	TBA	TBA 		12 / 15	0	
+10466	001	HLTH	1	698	R	003		DAY	Public Health Project	Hall, Cougar	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	004		DAY	Public Health Project	Thygerson, Steve	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	005		DAY	Public Health Project	Magnusson, Brianna	3V	TBA	TBA	TBA	TBA 		14 / 15	0	
+10466	001	HLTH	1	698	R	006		DAY	Public Health Project	West, Josh	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	007		DAY	Public Health Project	Crookston, Benjamin	3V	TBA	TBA	TBA	TBA 		14 / 15	0	
+10466	001	HLTH	1	698	R	008		DAY	Public Health Project	Lindsay, Gordon	3V	TBA	TBA	TBA	TBA 		14 / 15	0	
+10466	001	HLTH	1	698	R	009		DAY	Public Health Project	Merrill, Ray	3V	TBA	TBA	TBA	TBA 		14 / 15	0	
+10466	001	HLTH	1	698	R	010		DAY	Public Health Project	Neiger, Brad	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	011		DAY	Public Health Project	Novilla, Len	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	012		DAY	Public Health Project	Page, Randy	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	013		DAY	Public Health Project	Thackeray, Rosemary	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	014		DAY	Public Health Project	Johnston, Jim	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+10466	001	HLTH	1	698	R	015		DAY	Public Health Project	Hanson, Carl	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+02233	006	HONRS	1	203	R	001		DAY	Literature	Spencer, Tom	3	MWF	12:00pm	1:50pm	3116 JFSB 	HONRS 203R section 001: Faith and Reason, is cross-listed with GERM 445R.	5 / 8	0	
+11063	000	HONRS	1	261		001	N	ST ABROAD	Social Science Princ & Reasng		3	TBA	TBA	TBA	TBA 		90 / 99	0	
+12172	000	HONRS	1	394	R	001		ST ABROAD	Special Projects		2	TBA	TBA	TBA	TBA 		58 / 99	0	
+12173	000	HONRS	1	395	R	026	N	ST ABROAD	Special Topics		3V	TBA	TBA	TBA	TBA 		64 / 99	0	
+02246	004	HONRS	1	499	R	001		DAY	Honors Thesis	Parry, Joe	6V	TBA	TBA	TBA	TBA 	HONORSDEPARTMENT APPROVAL	9 / 10	0	
+02246	004	HONRS	1	499	R	003	N	ST ABROAD	Honors Thesis		6V	TBA	TBA	TBA	TBA 		98 / 99	0	
 07740	012	IAS	S	201	R	001		ST ABROAD	Cultural Survey		4V	TBA	TBA	TBA	TBA 	This class requires departmental approval.	99 / 99	0	
 07740	012	IAS	1	201	R	002		ST ABROAD	Cultural Survey	Cutler, Edward	1	TBA	TBA	TBA	TBA 		62 / 99	0	
 07740	012	IAS	1	201	R	003		ST ABROAD	Cultural Survey		1	TBA	TBA	TBA	TBA 		83 / 99	0	
@@ -800,7 +1094,16 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 06898	001	M B A	1	693	R	002	N	ST ABROAD	Readings & Conference		3V	TBA	TBA	TBA	TBA 		98 / 99	0	
 06898	001	M B A	1	693	R	003	N	ST ABROAD	Readings & Conference		3V	TBA	TBA	TBA	TBA 		98 / 99	0	
 06898	001	M B A	1	693	R	004		DAY	Readings & Conference	Bingham, John	3V	TBA	TBA	TBA	TBA 		0 / 1	0	
-00747	022	M COM	1	320		001		DAY	Commun in Organiztnl Settings	Middleton, Valene	3	MW	09:30am	12:10pm	374 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320:&
+00747	022	M COM	1	320		001		DAY	Commun in Organiztnl Settings	Middleton, Valene	3	MW	09:30am	12:10pm	374 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	10 / 25	0	
+00747	022	M COM	1	320		002		DAY	Commun in Organiztnl Settings	Starks, Ryan Gayle	3	TTh	08:00am	10:40am	324 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	5 / 25	0	
+00747	022	M COM	1	320		003		DAY	Commun in Organiztnl Settings	Kawai, Leslie	3	MW	12:30pm	3:10pm	324 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	10 / 25	0	
+00747	022	M COM	1	320		005		DAY	Commun in Organiztnl Settings	Haupt, Julia	3	MW	2:00pm	4:40pm	184 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	13 / 25	0	
+00747	022	M COM	1	320		006		DAY	Commun in Organiztnl Settings	Wallentine, Melissa	3	MW	11:00am	1:40pm	184 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	3 / 25	0	
+00747	022	M COM	1	320		007		DAY	Commun in Organiztnl Settings	Dixon, Liz	3	TTh	12:30pm	3:20pm	184 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	8 / 25	0	
+00747	022	M COM	1	320		008		DAY	Commun in Organiztnl Settings	Kawai, Leslie	3	MW	09:30am	12:10pm	324 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	6 / 25	0	
+00747	022	M COM	1	320		011		EVENING	Commun in Organiztnl Settings	Murdock, Rick	3	TTh	7:30pm	10:10pm	324 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	7 / 25	0	
+00747	022	M COM	1	320		014		SALT LAKE	Commun in Organiztnl Settings	Johnson, Val	3	TTh	5:15pm	7:40pm	424 SLC 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	17 / 25	0	
+00747	022	M COM	1	320		016		DAY	Commun in Organiztnl Settings	Murdock, Melody	3	MW	11:00am	1:40pm	484 TNRB 	M COM 320:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.M COM 320: If you are a non major and wish to register for M COM 320, please contact the instructor or the department for a permission-to-add code.This class is restricted to majors within this college.	6 / 25	0	
 10975	000	MATH	1	102		001		DAY	Quantitative Reasoning	McBride, Jared	3	MWF	2:00pm	3:50pm	116 TMCB 		33 / 42	0	
 06387	001	MATH	1	110		001		DAY	College Algebra	Canales, Percy	3	MWMW	12:00pm08:00am	1:50pm09:50am	2113 JKB 173 TMCB 	MATH 110:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	10 / 22	0	
 06387	001	MATH	1	110		002		DAY	College Algebra	Canales, Percy	3	MWMW	12:00pm10:00am	1:50pm11:50am	2113 JKB 173 TMCB 	MATH 110:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	4 / 22	0	
@@ -873,7 +1176,8 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 03774	000	ME EN	1	695	R	001		DAY	Special Problems for Masters		3V	TBA	TBA	TBA	TBA 		10 / 10	0	
 03778	001	ME EN	1	699	R	001		DAY	Master's Thesis	Busch, Miriam	9V	TBA	TBA	TBA	TBA 		21 / 75	0	
 03780	000	ME EN	1	795	R	001		DAY	Sel Tpcs Mech Engr		3V	TBA	TBA	TBA	TBA 		10 / 10	0	
-03780	000	ME EN	1	795	R	003		DAY	Sel Tpcs Mech Engr	Charles, Steven	3	MWF	1:00pm	2:50pm	230 CB 	ME EN 795R section 003:&
+03780	000	ME EN	1	795	R	003		DAY	Sel Tpcs Mech Engr	Charles, Steven	3	MWF	1:00pm	2:50pm	230 CB 	ME EN 795R section 003: Advanced Neuromechanics	1 / 6	0	
+03782	001	ME EN	1	799	R	001		DAY	Dissertation	Busch, Miriam	18V	TBA	TBA	TBA	TBA 		7 / 30	0	
 03574	005	MFG	1	220		001		DAY	Material Removal	McKell, Eric	3	TThMTBA	08:00am07:00amTBA	09:50am09:50amTBA	410 CTB 101 CTB TBA 		6 / 10	0	
 03574	005	MFG	1	220		002		DAY	Material Removal	McKell, Eric	3	TThW	08:00am07:00am	09:50am09:50am	410 CTB 101 CTB 		6 / 10	0	
 03582	003	MFG	1	331		001		DAY	Metals Processes	Miles, Michael	4	MWTBA	1:00pmTBA	3:15pmTBA	410 CTB TBA 		10 / 25	0	
@@ -1017,7 +1321,176 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 03998	015	MUSIC	1	135		002		DAY	Basic Conducting	Spindler, Lee	2	MW	4:00pm	5:50pm	E250 HFAC 		11 / 15	0	
 03981	071	MUSIC	1	160	R	001		DAY	Voice	Hamblin, Whitney Orton, Korianne[+]	.5	TBA	TBA	TBA	E451 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.MUSIC 160R sections 001 and 022, accompanist fee not included. Music 160R section 001 is for classical voice, section 022 is for contemporary voice.	10 / 26	0	
 03981	064	MUSIC	1	160	R	002		DAY	Piano	Hancock, Robin Rich, Harvey[+]	.5	TBA	TBA	TBA	B371H HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	13 / 31	0	
-03981	062	MUSIC	1	160	R	003		DAY	Organ	Cook, Don Stone, Kymberly[+]	.5	TBA	TBA	TBA	C250 HFAC 	&
+03981	062	MUSIC	1	160	R	003		DAY	Organ	Cook, Don Stone, Kymberly[+]	.5	TBA	TBA	TBA	C250 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 7	0	
+03981	072	MUSIC	1	160	R	004		DAY	Flute	Clayton, April	.5	TBA	TBA	TBA	E546 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	3 / 7	0	
+03981	073	MUSIC	1	160	R	005		DAY	Oboe	Giovannetti, Geralyn	.5	TBA	TBA	TBA	E475 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	1 / 3	0	
+03981	074	MUSIC	1	160	R	006		DAY	Clarinet	Hinckley, Jaren	.5	TBA	TBA	TBA	E464 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 3	0	
+03981	075	MUSIC	1	160	R	007		DAY	Bassoon		.5	TBA	TBA	TBA	E466 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 0	0	
+03981	058	MUSIC	1	160	R	008		DAY	Horn	Lowe, Larry	.5	TBA	TBA	TBA	E460 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 1	0	
+03981	057	MUSIC	1	160	R	009		DAY	Trumpet	Hart, Seretta	.5	TBA	TBA	TBA	E393 HFAC 	MUSIC 160R students must contact teacher/coordinator listed during the first two days of the term for teacher assignment and scheduling.MUSIC 160R: For Spring 2014 the registration deadline is April 11.	1 / 4	0	
+03981	060	MUSIC	1	160	R	010		DAY	Tuba	Call, Steve	.5	TBA	TBA	TBA	E461 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 1	0	
+03981	077	MUSIC	1	160	R	011		DAY	Euphonium		.5	TBA	TBA	TBA	E461 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 0	0	
+03981	063	MUSIC	1	160	R	012		DAY	Percussion	Brough, Ron	.5	TBA	TBA	TBA	E281 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 4	0	
+03981	066	MUSIC	1	160	R	013		DAY	Violin	Woods, Alexander	.5	TBA	TBA	TBA	E543 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	2 / 10	0	
+03981	067	MUSIC	1	160	R	014		DAY	Viola	Bigelow, Claudine	.5	TBA	TBA	TBA	E545 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	1 / 5	0	
+03981	068	MUSIC	1	160	R	015		DAY	Cello	Kesler, Michelle	.5	TBA	TBA	TBA	E539 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	2 / 8	0	
+03981	069	MUSIC	1	160	R	016		DAY	String Bass		.5	TBA	TBA	TBA	E378 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 0	0	
+03981	081	MUSIC	1	160	R	017		DAY	Guitar	Green, Lawrence	.5	TBA	TBA	TBA	C398 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	5 / 15	0	
+03981	070	MUSIC	1	160	R	018		DAY	Harp	Anderson, Anamae	.5	TBA	TBA	TBA	C238 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 2	0	
+03981	087	MUSIC	1	160	R	019		DAY	Carillon	Cook, Don	.5	TBA	TBA	TBA	TBA 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	2 / 3	0	
+03981	086	MUSIC	1	160	R	020		DAY	Synthesizer	Zimmerman, Dave	.5	TBA	TBA	TBA	TBA 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 6	0	
+03981	110	MUSIC	1	160	R	021		DAY	Contemporary Voice	Bounous, Barry Crabb, Amanda[+]	.5	TBA	TBA	TBA	1140 RB 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	1 / 24	0	
+03981	076	MUSIC	1	160	R	027		DAY	Saxophone	Smith, Ray	.5	TBA	TBA	TBA	E221 HFAC 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	0 / 1	0	
+03981	078	MUSIC	1	160	R	028		ST ABROAD	Woodwinds		.5	TBA	TBA	TBA	TBA 		99 / 99	0	
+03981	079	MUSIC	1	160	R	029		ST ABROAD	Brass & Percussion		.5	TBA	TBA	TBA	TBA 		99 / 99	0	
+03981	080	MUSIC	1	160	R	030		ST ABROAD	Strings		.5	TBA	TBA	TBA	TBA 		98 / 99	0	
+03981	064	MUSIC	1	160	R	031		ST ABROAD	Piano		.5	TBA	TBA	TBA	TBA 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	99 / 99	0	
+03981	071	MUSIC	1	160	R	032		ST ABROAD	Voice		.5	TBA	TBA	TBA	TBA 	MUSIC 160R: For Spring 2014 the registration deadline is April 11.	99 / 99	0	
+03981	098	MUSIC	1	160	R	033		ST ABROAD	Performance Instruction		1	TBA	TBA	TBA	TBA 		99 / 99	0	
+03993	012	MUSIC	1	193		001		DAY	Dictation 1	Woods, Alexander	1	MTWThF	08:00am	08:35am	E379 HFAC 	MUSIC 193 requires concurrent registration with MUSIC 195 and 197.This class is for majors only.	15 / 24	0	
+03995	002	MUSIC	1	195		001		DAY	Music Theory 1	Lowe, Larry	3	MTWThF	08:40am	09:40am	E379 HFAC 	MUSIC 195 requires concurrent registration with MUSIC 193 and 197.This class is for majors only.	18 / 24	0	
+08907	000	MUSIC	1	197		001		DAY	Sight Singing 1	Kenney, Susan	.5	MW	12:00pm	12:50pm	C580 HFAC 	MUSIC 197 requires concurrent registration with MUSIC 193 and 195.This class is for majors only.	16 / 24	0	
+08882	003	MUSIC	1	201		001		DAY	Civilization: Music 1	Howard, Luke	3	MWF	08:00am	09:50am	F201 HFAC 		13 / 45	0	
+08883	003	MUSIC	1	202		001		EVENING	Civilization: Music 2	Howard, Luke	3	MW	4:00pm	6:50pm	F201 HFAC 		16 / 50	0	
+08883	003	MUSIC	1	202		002	N	ST ABROAD	Civilization: Music 2		3	TBA	TBA	TBA	TBA 		87 / 99	0	
+06219	001	MUSIC	1	203		001		EVENING	World Music Cultures	Grimshaw, Jeremy	3	MW	4:00pm	6:30pm	C130 HFAC 		23 / 25	0	
+03849	020	MUSIC	1	204		001		EVENING	Introduction to Jazz	Call, Steve	3	MW	4:00pm	6:25pm	E400 HFAC 	MUSIC 204 is for non-music majors only.	12 / 20	0	
+10087	000	MUSIC	1	221		001		DAY	Functional Piano Skills 1	Grady, Evan	2	MTWTh	09:00am	09:50am	C480 HFAC 	This class is for majors only.	9 / 16	0	
+11731	000	MUSIC	1	235	A	001		DAY	Instrumental Conducting Techn	Smith, Chris	2	MW	1:00pm	2:50pm	E250 HFAC 	This class requires departmental approval.	5 / 15	0	
+11732	000	MUSIC	1	235	B	001		DAY	Choral Conducting Techniques	Spindler, Lee	2	TTh	08:00am	09:50am	C130 HFAC 	This class requires departmental approval.	10 / 15	0	
+08318	002	MUSIC	1	249		001		DAY	Sophomore Recital		0	TBA	TBA	TBA	TBA 	This class requires departmental approval.	17 / 20	0	
+03873	016	MUSIC	1	260	R	001		DAY	Voice	Reich, Diane Ammons, MindyHopkin, Arden[+]	1	ThTh	5:00pm5:00pm	6:50pm6:50pm	E400 HFAC E432 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	20 / 30	0	
+03873	022	MUSIC	1	260	R	002		DAY	Piano	Shumway, Jeffrey Anderson, RichardHancock, Robin[+]	1	M	5:00pm	6:50pm	MRH HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	30 / 40	0	
+03873	015	MUSIC	1	260	R	003		DAY	Organ	Cook, Don	1	TBA	TBA	TBA	C250 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	9 / 10	0	
+03873	028	MUSIC	1	260	R	004		DAY	Flute	Clayton, April	1	TBA	TBA	TBA	E546 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	14 / 18	0	
+03873	029	MUSIC	1	260	R	005		DAY	Oboe	Giovannetti, Geralyn	1	W	2:00pm	3:50pm	E432 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	8 / 10	0	
+03873	030	MUSIC	1	260	R	006		DAY	Clarinet		1	TBA	TBA	TBA	E464 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	15 / 15	0	
+03873	031	MUSIC	1	260	R	007		DAY	Bassoon	Smith, Chris	1	TBA	TBA	TBA	E466 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	9 / 10	0	
+03873	018	MUSIC	1	260	R	008		DAY	Horn	Lowe, Larry	1	TBA	TBA	TBA	E460 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	4 / 5	0	
+03873	017	MUSIC	1	260	R	009		DAY	Trumpet	Brown, David	1	TBA	TBA	TBA	E393 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	4 / 5	0	
+03873	020	MUSIC	1	260	R	010		DAY	Tuba		1	TBA	TBA	TBA	E461 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	5 / 5	0	
+03873	034	MUSIC	1	260	R	011		DAY	Euphonium		1	TBA	TBA	TBA	E461 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	5 / 5	0	
+03873	021	MUSIC	1	260	R	012		DAY	Percussion	Brough, Ron	1	TBA	TBA	TBA	E281 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	9 / 10	0	
+03873	024	MUSIC	1	260	R	013		DAY	Violin	Woods, Alexander	1	T	5:00pm	6:50pm	E250 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	12 / 13	0	
+03873	025	MUSIC	1	260	R	014		DAY	Viola	Bigelow, Claudine	1	T	10:00am	10:50am	E432 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	8 / 10	0	
+03873	026	MUSIC	1	260	R	015		DAY	Cello	Kesler, Michelle	1	T	5:00pm	5:50pm	E251 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	9 / 10	0	
+03873	037	MUSIC	1	260	R	016		DAY	String Bass		1	TBA	TBA	TBA	E378 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	10 / 10	0	
+03873	033	MUSIC	1	260	R	017		DAY	Synthesizer		1	TBA	TBA	TBA	TBA 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	4 / 4	0	
+03873	032	MUSIC	1	260	R	020		DAY	Saxophone	Smith, Ray	1	TBA	TBA	TBA	E221 HFAC 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	4 / 5	0	
+03873	013	MUSIC	1	260	R	021		ST ABROAD	Woodwinds		1	TBA	TBA	TBA	TBA 	This class is for majors only.	99 / 99	0	
+03873	035	MUSIC	1	260	R	022		ST ABROAD	Brass & Percussion		1	TBA	TBA	TBA	TBA 	This class is for majors only.	99 / 99	0	
+03873	036	MUSIC	1	260	R	023		ST ABROAD	Strings		1	TBA	TBA	TBA	TBA 	This class is for majors only.	98 / 99	0	
+03873	022	MUSIC	1	260	R	024		ST ABROAD	Piano		1	TBA	TBA	TBA	TBA 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	99 / 99	0	
+03873	016	MUSIC	1	260	R	025		ST ABROAD	Voice		1	TBA	TBA	TBA	TBA 	MUSIC 260R: For Spring 2014 the registration deadline is April 11.This class is for majors only.	99 / 99	0	
+03873	039	MUSIC	1	260	R	026		ST ABROAD	Performance Instruction		1	TBA	TBA	TBA	TBA 	This class is for majors only.	99 / 99	0	
+03873	038	MUSIC	1	260	R	033		DAY	Guitar		1	TBA	TBA	TBA	C398 HFAC 	This class is for majors only.	5 / 5	0	
+07581	004	MUSIC	1	293		001		DAY	Dictation 3	Clayton, April	1	MWF	11:00am	11:50am	E353 HFAC 	MUSIC 293 requires concurrent registration with MUSIC 295 and 297.This class requires departmental approval.	14 / 21	0	
+04011	000	MUSIC	1	295		001		DAY	Music Theory 3	Durham, Thomas	3	MTWFTh	10:00am10:00am	10:50am11:50am	E379 HFAC E379 HFAC 	MUSIC 295 requires concurrent registration with MUSIC 293 and 297.This class requires departmental approval.	12 / 24	0	
+06242	001	MUSIC	1	297		001		DAY	Sight Singing 3	Spindler, Lee	.5	MW	12:00pm	12:50pm	E379 HFAC 	MUSIC 297 requires concurrent registration with MUSIC 293 and 295.This class requires departmental approval.	11 / 24	0	
+11735	000	MUSIC	1	307		001		DAY	World Music	Grimshaw, Jeremy	2	MW	10:00am	11:50am	C130 HFAC 	This class requires departmental approval.	13 / 20	0	
+11736	000	MUSIC	1	308		001		DAY	History of Jazz	Harker, Brian	2	MW	08:00am	09:50am	E400 HFAC 	This class requires departmental approval.	8 / 20	0	
+04014	011	MUSIC	1	311	R	001		DAY	University Chorale	Applonie, Jean	1	MTWThF	2:00pm	2:50pm	MRH HFAC 	This class is for MEN only.	58 / 65	0	
+04014	011	MUSIC	1	311	R	002		DAY	University Chorale	Applonie, Jean	1	MTWThF	2:00pm	2:50pm	MRH HFAC 	This class is for WOMEN only.	48 / 65	0	
+10090	000	MUSIC	1	317	R	001		DAY	Opera Ensemble	Vincent, Lawrence	3V	MTWThF	2:00pm	4:50pm	A230 HFAC 		21 / 40	0	
+08021	001	MUSIC	1	329	R	001		EVENING	Folk Ensemble	Geslison, Mark	1	TTh	5:00pm	5:50pm	A244 HFAC 	MUSIC 329R section 001 is the Folk Dance Touring Ensemble.	0 / 7	0	
+08021	001	MUSIC	1	329	R	002		EVENING	Folk Ensemble	Geslison, Mark	1	TTh	6:00pm	7:50pm	A244 HFAC 	MUSIC 329R section 002 is the American Music Ensemble.	0 / 10	0	
+08915	000	MUSIC	1	334	R	001		DAY	Synthesis	Smith, Ray	1	MW	3:00pm	4:50pm	E251 HFAC 		25 / 30	0	
+08917	000	MUSIC	1	341	R	001	N	ST ABROAD	Brass Chamber Musc		1	TBA	TBA	TBA	TBA 		92 / 99	0	
+08917	000	MUSIC	1	341	R	002		DAY	Brass Chamber Musc	Call, Steve	1	TBA	TBA	TBA	TBA 		7 / 10	0	
+04004	030	MUSIC	1	344	R	001		DAY	Keyboard in Ensemble	Anderson, Richard	1	MW	12:00pm	12:50pm	E400 HFAC 		9 / 16	0	
+08920	000	MUSIC	1	346	R	001		DAY	String Chamber Music		1	TBA	TBA	TBA	E543 HFAC 		20 / 20	0	
+08922	000	MUSIC	1	348	R	001		DAY	Woodwind Chamber M		1	TBA	TBA	TBA	E475 HFAC 		12 / 12	0	
+08923	001	MUSIC	1	349		001		DAY	Junior Recital		0	TBA	TBA	TBA	TBA 	This class requires departmental approval.	14 / 15	0	
+04032	043	MUSIC	1	359	R	001		DAY	Performance Study	Reich, Diane	1	TBA	TBA	TBA	TBA 	MUSIC 359R section 001: The registration deadline is April 11.	15 / 15	0	
+04033	072	MUSIC	1	360	R	001		DAY	Voice	Reich, Diane Hopkin, Arden[+]	1	ThTh	5:00pm5:00pm	6:50pm6:50pm	E400 HFAC E432 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	12 / 20	0	
+04033	066	MUSIC	1	360	R	002		DAY	Piano		1	M	5:00pm	6:50pm	MRH HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	15 / 15	0	
+04033	064	MUSIC	1	360	R	003		DAY	Organ		1	TBA	TBA	TBA	C250 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	10 / 10	0	
+04033	073	MUSIC	1	360	R	004		DAY	Flute		1	TBA	TBA	TBA	E546 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	074	MUSIC	1	360	R	005		DAY	Oboe		1	W	2:00pm	3:50pm	E432 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	075	MUSIC	1	360	R	006		DAY	Clarinet		1	TBA	TBA	TBA	E464 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	076	MUSIC	1	360	R	007		DAY	Bassoon		1	TBA	TBA	TBA	E466 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	060	MUSIC	1	360	R	008		DAY	Horn		1	TBA	TBA	TBA	E460 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	059	MUSIC	1	360	R	009		DAY	Trumpet		1	TBA	TBA	TBA	E393 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	10 / 10	0	
+04033	062	MUSIC	1	360	R	010		DAY	Tuba		1	TBA	TBA	TBA	E461 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	078	MUSIC	1	360	R	011		DAY	Euphonium		1	TBA	TBA	TBA	E461 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	065	MUSIC	1	360	R	012		DAY	Percussion		1	TBA	TBA	TBA	E281 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	10 / 10	0	
+04033	068	MUSIC	1	360	R	013		DAY	Violin	Woods, Alexander	1	T	5:00pm	6:50pm	E250 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	9 / 10	0	
+04033	069	MUSIC	1	360	R	014		DAY	Viola		1	T	10:00am	10:50am	E432 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	070	MUSIC	1	360	R	015		DAY	Cello		1	T	5:00pm	5:50pm	E251 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	10 / 10	0	
+04033	083	MUSIC	1	360	R	016		DAY	String Bass		1	TBA	TBA	TBA	E378 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	10 / 10	0	
+04033	058	MUSIC	1	360	R	017		DAY	Songwriting		1	TBA	TBA	TBA	1128B RB 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	106	MUSIC	1	360	R	018		DAY	Synthesizer		1	TBA	TBA	TBA	TBA 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	2 / 2	0	
+04033	077	MUSIC	1	360	R	021		DAY	Saxophone		1	TBA	TBA	TBA	E221 HFAC 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04033	079	MUSIC	1	360	R	022		ST ABROAD	Woodwinds		1	TBA	TBA	TBA	TBA 	This class requires departmental approval.	99 / 99	0	
+04033	080	MUSIC	1	360	R	023		ST ABROAD	Brass & Percussion		1	TBA	TBA	TBA	TBA 	This class requires departmental approval.	98 / 99	0	
+04033	081	MUSIC	1	360	R	024		ST ABROAD	Strings		1	TBA	TBA	TBA	TBA 	This class requires departmental approval.	99 / 99	0	
+04033	066	MUSIC	1	360	R	025		ST ABROAD	Piano		1	TBA	TBA	TBA	TBA 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	99 / 99	0	
+04033	072	MUSIC	1	360	R	026		ST ABROAD	Voice		1	TBA	TBA	TBA	TBA 	MUSIC 360R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	99 / 99	0	
+04033	082	MUSIC	1	360	R	027		ST ABROAD	Conducting		1	TBA	TBA	TBA	TBA 	This class requires departmental approval.	99 / 99	0	
+09217	000	MUSIC	1	378		001		DAY	Mu Elem Clsrm Tchr	Kenney, Susan	2	MW	10:00am	11:50am	C580 HFAC 	This class requires departmental approval.	27 / 40	0	
+08309	002	MUSIC	1	391		001		DAY	Jazz Keyboard	Call, Steve	2	MW	1:00pm	2:50pm	C480 HFAC 		8 / 12	0	
+04057	008	MUSIC	1	395		001		DAY	Form and Analysis	Ricks, Steven	3	MWF	10:00am	11:50am	E400 HFAC 	This class requires departmental approval.	6 / 24	0	
+08069	001	MUSIC	1	399	R	001		DAY	Academic Internship	Saltmarsh, Ron	6V	TBA	TBA	TBA	1128 RB 	MUSIC 399R: An APPROVED Internship Application is required before adding.MUSIC 399R:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.This class requires internship coordinator approval.	8 / 10	0	
+08319	004	MUSIC	1	449		001		DAY	Senior Recital		1	TBA	TBA	TBA	TBA 	This class requires departmental approval.	4 / 10	0	
+04005	019	MUSIC	1	460	R	001		DAY	Piano	Shumway, Jeffrey Anderson, Richard[+]	1.5	M	5:00pm	6:50pm	MRH HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	9 / 15	0	
+04005	017	MUSIC	1	460	R	002		DAY	Organ	Cook, Don	1.5	TBA	TBA	TBA	C250 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	4 / 5	0	
+04005	025	MUSIC	1	460	R	003		DAY	Flute	Clayton, April	1.5	TBA	TBA	TBA	E546 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	3 / 5	0	
+04005	026	MUSIC	1	460	R	004		DAY	Oboe		1.5	W	2:00pm	3:50pm	E432 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	027	MUSIC	1	460	R	005		DAY	Clarinet		1.5	TBA	TBA	TBA	E464 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	028	MUSIC	1	460	R	006		DAY	Bassoon		1.5	TBA	TBA	TBA	E466 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	014	MUSIC	1	460	R	007		DAY	Horn	Lowe, Larry	1.5	TBA	TBA	TBA	E460 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	4 / 5	0	
+04005	013	MUSIC	1	460	R	008		DAY	Trumpet	Brown, David	1.5	TBA	TBA	TBA	E393 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	3 / 5	0	
+04005	015	MUSIC	1	460	R	009		DAY	Tuba		1.5	TBA	TBA	TBA	E461 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	030	MUSIC	1	460	R	010		DAY	Euphonium		1.5	TBA	TBA	TBA	E461 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	018	MUSIC	1	460	R	011		DAY	Percussion	Brough, Ron	1.5	TBA	TBA	TBA	E281 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	4 / 5	0	
+04005	021	MUSIC	1	460	R	012		DAY	Violin	Woods, Alexander	1.5	T	5:00pm	6:50pm	E250 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	19 / 20	0	
+04005	022	MUSIC	1	460	R	013		DAY	Viola		1.5	T	10:00am	10:50am	E432 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	023	MUSIC	1	460	R	014		DAY	Cello		1.5	T	5:00pm	5:50pm	E251 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	036	MUSIC	1	460	R	015		DAY	Guitar		1.5	TBA	TBA	TBA	C398 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	029	MUSIC	1	460	R	016		DAY	Saxophone		1.5	TBA	TBA	TBA	E221 HFAC 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	5 / 5	0	
+04005	031	MUSIC	1	460	R	017		ST ABROAD	Woodwinds		1.5	TBA	TBA	TBA	TBA 	This class requires departmental approval.	99 / 99	0	
+04005	032	MUSIC	1	460	R	018		ST ABROAD	Brass & Percussion		1.5	TBA	TBA	TBA	TBA 	This class requires departmental approval.	97 / 99	0	
+04005	033	MUSIC	1	460	R	019		ST ABROAD	Strings		1.5	TBA	TBA	TBA	TBA 	This class requires departmental approval.	98 / 99	0	
+04005	019	MUSIC	1	460	R	020		ST ABROAD	Piano		1.5	TBA	TBA	TBA	TBA 	MUSIC 460R: For Spring 2014 the registration deadline is April 11.This class requires departmental approval.	98 / 99	0	
+04005	012	MUSIC	1	460	R	021		ST ABROAD	Voice		1.5	TBA	TBA	TBA	TBA 	This class requires departmental approval.	99 / 99	0	
+04005	034	MUSIC	1	460	R	022		ST ABROAD	Conducting		1.5	TBA	TBA	TBA	TBA 	This class requires departmental approval.	99 / 99	0	
+04005	011	MUSIC	1	460	R	030		DAY	Trombone	Mutchler, Graeme	1.5	TBA	TBA	TBA	TBA 	This class requires departmental approval.	0 / 1	0	
+11901	001	MUSIC	1	486		001		DAY	Commercial Music Capstone Proj		1	TBA	TBA	TBA	TBA 		5 / 5	0	
+06818	000	MUSIC	1	494	R	001		DAY	Indepndnt Readings		3V	TBA	TBA	TBA	C550 HFAC 		5 / 5	0	
+06818	000	MUSIC	1	494	R	003	N	ST ABROAD	Indepndnt Readings	Kenney, Susan	3V	TBA	TBA	TBA	TBA 		98 / 99	0	
+03896	005	MUSIC	1	499	R	001		DAY	Honors Thesis		6V	TBA	TBA	TBA	TBA 		5 / 5	0	
+11402	007	MUSIC	1	505	A	001		DAY	Woodwind Literature		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+11402	001	MUSIC	1	505	A	002		DAY	Brass Literature		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+11403	005	MUSIC	1	505	B	001		DAY	String Literature		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+11403	007	MUSIC	1	505	B	002		DAY	Woodwind Literature	Giovannetti, Geralyn	2	TBA	TBA	TBA	TBA 		4 / 5	0	
+11403	001	MUSIC	1	505	B	003		DAY	Brass Literature		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+08569	025	MUSIC	1	560	R	001		DAY	Graduate Voice Instruction		1	TBA	TBA	TBA	E455 HFAC 	MUSIC 560R: For Spring 2014 the registration deadline is April 11.	4 / 5	0	
+08569	022	MUSIC	1	560	R	002		DAY	Graduate Piano Instruction		1	TBA	TBA	TBA	B371H HFAC 	MUSIC 560R: For Spring 2014 the registration deadline is April 11.	5 / 5	0	
+08569	024	MUSIC	1	560	R	003		DAY	Graduate Organ Instruction		1	TBA	TBA	TBA	C250 HFAC 	MUSIC 560R: For Spring 2014 the registration deadline is April 11.	5 / 5	0	
+08569	028	MUSIC	1	560	R	004		DAY	Graduate String Instruction		1	TBA	TBA	TBA	TBA 	MUSIC 560R: For Spring 2014 the registration deadline is April 11.	5 / 5	0	
+08569	026	MUSIC	1	560	R	005		DAY	Graduate Woodwind Instruction		1	TBA	TBA	TBA	TBA 	MUSIC 560R: For Spring 2014 the registration deadline is April 11.	5 / 5	0	
+08569	027	MUSIC	1	560	R	006		DAY	Grad Brass&Percus Instruction		1	TBA	TBA	TBA	TBA 	MUSIC 560R: For Spring 2014 the registration deadline is April 11.	5 / 5	0	
+04077	004	MUSIC	S	575	R	002		CONF WKSH	Summer Music Clinic	Jaccard, Jerry	3V	TBA	TBA	TBA	TBA 		19 / 60	0	
+04083	005	MUSIC	1	602		001		DAY	Music in the Renaissance	Johnson, Steven	3	MWF	08:00am	09:50am	4420 HBLL 		4 / 5	0	
+10094	000	MUSIC	1	617	R	001		DAY	Opera Ensemble	Vincent, Lawrence	3V	MTWThF	2:00pm	4:50pm	A230 HFAC 		6 / 8	0	
+03924	006	MUSIC	1	644	R	001		DAY	Keyboard Ensemble	Anderson, Richard	1	MW	12:00pm	12:50pm	E400 HFAC 		3 / 5	0	
+03930	003	MUSIC	1	646	R	001		DAY	String Chamber Music		1	TBA	TBA	TBA	TBA 		6 / 6	0	
+03934	001	MUSIC	1	648	R	001		DAY	Woodwind Chamber Music		1	TBA	TBA	TBA	E475 HFAC 		3 / 3	0	
+04092	021	MUSIC	1	649		001		DAY	Solo Recital		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+04091	005	MUSIC	1	660	R	001		DAY	Grad Voice Instruction	Reich, Diane	1	ThTh	5:00pm5:00pm	6:50pm6:50pm	E400 HFAC E432 HFAC 	MUSIC 660R: For Spring 2014 the registration deadline is April 11.	4 / 5	0	
+04091	003	MUSIC	1	660	R	002		DAY	Grad Piano Instruction	Shumway, Jeffrey	1	M	5:00pm	6:50pm	MFH HFAC 	MUSIC 660R: For Spring 2014 the registration deadline is April 11.	7 / 8	0	
+04091	002	MUSIC	1	660	R	003		DAY	Grad Organ Instruction	Cook, Don	1	TBA	TBA	TBA	C250 HFAC 	MUSIC 660R: For Spring 2014 the registration deadline is April 11.	4 / 5	0	
+04091	011	MUSIC	1	660	R	004		DAY	Grad String Instruction		1	TBA	TBA	TBA	TBA 	MUSIC 660R: For Spring 2014 the registration deadline is April 11.	5 / 5	0	
+04091	009	MUSIC	1	660	R	005		DAY	Grad Woodwind Instruction	Giovannetti, Geralyn	1	TBA	TBA	TBA	TBA 	MUSIC 660R: For Spring 2014 the registration deadline is April 11.	4 / 5	0	
+04091	010	MUSIC	1	660	R	006		DAY	Grad Brass&Percus Instruction		1	TBA	TBA	TBA	TBA 	MUSIC 660R: For Spring 2014 the registration deadline is April 11.	2 / 2	0	
+04060	042	MUSIC	1	665		001		DAY	Brass Pedagogy		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+03948	012	MUSIC	1	670		001		DAY	Supervised Teaching: Woodwind		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+03948	013	MUSIC	1	670		002		DAY	Sprvsd Tchg: Brass/Percussion		2	TBA	TBA	TBA	TBA 		5 / 5	0	
+04102	009	MUSIC	1	687	R	001		DAY	Composition for Master's		6V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04100	000	MUSIC	1	694	R	001		DAY	Independent Readings		3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+06685	002	MUSIC	1	697	A	001		DAY	Researching the Recital		2	TBA	TBA	TBA	TBA 		3 / 5	0	
+06686	001	MUSIC	1	697	B	001		DAY	Recital		2	TBA	TBA	TBA	TBA 		4 / 5	0	
+04103	001	MUSIC	1	699	R	001		DAY	Master's Thesis		9V	TBA	TBA	TBA	TBA 		5 / 5	0	
 08628	001	NDFS	S	100		002		SALT LAKE	Essentials of Human Nutrition	Willahan, Jen	3	T	5:15pm	7:40pm	306 SLC 	NDFS 100:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	25 / 30	0	
 02009	007	NDFS	1	200		001		DAY	Nutrient Metabolism	Christensen, Merrill	3	MWF	08:00am	09:50am	W142 BNSN 		35 / 67	0	
 02010	011	NDFS	1	250		001		DAY	Essentials of Food Science	Dunn, Michael	3	MWF	10:00am	11:50am	C255 ESC 		25 / 40	0	
@@ -1320,12 +1793,15 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 05948	003	PDBIO	1	799	R	010		DAY	Dissertation		18V	TBA	TBA	TBA	TBA 		2 / 2	0	
 04279	028	PETE	1	169		001		DAY	Elementary Skills & Activities	Zanandrea, Maria	1	MTWTh	10:00am	10:50am	134 RB 		13 / 20	0	
 04422	035	PETE	1	212		001		DAY	PE for Elem School Teachers	Pennington, Todd	2	MTWThMTWThMTWTh	09:00am09:00am09:00am	10:50am10:50am10:50am	37 SFH WCTS SFH 249M SFH 	Additional clearance required. Please contact your advisement center.	10 / 28	0	
-11821	000	PETE	1	399	R	001		DAY	Academic Internship: Coaching	Bone, Marie	4V	TBA	TBA	TBA	249F SFH 	PETE 399R:  An APPROVED Internship Application is required before adding.PETE 399R section 001:&
+11821	000	PETE	1	399	R	001		DAY	Academic Internship: Coaching	Bone, Marie	4V	TBA	TBA	TBA	249F SFH 	PETE 399R:  An APPROVED Internship Application is required before adding.PETE 399R section 001: PETE Majors onlyThis class requires internship coordinator approval.	9 / 10	0	
+11821	000	PETE	1	399	R	002		DAY	Academic Internship: Coaching	Bone, Marie	4V	TBA	TBA	TBA	249F SFH 	PETE 399R:  An APPROVED Internship Application is required before adding.PETE 399R section 002: PETE Minors onlyThis class requires internship coordinator approval.	5 / 5	0	
 04215	008	PHIL	1	110		001		DAY	Introduction to Philosophy	Richards, James	3	TTh	1:35pm	2:50pm	B099 JFSB 	PHIL 110:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	7 / 42	0	
 04221	005	PHIL	1	201		001		DAY	History of Philosophy 1	Arts, Michael	3	MWF	10:00am	11:50am	B099 JFSB 		20 / 42	0	
 04216	005	PHIL	1	205		001		EVENING	Intro to Formal Logic	Carter, Codell	3	MWF	4:00pm	5:50pm	B099 JFSB 		31 / 42	0	
 04219	008	PHIL	1	213		001		DAY	Introduction to Ethics	Gates, Darin	3	MWF	2:00pm	3:50pm	B099 JFSB 		7 / 42	0	
-04227	016	PHIL	1	423		001		DAY	History&Philosophy of Science	Carter, Codell	3	MWF	12:00pm	1:50pm	4082 JFSB 	PHIL 423 section 001:&
+04227	016	PHIL	1	423		001		DAY	History&Philosophy of Science	Carter, Codell	3	MWF	12:00pm	1:50pm	4082 JFSB 	PHIL 423 section 001: History and Philosophy of Medicine	5 / 20	0	
+04258	003	PHIL	1	499	R	001		DAY	Honors Thesis	Anderson, Travis	6V	TBA	TBA	TBA	TBA 		10 / 10	0	
+04262	000	PHIL	1	501	R	001		DAY	Graduate Seminar	Anderson, Travis	5V	TBA	TBA	TBA	TBA 		10 / 10	0	
 04533	017	PHSCS	1	105		001		DAY	General Physics 1	Hess, Bret	3	MWF	09:00am	10:50am	C215 ESC 	PHSCS 105:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	51 / 167	0	
 04533	017	PHSCS	1	105		002		SALT LAKE	General Physics 1	Chenworth, Joseph A.	3	TTh	5:15pm	7:40pm	413 SLC 	PHSCS 105:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	32 / 50	0	
 04535	004	PHSCS	1	107		001		DAY	General Physics Lab 1	Christensen, Clark	1	TTh	08:00am	10:50am	C445 ESC 	PHSCS 107 Students check with your departments to see if PHSCS 107 and 105 are required concurrently.	0 / 28	0	
@@ -1377,7 +1853,15 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 06670	021	PL SC	1	399	R	001		DAY	Washington DC Internship	Karpowitz, Chris	9V	TBA	TBA	TBA	TBA 	PL SC 399R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	41 / 45	0	
 06670	020	PL SC	1	399	R	002		DAY	Academic Internship	Dunaway, Scott	9V	TBA	TBA	TBA	TBA 	PL SC 399R: An APPROVED Internship Application is required before adding.PL SC 399R section 002: Political Science InternshipsThis class requires internship coordinator approval.	45 / 45	0	
 06670	021	PL SC	S	399	R	005		DAY	Washington DC Internship	Karpowitz, Chris	9V	TBA	TBA	TBA	TBA 	PL SC 399R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	9 / 45	0	
-06670	020	PL SC	S	399	R	006		DAY	Academic Internship	Dunaway, Scott	9V	TBA	TBA	TBA	TBA 	PL SC 399R: An APPROVED Internship Application is required before adding.PL SC 399R section 006:&
+06670	020	PL SC	S	399	R	006		DAY	Academic Internship	Dunaway, Scott	9V	TBA	TBA	TBA	TBA 	PL SC 399R: An APPROVED Internship Application is required before adding.PL SC 399R section 006: Political Science InternshipsThis class requires internship coordinator approval.	43 / 45	0	
+06670	020	PL SC	1	399	R	007		ST ABROAD	Academic Internship		9V	TBA	TBA	TBA	TBA 	PL SC 399R: An APPROVED Internship Application is required before adding.	98 / 99	0	
+04702	003	PL SC	1	410		001		DAY	Capstone Sem: Amer Politics	Davis, Richard	3	TTh	4:00pm	6:30pm	793 SWKT 	PL SC 410 section 001: Politics and Film	5 / 20	0	
+04709	002	PL SC	1	470		001		DAY	Capstone Sem: Intrnl Relations	Fry, Earl	3	MW	08:00am	10:30am	793 SWKT 	PL SC 470 section 001: United States and the Trans-Atlantic Region	3 / 20	0	
+12200	000	PL SC	1	497	R	003		DAY	Mentored Research	Beesley, Celeste	2	TBA	TBA	TBA	TBA 		0 / 1	0	
+04703	026	PL SC	S	498	R	003		ST ABROAD	Directed Readings		3V	TBA	TBA	TBA	TBA 		97 / 99	0	
+04703	026	PL SC	1	498	R	004		DAY	Directed Readings	Stiles, Kendall	3	TBA	TBA	TBA	TBA 		0 / 1	0	
+04703	026	PL SC	S	498	R	005		DAY	Directed Readings	Gubler, Joshua	3	TBA	TBA	TBA	TBA 		1 / 1	0	
+04703	026	PL SC	1	498	R	006		DAY	Directed Readings	Hawkins, Darren	3	TBA	TBA	TBA	TBA 		0 / 1	0	
 04777	008	PORT	1	211	R	001		DAY	1st Sem Port Conv	McLane, Rubia	2	MWF	10:00am	11:15am	B152 JFSB 		15 / 18	0	
 04779	003	PORT	1	311	R	001		DAY	3rd Yr Conversatn	McLane, Rubia	2	MWF	10:00am	11:15am	B152 JFSB 		15 / 15	0	
 04780	004	PORT	1	321		001		DAY	3rd Yr Grammar & Composition	Krause, James	3	MWF	12:00pm	1:50pm	1004 JKB 		5 / 25	0	
@@ -1412,7 +1896,80 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 04832	001	PSYCH	1	361		001		DAY	Principles of Learning	Miller, Hal	3	MWF	2:00pm	3:50pm	2110 JKB 		28 / 30	0	
 08996	002	PSYCH	1	381		001		EVENING	Behavioral Neurobiology	Kirwan, Brock	3	TTh	4:00pm	6:30pm	B050 JFSB 		9 / 30	0	
 08036	000	PSYCH	1	390	R	001		DAY	Special Topics in Psychology	Kirwan, Brock	3V	MWMW	12:00pm12:00pm	2:30pm2:30pm	147 MB 112 SWKT 	PSYCH 390R section 001: Functional MRI Design & Analysis. Course designed for students engaged in fMRI research.	3 / 5	0	
-08036	000	PSYCH	1	390	R	002		DAY	Special Topics in Psychology	Reber, Jeffrey	3V	TTh	12:00pm	2:30pm	270 SWKT 	PSYCH 390R section 002:&
+08036	000	PSYCH	1	390	R	002		DAY	Special Topics in Psychology	Reber, Jeffrey	3V	TTh	12:00pm	2:30pm	270 SWKT 	PSYCH 390R section 002: Psych &amp; Holocaust	22 / 30	0	
+06617	001	PSYCH	S	399	R	001		DAY	Academic Internship	Higley, Dee	9V	TBA	TBA	TBA	TBA 	PSYCH 399R: An APPROVED Internship Application is required before adding.PSYCH 399R section 001: Primate Center Internship at UC-DavisThis class requires internship coordinator approval.	5 / 10	0	
+06617	001	PSYCH	1	399	R	002		DAY	Academic Internship	Jones, Brooke	9V	W	7:00pm	8:30pm	1043 SWKT 	PSYCH 399R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	11 / 20	0	
+06617	001	PSYCH	S	399	R	004		DAY	Academic Internship	Jones, Brooke	9V	W	7:00pm	8:50pm	1043 SWKT 	PSYCH 399R: An APPROVED Internship Application is required before adding.PSYCH 399R section 004: This class will be taught as a full semester class over both spring and summer terms. Please do not schedule courses that conflict with this same time, if you take additional summer term classes. More information.This class requires internship coordinator approval.	9 / 10	0	
+10394	000	PSYCH	1	410	R	001		DAY	Senior Practicum: Tchg of Psy	Clark, Ben	3V	M	3:00pm	4:30pm	1043 SWKT 		6 / 10	0	
+10394	000	PSYCH	1	410	R	002		DAY	Senior Practicum: Tchg of Psy	Gantt, Ed	3V	TBA	TBA	TBA	TBA 		1 / 1	0	
+10395	001	PSYCH	1	420	R	001		DAY	Senior Practicum: Projects	Riley, Christina	3V	F	09:00am	09:50am	F322 HFAC 		7 / 10	0	
+10395	001	PSYCH	1	420	R	002		DAY	Senior Practicum: Projects	Miller, Hal	3V	F	2:00pm	2:50pm	1190C SWKT 	PSYCH 420R section 003:  Student Journal Editorial Staff	5 / 5	0	
+10396	000	PSYCH	1	430	R	001		DAY	Senior Practicum: Research	Burlingame, Gary	3V	Th	07:30am	09:00am	TBA 		3 / 5	0	
+10396	000	PSYCH	1	430	R	002		DAY	Senior Practicum: Research	Lambert, Michael	3V	Th	08:00am	08:50am	TBA 		5 / 5	0	
+10396	000	PSYCH	1	430	R	003		DAY	Senior Practicum: Research	Miller, Hal	3V	F	1:00pm	1:50pm	1090C SWKT 	PSYCH 430R section 003 is designed for students working on CEPICA research.	5 / 5	0	
+10396	000	PSYCH	1	430	R	004		DAY	Senior Practicum: Research	Holt-Lunstad, Julianne	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+10396	000	PSYCH	1	430	R	005		DAY	Senior Practicum: Research	Hedges, Dawson	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+10396	000	PSYCH	1	430	R	006		DAY	Senior Practicum: Research	South, Mikle	3V	TBA	TBA	TBA	TBA 	PSYCH 430R section 006 involves students in research on the impact of teaching philosophies and epistemologies on educational outcomes.	5 / 5	0	
+10396	000	PSYCH	1	430	R	007		DAY	Senior Practicum: Research	Brown, Bruce	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+10396	000	PSYCH	1	430	R	008		DAY	Senior Practicum: Research	Steffen, Patrick	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+10396	000	PSYCH	1	430	R	009		DAY	Senior Practicum: Research	Warren, Jared	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+10396	000	PSYCH	1	430	R	010		DAY	Senior Practicum: Research	Ogles, Ben	3V	TBA	TBA	TBA	TBA 	PSYCH 430R section 010: Sport Psychology Research	10 / 10	0	
+10396	000	PSYCH	1	430	R	011		DAY	Senior Practicum: Research	Higley, Dee	3V	TBA	TBA	TBA	TBA 		4 / 4	0	
+10396	000	PSYCH	1	430	R	012		DAY	Senior Practicum: Research	Lambert, Michael	3V	TBA	TBA	TBA	TBA 		10 / 10	0	
+10396	000	PSYCH	1	430	R	013		DAY	Senior Practicum: Research	Miller, Hal	3V	TBA	TBA	TBA	TBA 		3 / 4	0	
+10396	000	PSYCH	1	430	R	019		DAY	Senior Practicum: Research	Reber, Jeffrey	3V	TBA	TBA	TBA	TBA 		3 / 5	0	
+10396	000	PSYCH	1	430	R	020		DAY	Senior Practicum: Research	Jensen, Chad	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+10396	000	PSYCH	1	430	R	021		DAY	Senior Practicum: Research	Braithwaite, Scott	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+10396	000	PSYCH	1	430	R	023		DAY	Senior Practicum: Research	Emmett, Chad	3V	TBA	TBA	TBA	TBA 		0 / 1	0	
+10396	000	PSYCH	S	430	R	026		DAY	Senior Practicum: Research	Smith, Timothy	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+10396	000	PSYCH	S	430	R	027		DAY	Senior Practicum: Research	Puertas, Alberto	3V	TBA	TBA	TBA	TBA 		0 / 1	0	
+04838	004	PSYCH	1	492	R	001		DAY	Superv Instrctnl/Resrch Exper	Warren, Jared	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04838	004	PSYCH	1	492	R	002		DAY	Superv Instrctnl/Resrch Exper	Flom, Ross	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04838	004	PSYCH	1	492	R	003		DAY	Superv Instrctnl/Resrch Exper	Baldwin, Scott	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04838	004	PSYCH	1	492	R	004		DAY	Superv Instrctnl/Resrch Exper	South, Mikle	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04838	004	PSYCH	1	492	R	005		DAY	Superv Instrctnl/Resrch Exper	Larson, Michael	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04838	004	PSYCH	1	492	R	006		DAY	Superv Instrctnl/Resrch Exper	Brown, Bruce	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04838	004	PSYCH	1	492	R	007		DAY	Superv Instrctnl/Resrch Exper	Hardy, Sam	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04838	004	PSYCH	1	492	R	008		DAY	Superv Instrctnl/Resrch Exper	Hedges, Dawson	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04838	004	PSYCH	1	492	R	009		DAY	Superv Instrctnl/Resrch Exper	Miller, Hal	3V	F	1:00pm	1:50pm	1090C SWKT 		5 / 5	0	
+04838	004	PSYCH	1	492	R	010		DAY	Superv Instrctnl/Resrch Exper	Jensen, Chad	3V	TBA	TBA	TBA	TBA 		3 / 5	0	
+04838	004	PSYCH	1	492	R	011		DAY	Superv Instrctnl/Resrch Exper	Ogles, Ben	3V	TBA	TBA	TBA	TBA 	PSYCH 492R section 011: Sport Psychology Research	10 / 10	0	
+04838	004	PSYCH	1	492	R	012		DAY	Superv Instrctnl/Resrch Exper	Reber, Jeffrey	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04838	004	PSYCH	1	492	R	013		DAY	Superv Instrctnl/Resrch Exper	Steffen, Patrick	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04838	004	PSYCH	1	492	R	032		DAY	Superv Instrctnl/Resrch Exper	Lundwall, Rebecca	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+04838	004	PSYCH	1	492	R	034		DAY	Superv Instrctnl/Resrch Exper	Braithwaite, Scott	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04839	000	PSYCH	1	495	R	001		DAY	Independent Readings	Brown, Bruce	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04839	000	PSYCH	1	495	R	002		DAY	Independent Readings	Gantt, Ed	3V	TBA	TBA	TBA	TBA 		2 / 3	0	
+04861	000	PSYCH	1	499	R	001		DAY	Independent Research	Lambert, Michael	3V	Th	08:00am	08:50am	TBA 		5 / 5	0	
+04861	000	PSYCH	1	499	R	002		DAY	Independent Research	Burlingame, Gary	3V	Th	07:30am	09:00am	TBA 		4 / 5	0	
+04861	000	PSYCH	1	499	R	003		DAY	Independent Research	Steffensen, Scott	3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+04861	000	PSYCH	1	499	R	005		DAY	Independent Research	Higley, Dee	3V	TBA	TBA	TBA	TBA 		2 / 5	0	
+06477	000	PSYCH	1	510		001		DAY	History & Systems of  Psych	Williams, Richard	3	MW	3:00pm	5:30pm	2104 JKB 		0 / 15	0	
+04865	001	PSYCH	1	606		001		DAY	Prof & Ethical Issues in Psych	Jensen, Chad	1	MW	09:00am	11:30am	295 TLRB 		7 / 10	0	
+04875	005	PSYCH	1	609		001		DAY	Prof & Ethical Iss in Cln Psy	Jensen, Chad	3	MW	09:00am	11:30am	295 TLRB 		1 / 8	0	
+07014	001	PSYCH	1	667	R	001		DAY	Sem in Exp Analysis of Behvr	Miller, Hal	3	TBA	TBA	TBA	TBA 		4 / 5	0	
+09273	000	PSYCH	1	693		001		DAY	Teaching Psychology	Slife, Brent	3	TTh	12:00pm	2:30pm	1043 SWKT 	This class is for majors only.	7 / 20	0	
+09274	000	PSYCH	1	694		001		DAY	Psychology Teaching Practicum	Brown, Bruce	1	TBA	TBA	TBA	TBA 	This class is for majors only.	4 / 5	0	
+04893	001	PSYCH	1	695	R	001		DAY	Independent Readings	Gantt, Ed	3V	TBA	TBA	TBA	TBA 		1 / 1	0	
+04893	001	PSYCH	1	695	R	002		DAY	Independent Readings	Higley, Dee	3V	TBA	TBA	TBA	TBA 		1 / 1	0	
+04894	001	PSYCH	1	699	R	001		DAY	Master's Thesis	Brown, Bruce	9V	TBA	TBA	TBA	TBA 		15 / 20	0	
+04878	001	PSYCH	1	700	R	001		DAY	Externship in Clinical Psych	Norton, Lisa	.5	TBA	TBA	TBA	TBA 	PSYCH 700R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	31 / 35	0	
+04878	001	PSYCH	S	700	R	003		DAY	Externship in Clinical Psych	Norton, Lisa	.5	TBA	TBA	TBA	TBA 	PSYCH 700R: An APPROVED Internship Application is required before adding.This class requires internship coordinator approval.	8 / 30	0	
+04922	002	PSYCH	1	711	R	001		DAY	Topics in Clinical Psychology	Kirwan, Brock	3V	MWMW	12:00pm12:00pm	2:30pm2:30pm	147 MB 112 SWKT 		11 / 15	0	
+08068	000	PSYCH	1	741	R	001		DAY	Integrative Practicum	Baldwin, Scott	3V	Th	09:00am	10:50am	268 TLRB 		2 / 5	0	
+08068	000	PSYCH	1	741	R	002		DAY	Integrative Practicum	Steffen, Patrick	3V	Th	09:00am	10:50am	287 TLRB 		2 / 5	0	
+08068	000	PSYCH	1	741	R	003		DAY	Integrative Practicum	Burlingame, Gary	3V	Th	09:00am	10:50am	238 TLRB 		2 / 5	0	
+08068	000	PSYCH	1	741	R	004		DAY	Integrative Practicum	Lambert, Michael	3V	Th	09:00am	10:50am	272 TLRB 		2 / 5	0	
+08068	000	PSYCH	1	741	R	005		DAY	Integrative Practicum	Larson, Michael	3V	Th	09:00am	10:50am	244 TLRB 		2 / 5	0	
+08068	000	PSYCH	1	741	R	006		DAY	Integrative Practicum	Moody, Rick	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+08068	000	PSYCH	1	741	R	007		DAY	Integrative Practicum	South, Mikle	3V	Th	09:00am	10:50am	245 TLRB 		1 / 5	0	
+08068	000	PSYCH	1	741	R	008		DAY	Integrative Practicum	Warren, Jared	3V	Th	09:00am	10:50am	291 TLRB 		2 / 5	0	
+04899	008	PSYCH	1	742	R	001		DAY	Biofeedback	Steffen, Patrick	3	MW	12:00pm	2:30pm	279 TLRB 		0 / 15	0	
+08067	003	PSYCH	1	743	R	001		DAY	Clerkship in Clinical Psych	Norton, Lisa	1	TBA	TBA	TBA	TBA 		13 / 15	0	
+08067	003	PSYCH	1	743	R	002		DAY	Clerkship in Clinical Psych	Norton, Lisa	1	TBA	TBA	TBA	TBA 		5 / 5	0	
+08067	003	PSYCH	S	743	R	004		DAY	Clerkship in Clinical Psych	Norton, Lisa	1	TBA	TBA	TBA	TBA 		0 / 0	0	
+11268	000	PSYCH	1	747		001		DAY	Clinical Internship	Carpenter, Bruce	1	TBA	TBA	TBA	TBA 		2 / 11	0	
+04925	001	PSYCH	1	799	R	001		DAY	Dissertation	Brown, Bruce	9V	TBA	TBA	TBA	TBA 		8 / 40	0	
 10704	002	PWS	1	105		001		DAY	Landscape Design Graphics	Jolley, Greg	2	TTh	12:00pm	1:50pm	136 WIDB 		13 / 15	0	
 00150	009	PWS	1	112		001		DAY	Floral Design	Hunter, Norah	3	TThT	09:30am12:00pm	10:50am1:50pm	W140 BNSN 230 WIDB 	PWS 112: Counts as a GE Arts course. All sections meet together for lecture. Labs are held separate.	11 / 36	0	
 00150	009	PWS	1	112		002		DAY	Floral Design	Hunter, Norah	3	TThT	09:30am2:00pm	10:50am3:50pm	W140 BNSN 230 WIDB 	PWS 112: Counts as a GE Arts course. All sections meet together for lecture. Labs are held separate.	27 / 36	0	
@@ -1665,7 +2222,15 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 09394	000	SOC	S	404		002	N	ST ABROAD	Qualitative Research Methods		3	TBA	TBA	TBA	TBA 	This class requires departmental approval.	98 / 99	0	
 09394	000	SOC	1	404		003		DAY	Qualitative Research Methods	Ward, Carol	3	TBA	TBA	TBA	TBA 		5 / 5	0	
 05179	008	SOC	1	481		001		DAY	Crime, Justice, & Corrections	Bahr, Steve	3	TTh	12:05pm	2:30pm	B032 JFSB 		57 / 60	0	
-11160	000	SOC	1	490	R	001		DAY	Special Topics in Sociology	Holland, Kimberlee	3	TTh	12:05pm	2:35pm	B030 JFSB 	SOC 490R section 001:&
+11160	000	SOC	1	490	R	001		DAY	Special Topics in Sociology	Holland, Kimberlee	3	TTh	12:05pm	2:35pm	B030 JFSB 	SOC 490R section 001: Global Social Problems	33 / 40	0	
+11161	000	SOC	1	495	R	001		DAY	Directed Reading in Sociology	Dufur, Mikaela	6V	TBA	TBA	TBA	TBA 		3 / 5	0	
+11162	000	SOC	1	497	R	002		DAY	Directed Research in Sociology	Heaton, Tim	6V	TBA	TBA	TBA	TBA 		0 / 1	0	
+11162	000	SOC	1	497	R	003		DAY	Directed Research in Sociology	Phillips, Kristie	6V	TBA	TBA	TBA	TBA 		4 / 5	0	
+11162	000	SOC	1	497	R	006		DAY	Directed Research in Sociology	Gibbs, Ben	6V	TBA	TBA	TBA	TBA 		0 / 1	0	
+05243	000	SOC	1	595	R	001		DAY	Directed Readings	Dufur, Mikaela	3V	TBA	TBA	TBA	TBA 		12 / 15	0	
+05243	000	SOC	1	595	R	002		DAY	Directed Readings	Dufur, Mikaela	3V	TBA	TBA	TBA	TBA 		2 / 2	0	
+05278	001	SOC	1	699	R	001		DAY	Masters Thesis	Dufur, Mikaela	6V	TBA	TBA	TBA	TBA 		3 / 15	0	
+06506	000	SOC	1	799	R	001		DAY	Dissertation	Dufur, Mikaela	9V	TBA	TBA	TBA	TBA 		15 / 15	0	
 05172	013	SOC W	1	200		001		DAY	Intro to Social Work	Cox, Shirley	3	MW	4:00pm	6:30pm	B132 JFSB 	SOC W 200:  Also offered by BYU Independent Study; enroll anytime throughout year; one year to complete; additional tuition required; register at is.byu.edu.	34 / 45	0	
 11057	000	SOC W	1	585		001		DAY	Global Issues - Chldrn at Risk	Roby, Jini	3	TBA	TBA	TBA	TBA 		5 / 5	0	
 11057	000	SOC W	1	585		003	N	ST ABROAD	Global Issues - Chldrn at Risk		3	TBA	TBA	TBA	TBA 		95 / 99	0	
@@ -1907,7 +2472,50 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 09480	001	TMA	1	315	R	001		DAY	Special Projects 2	Stapley, Kyle	3V	TBA	TBA	TBA	TBA 	TMA 315R section 001 is for Media Arts students.PREVIOUS APPLICATION	5 / 5	0	
 09480	001	TMA	1	315	R	002		DAY	Special Projects 2	Helfert, Rene	3V	TBA	TBA	TBA	TBA 	TMA 315R section 002 is for Theatre students.PREVIOUS APPLICATION	5 / 5	0	
 09480	001	TMA	1	315	R	003		DAY	Special Projects 2	Hollingshaus, Wade	3V	MWF	11:00am	12:50pm	2009 JKB 	TMA 315R section 005: Dramatic Lit 3	2 / 14	0	
-09480	001	TMA	1	315	R	007		DAY	Special Projects 2	Barber, Brad	3V	MTWTh	09:00am	10:50am	F411 HFAC 	TMA 315R section 007:&
+09480	001	TMA	1	315	R	007		DAY	Special Projects 2	Barber, Brad	3V	MTWTh	09:00am	10:50am	F411 HFAC 	TMA 315R section 007: Beehive Stories	3 / 5	0	
+09480	001	TMA	1	315	R	009		DAY	Special Projects 2		2V	TBA	TBA	TBA	TBA 	TMA 315R section 009: Camera Grip and Gaffing	15 / 15	0	
+09480	001	TMA	1	315	R	010		DAY	Special Projects 2	Kampenhout, Willem Wilson, Casey[+]	3V	W	10:00am	11:50am	MPS FSSS 	TMA 315R section 010: Beyond Project: Camera/grip/electric	12 / 15	0	
+09480	001	TMA	1	315	R	011		DAY	Special Projects 2	Dixon, Nick Reinhardt, Derek[+]	3V	W	10:00am	11:50am	F233 HFAC 	TMA 315R section 011: Beyond Project: Post/Visual Effects/DIT	17 / 20	0	
+09480	001	TMA	1	315	R	012		DAY	Special Projects 2		3V	W	10:00am	11:50am	A550 HFAC 	TMA 315R section 012: Beyond Project: Production Design	13 / 20	0	
+11905	000	TMA	1	316		001		DAY	TMA Instruction	Morgan, David	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+05750	006	TMA	1	336		001		DAY	Directing Principles&Practices	Moss, Shawnda	3	MTWTh	09:00am	10:50am	ARENA HFAC 	This class is for majors only.	8 / 10	0	
+09211	001	TMA	1	352		001		DAY	Drama in the Elem Classroom	Love, Teresa	2	MTWTh	1:00pm	2:50pm	B201 HFAC 	This class is for majors only.	11 / 16	0	
+09211	001	TMA	1	352		002		EVENING	Drama in the Elem Classroom	Center, Carson	2	TTh	5:00pm	8:30pm	B228 HFAC 		10 / 16	0	
+07900	004	TMA	1	360	R	001		DAY	Theatre Production 3	Reed, Jennifer	1	TBA	TBA	TBA	TBA 	TMA 360R section 001: is Scenery/Props. Students must register by emailing jennifer_reed@byu.edu and will be assigned to a show which will require evening availability for 4-6 weeks.	2 / 10	0	
+09487	001	TMA	1	369	R	001		DAY	Design & Technology Projects 1	Scanlon, Rory	4V	MTWThF	1:00pm	2:50pm	A470 HFAC 	TMA 369R section 001 is for students filling Theatre Design or Technology assignments.This class is for majors only.PREVIOUS APPLICATION	9 / 10	0	
+09488	000	TMA	1	372	R	001		DAY	Media Collaboration	Lefler, Tom	3V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	5 / 5	0	
+09488	000	TMA	1	372	R	002		DAY	Media Collaboration	Stapley, Kyle	3V	TBA	TBA	TBA	TBA 	TMA 372R section 002 is for Advanced Project Producers.PREVIOUS APPLICATION	24 / 25	0	
+11626	001	TMA	1	377	C	001		DAY	Methods Applied Theatre	Ashworth, Julia	2	TTh	12:00pm	2:50pm	B220 HFAC 	TMA 377C requires FBI fingerprint and background clearance (for more info, contact Ed Student Serv in 120 MCKB).	5 / 10	0	
+08171	004	TMA	1	388	R	001		DAY	Media Arts Crew	Lefler, Tom	3V	TBA	TBA	TBA	TBA 		12 / 15	0	
+05472	003	TMA	1	389	R	002		DAY	Producing Symposium	Russell, Courtney	3	W	10:00am	11:50am	F201 HFAC 		4 / 15	0	
+06603	004	TMA	1	391		001		DAY	Intro to Media Arts Theory	Swenson, Sharon	3	MTWTh	09:00am	10:50am	F550 HFAC 		15 / 20	0	
+06301	004	TMA	1	399	R	001		DAY	Academic Internship	Stapley, Kyle	9V	TBA	TBA	TBA	TBA 	TMA 399R: An APPROVED Internship Application is required before adding.TMA 399R section 001 is for Media Arts students.This class requires internship coordinator approval.PREVIOUS APPLICATION	2 / 5	0	
+06301	004	TMA	1	399	R	002		DAY	Academic Internship	Stapley, Kyle	9V	TBA	TBA	TBA	TBA 	TMA 399R: An APPROVED Internship Application is required before adding.TMA 399R section 002 is for Theatre students.This class requires internship coordinator approval.PREVIOUS APPLICATION	4 / 5	0	
+11946	001	TMA	1	416	R	001		DAY	Tching Assist Credit: Theatre		3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+07262	003	TMA	1	420	R	001		DAY	Performance Workshop 2	Reed, Nat	3V	MTWThF	1:00pm	4:50pm	TBA 	TMA 420R section 001: is for "The Selfish Giant".AUDITION REQUIRED	2 / 5	0	
+07262	003	TMA	1	420	R	002		DAY	Performance Workshop 2		3V	TBA	TBA	TBA	TBA 		5 / 5	0	
+07262	003	TMA	1	420	R	003		ST ABROAD	Performance Workshop 2		3	TBA	TBA	TBA	TBA 		98 / 99	0	
+09509	000	TMA	1	474	R	001		DAY	Writer/Director Workshop Nfc	Lefler, Tom	3V	F	09:00am	11:50am	F550 HFAC 		10 / 10	0	
+08167	009	TMA	1	475	R	001		DAY	Media Arts Capstone	Lefler, Tom	3V	F	09:00am	11:50am	F550 HFAC 	PREVIOUS APPLICATION	15 / 15	0	
+08167	009	TMA	1	475	R	002		DAY	Media Arts Capstone	Russell, Thomas	3V	W	1:00pm	3:50pm	NELKE HFAC 		5 / 5	0	
+08167	009	TMA	1	475	R	003		DAY	Media Arts Capstone	Barber, Brad	3V	T	1:00pm	2:50pm	F556 HFAC 		1 / 5	0	
+08167	009	TMA	1	475	R	005		DAY	Media Arts Capstone	Russell, Thomas	3V	TBA	TBA	TBA	TBA 		15 / 15	0	
+11114	000	TMA	1	485	R	001		DAY	Production Dramaturgy	Sobeck, Janine	3V	TBA	TBA	TBA	TBA 	PREVIOUS APPLICATION	2 / 2	0	
+05481	013	TMA	1	496	R	001		DAY	Academic Internship	Stapley, Kyle	9V	TBA	TBA	TBA	TBA 	TMA  496R: An APPROVED Internship Application is required before adding.TMA 496R section 001 is for Media Arts students.This class requires internship coordinator approval.PREVIOUS APPLICATION	5 / 5	0	
+05481	013	TMA	1	496	R	002		DAY	Academic Internship	Stapley, Kyle	9V	TBA	TBA	TBA	TBA 	TMA  496R: An APPROVED Internship Application is required before adding.TMA 496R section 002 is for Theatre students.This class requires internship coordinator approval.PREVIOUS APPLICATION	5 / 5	0	
+07265	003	TMA	1	515	R	001		DAY	Special Projects 3	Stapley, Kyle	6V	TBA	TBA	TBA	TBA 	TMA 515R section 001 is for Media Arts students.PREVIOUS APPLICATION	5 / 5	0	
+07265	003	TMA	1	515	R	002		DAY	Special Projects 3	Helfert, Rene	6V	TBA	TBA	TBA	TBA 	TMA 515R section 002 is for Theatre students.PREVIOUS APPLICATION	5 / 5	0	
+07265	003	TMA	1	515	R	003		DAY	Special Projects 3	Scanlon, Rory	6V	MTWThF	1:00pm	2:50pm	A470 HFAC 	PREVIOUS APPLICATION	5 / 5	0	
+07265	003	TMA	1	515	R	006		ST ABROAD	Special Projects 3		3	TBA	TBA	TBA	TBA 		98 / 99	0	
+11118	000	TMA	1	585	R	001		DAY	Production Dramaturgy	Sobeck, Janine	3V	TBA	TBA	TBA	TBA 		2 / 2	0	
+06300	004	TMA	1	599	R	001		DAY	Academic Internship	Stapley, Kyle	9V	TBA	TBA	TBA	TBA 	TMA 599R: An APPROVED Internship Application is required before adding.TMA 599R section 001 is for Media Arts Students.This class requires internship coordinator approval.PREVIOUS APPLICATION	5 / 5	0	
+06300	004	TMA	1	599	R	002		DAY	Academic Internship	Stapley, Kyle	9V	TBA	TBA	TBA	TBA 	TMA 599R: An APPROVED Internship Application is required before adding.TMA 599R section 002 is for Theatre students.This class requires internship coordinator approval.PREVIOUS APPLICATION	5 / 5	0	
+05562	007	TMA	1	668	R	002		DAY	Spcl Studies Theatre or Media	Barber, Brad	3V	MTWTh	4:00pm	6:50pm	F556 HFAC 		5 / 10	0	
+11533	000	TMA	1	688	R	001		DAY	Academic Internship	Stapley, Kyle	9V	TBA	TBA	TBA	TBA 	TMA 688R: An APPROVED Internship Application is required before adding.TMA 688R section 001 is for Graduate Students.This class requires internship coordinator approval.This class is for majors only.PREVIOUS APPLICATION	5 / 5	0	
+05589	018	TMA	1	699	R	001		DAY	Master's Thesis	Hollingshaus, Wade	9V	TBA	TBA	TBA	TBA 	This class is for majors only.	2 / 2	0	
+05589	018	TMA	1	699	R	002		DAY	Master's Thesis	Jensen, Amy	9V	TBA	TBA	TBA	TBA 	This class is for majors only.	2 / 2	0	
+05589	018	TMA	1	699	R	003		DAY	Master's Thesis	Larsen, Darl	9V	TBA	TBA	TBA	TBA 	This class is for majors only.	2 / 2	0	
+05589	018	TMA	1	699	R	008		DAY	Master's Thesis	Parkin, Jeff	9V	TBA	TBA	TBA	TBA 	This class is for majors only.	4 / 5	0	
 11938	000	VAANM	1	131		001		EVENING	Figure Drawing for Animators	Greenleaf, Jared	3	TTh	5:00pm	9:50pm	A560 HFAC 	This class is for majors only.	9 / 20	0	
 10278	002	VAANM	1	160		001		DAY	Intro to 2D Animation Skills	Loosli, Kelly	1.5	MW	09:00am	10:50am	F230 HFAC 	This class is for majors only.	10 / 15	0	
 10806	001	VAANM	1	250	R	001		DAY	Gesture Drawing	Meads, Erin	3	MTWTh	08:00am	10:50am	A560 HFAC 	This class is for majors only.	3 / 15	0	
@@ -1937,7 +2545,9 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 10554	000	VAILL	1	494	R	004		DAY	Spec Problems in Illustration	Kunz, Justin	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
 10557	000	VAILL	1	497	R	001		DAY	BFA Illustration Final Project	Kunz, Justin	3V	TBA	TBA	TBA	TBA 	This class is for majors only.	6 / 8	0	
 10561	001	VAILL	1	498	R	001		DAY	Directed Studies in Illustratn	Kunz, Justin	6V	TBA	TBA	TBA	TBA 		4 / 5	0	
-12075	000	VAPHO	1	116		001		DAY	Introduction to Photography	Adams, Paul	3	MW	09:00am	12:50pm	A460 HFAC 	VAPHO 116 section 001 is open to the campus community.&
+12075	000	VAPHO	1	116		001		DAY	Introduction to Photography	Adams, Paul	3	MW	09:00am	12:50pm	A460 HFAC 	VAPHO 116 section 001 is open to the campus community. Should you wish to add this class, please contact Paul Adams at paulfkcc@hotmail.com for an add code.This class is for majors only.	4 / 18	0	
+10555	000	VAPHO	1	494	R	001		DAY	Spec Problems in Photography	Adams, Paul	3V	TBA	TBA	TBA	TBA 	This class is for majors only.	5 / 5	0	
+10558	000	VAPHO	1	497	R	001		DAY	BFA Photography Final Project	Adams, Paul	3V	TBA	TBA	TBA	TBA 	This class is for majors only.	5 / 5	0	
 11555	001	VASTU	1	101		001		EVENING	Intro Art & Drwg for Non-Major	Sharp, Michael	3	MW	4:00pm	6:50pm	A530 HFAC 		4 / 18	0	
 11555	001	VASTU	1	101		002		EVENING	Intro Art & Drwg for Non-Major	Frioux, Jonathan	3	TTh	6:00pm	8:50pm	A530 HFAC 		3 / 18	0	
 11555	001	VASTU	1	101		003		EVENING	Intro Art & Drwg for Non-Major	Anderson, Dan	3	MW	4:00pm	6:50pm	A540 HFAC 		3 / 18	0	
@@ -1949,7 +2559,17 @@ course-id	unknown-id	course-name-short	course-credit-type	course-number	course-s
 06663	016	VASTU	1	120		001		DAY	Watercolor for Non-Majors	Colvin, Maddison	3	Th	08:00am	5:50pm	A530 HFAC 		3 / 15	0	
 00426	025	VASTU	1	330		001		EVENING	Bookbinding	Sommerfeldt, Judith	3	TTh	4:00pm	7:50pm	111 B67 	This class is for majors only.	3 / 18	0	
 07387	004	VASTU	1	394	R	001		DAY	Special Problems in Art	Christensen, Brian	3V	MTWTh	12:00pm	3:50pm	220 B66 	VASTU 394R 001: Glass Blowing	2 / 12	0	
-07387	004	VASTU	1	394	R	002		DAY	Special Problems in Art	Barton, Gary	3V	F	08:00am	5:50pm	B531 HFAC 	VASTU 394R section 002:&
+07387	004	VASTU	1	394	R	002		DAY	Special Problems in Art	Barton, Gary	3V	F	08:00am	5:50pm	B531 HFAC 	VASTU 394R section 002: Landscape	5 / 15	0	
+10086	001	VASTU	1	480	R	001		DAY	Advanced Studio	Ostraff, Joseph	3V	Th	08:00am	5:50pm	B561 HFAC 	This class is for majors only.	3 / 15	0	
+09634	001	VASTU	1	496	R	001		DAY	Academic Internship	Everett, Peter	6V	TBA	TBA	TBA	TBA 	VASTU 496R: An APPROVED Internship Application is required before adding.	3 / 5	0	
+07388	003	VASTU	1	497		001		DAY	BFA Final Project & Exit Portf	Christensen, Brian	1	TBA	TBA	TBA	TBA 	This class is for majors only.	4 / 5	0	
+07388	003	VASTU	1	497		002		DAY	BFA Final Project & Exit Portf	Ostraff, Joseph	1	TBA	TBA	TBA	TBA 	This class is for majors only.	3 / 5	0	
+07388	003	VASTU	1	497		003		DAY	BFA Final Project & Exit Portf	Barton, Gary	1	TBA	TBA	TBA	TBA 	This class is for majors only.	5 / 5	0	
+07388	003	VASTU	1	497		005		DAY	BFA Final Project & Exit Portf	Draper, Bryon	1	TBA	TBA	TBA	TBA 	This class is for majors only.	3 / 5	0	
+11514	000	VASTU	1	680	R	001		DAY	Studio Methodologies	Ostraff, Joseph	6V	Th	08:00am	5:50pm	B561 HFAC 		4 / 5	0	
+00535	005	VASTU	1	694	R	001		DAY	Special Problems	Barton, Gary	3V	TBA	TBA	TBA	TBA 		4 / 5	0	
+12104	000	VASTU	1	695	R	001		DAY	Theory-Based Directed Studies	Ostraff, Joseph	3	TBA	TBA	TBA	TBA 		2 / 5	0	
+09636	002	VASTU	1	699	R	001		DAY	Master's Thesis	Ostraff, Joseph	6V	TBA	TBA	TBA	TBA 		1 / 1	0	
 06839	013	WRTG	1	150		001		DAY	Writing & Rhetoric	Harrison, Debbie	3	MWF	08:00am	09:50am	B101 JFSB 	INCLUDES FRESHMAN MENTORING	1 / 20	0	
 06839	013	WRTG	1	150		002		DAY	Writing & Rhetoric	Dutson, Laura	3	MWF	08:00am	09:50am	1020 JKB 	INCLUDES FRESHMAN MENTORING	6 / 20	0	
 06839	013	WRTG	1	150		003		DAY	Writing & Rhetoric	Dutson, Laura	3	MWF	10:00am	11:50am	1020 JKB 	INCLUDES FRESHMAN MENTORING	2 / 20	0	

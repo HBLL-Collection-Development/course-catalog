@@ -26,7 +26,8 @@ class class_schedule {
   private function write_schedule($data) {
     $semester = $this->year.$this->semester;
     echo '<pre>';
-    $data = strip_tags($data);
+    $data = preg_replace('/&<<<<[0-9]+?;/uiUmx', '', $data); // replace weird characters that look like tags (&<<<<225; and &<<<<160; for example)
+    $data = strip_tags($data); // strip actual HTML/XML tags
     $data = preg_replace("#([0-9]{5})#uism", "\n$1", $data);
     $data = str_replace('#', "\t", $data);
     $this->write_file($semester . '_class_schedule.tsv', $data, true);

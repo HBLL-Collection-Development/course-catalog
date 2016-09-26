@@ -9,6 +9,7 @@
   */
 
 class undergrad implements course_catalog {
+  use common;
 
   public function colleges() {
     $colleges = new undergrad_colleges;
