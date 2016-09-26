@@ -17,7 +17,7 @@ class class_schedule {
   public function get_schedule($year = 2016, $semester = 1) {
     $this->year = $year;
     $this->semester = $semester;
-    $header = "course-id\tunknown-id\tcourse-name-short\tcourse-credit-type\tcourse-number\tcourse-sub-number\tsection-number\tunknown\tcourse-type\tcourse-name-long\tteacher-name\tcredit-hours\tdays-taught\thours-taught-1\thours-taught-2\tlocation-taught\tsection-notes\tseats-available\twait-list";
+    $header = "course-id\tunknown-id\tcourse-name-short\tcourse-credit-type\tcourse-number\tcourse-sub-number\tsection-number\tunknown\tcourse-type\tcourse-name-long\tteacher-name\tcredit-hours\tdays-taught\thours-taught-1\thours-taught-2\tlocation-taught\tsection-notes\tseats-available\twait-list\t";
     $this->write_file($year.$semester . '_class_schedule.tsv', $header);
     $departments = $this->get_semester_metadata();
     $this->get_sections($departments);
@@ -32,7 +32,6 @@ class class_schedule {
     $data = str_replace("\t", '', $data);
     $data = str_replace('#', "\t", $data);
     $data = str_replace('"', '', $data);
-    $data = trim($data);
     $this->write_file($semester . '_class_schedule.tsv', $data, true);
   }
 
