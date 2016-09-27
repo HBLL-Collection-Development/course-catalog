@@ -1,7 +1,6 @@
 college-stub	department-stub	program-stub	college-name-short	department-name	program-name	program-url
 management	school-of-accountancy	accounting-bs	Management	School of Accountancy	Accounting (BS)	/management/school-of-accountancy/accounting-bs
 fine-arts-and-communications	theatre-and-media-arts	acting-bfa	Fine Arts and Communications	Theatre and Media Arts	Acting (BFA)	/fine-arts-and-communications/theatre-and-media-arts/acting-bfa
-physical-and-mathematical-sciences	statistics	actuarial-science-minor	Physical and Mathematical Sciences	Statistics	Actuarial Science (Minor)	/physical-and-mathematical-sciences/statistics/actuarial-science-minor
 physical-and-mathematical-sciences	statistics	actuarial-science-bs	Physical and Mathematical Sciences	Statistics	Actuarial Science (BS)	/physical-and-mathematical-sciences/statistics/actuarial-science-bs
 fine-arts-and-communications	design	advertising-design-minor	Fine Arts and Communications	Design	Advertising Design (Minor)	/fine-arts-and-communications/design/advertising-design-minor
 management	aerospace-studies	aerospace-studies-minor	Management	Aerospace Studies	Aerospace Studies (Minor)	/management/aerospace-studies/aerospace-studies-minor
@@ -23,8 +22,8 @@ fine-arts-and-communications	art	art-bfa	Fine Arts and Communications	Art	Art (B
 fine-arts-and-communications	art	art-ba	Fine Arts and Communications	Art	Art (BA)	/fine-arts-and-communications/art/art-ba
 fine-arts-and-communications	art	art-education-minor	Fine Arts and Communications	Art	Art Education (Minor)	/fine-arts-and-communications/art/art-education-minor
 fine-arts-and-communications	art	art-education-k-12-ba	Fine Arts and Communications	Art	Art Education K-12 (BA)	/fine-arts-and-communications/art/art-education-k-12-ba
-humanities	comparative-arts-and-letters	art-history-curatorial-studies-ba	Humanities	Comparative Arts and Letters	Art History & Curatorial Studies (BA)	/humanities/comparative-arts-and-letters/art-history-curatorial-studies-ba
 humanities	comparative-arts-and-letters	art-history-curatorial-studies-minor	Humanities	Comparative Arts and Letters	Art History & Curatorial Studies (Minor)	/humanities/comparative-arts-and-letters/art-history-curatorial-studies-minor
+humanities	comparative-arts-and-letters	art-history-curatorial-studies-ba	Humanities	Comparative Arts and Letters	Art History & Curatorial Studies (BA)	/humanities/comparative-arts-and-letters/art-history-curatorial-studies-ba
 international-and-area-studies	asian-studies-program	asian-studies-minor	International and Area Studies	Asian Studies Program	Asian Studies (Minor)	/international-and-area-studies/asian-studies-program/asian-studies-minor
 international-and-area-studies	asian-studies-program	asian-studies-china-studies-ba	International and Area Studies	Asian Studies Program	Asian Studies: China Studies (BA)	/international-and-area-studies/asian-studies-program/asian-studies-china-studies-ba
 international-and-area-studies	asian-studies-program	asian-studies-japan-studies-ba	International and Area Studies	Asian Studies Program	Asian Studies: Japan Studies (BA)	/international-and-area-studies/asian-studies-program/asian-studies-japan-studies-ba
@@ -34,16 +33,17 @@ life-sciences	exercise-sciences	athletic-training-bs	Life Sciences	Exercise Scie
 fine-arts-and-communications	dance	ballroom-dance-minor	Fine Arts and Communications	Dance	Ballroom Dance (Minor)	/fine-arts-and-communications/dance/ballroom-dance-minor
 humanities	asian-and-near-eastern-languages	biblical-hebrew-minor	Humanities	Asian and Near Eastern Languages	Biblical Hebrew (Minor)	/humanities/asian-and-near-eastern-languages/biblical-hebrew-minor
 physical-and-mathematical-sciences	chemistry-and-biochemistry	biochemistry-bs	Physical and Mathematical Sciences	Chemistry and Biochemistry	Biochemistry (BS)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/biochemistry-bs
+life-sciences	biology	biodiversity-conservation-bs	Life Sciences	Biology	Biodiversity & Conservation (BS)	/life-sciences/biology/biodiversity-conservation-bs
 life-sciences	biology	bioinformatics-bs	Life Sciences	Biology	Bioinformatics (BS)	/life-sciences/biology/bioinformatics-bs
 life-sciences	biology	biological-science-education-bs	Life Sciences	Biology	Biological Science Education (BS)	/life-sciences/biology/biological-science-education-bs
 life-sciences	biology	biology-bs	Life Sciences	Biology	Biology (BS)	/life-sciences/biology/biology-bs
 life-sciences	physiology-and-developmental-biology	biophysics-bs	Life Sciences	Physiology and Developmental Biology	Biophysics (BS)	/life-sciences/physiology-and-developmental-biology/biophysics-bs
 engineering-and-technology	chemical-engineering	chemical-engineering-bs	Engineering and Technology	Chemical Engineering	Chemical Engineering (BS)	/engineering-and-technology/chemical-engineering/chemical-engineering-bs
-physical-and-mathematical-sciences	chemistry-and-biochemistry	chemistry-minor	Physical and Mathematical Sciences	Chemistry and Biochemistry	Chemistry (Minor)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/chemistry-minor
 physical-and-mathematical-sciences	chemistry-and-biochemistry	chemistry-bs	Physical and Mathematical Sciences	Chemistry and Biochemistry	Chemistry (BS)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/chemistry-bs
 physical-and-mathematical-sciences	chemistry-and-biochemistry	chemistry-ba	Physical and Mathematical Sciences	Chemistry and Biochemistry	Chemistry (BA)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/chemistry-ba
-physical-and-mathematical-sciences	chemistry-and-biochemistry	chemistry-education-minor	Physical and Mathematical Sciences	Chemistry and Biochemistry	Chemistry Education (Minor)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/chemistry-education-minor
+physical-and-mathematical-sciences	chemistry-and-biochemistry	chemistry-minor	Physical and Mathematical Sciences	Chemistry and Biochemistry	Chemistry (Minor)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/chemistry-minor
 physical-and-mathematical-sciences	chemistry-and-biochemistry	chemistry-education-bs	Physical and Mathematical Sciences	Chemistry and Biochemistry	Chemistry Education (BS)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/chemistry-education-bs
+physical-and-mathematical-sciences	chemistry-and-biochemistry	chemistry-education-minor	Physical and Mathematical Sciences	Chemistry and Biochemistry	Chemistry Education (Minor)	/physical-and-mathematical-sciences/chemistry-and-biochemistry/chemistry-education-minor
 humanities	asian-and-near-eastern-languages	chinese-minor	Humanities	Asian and Near Eastern Languages	Chinese (Minor)	/humanities/asian-and-near-eastern-languages/chinese-minor
 humanities	asian-and-near-eastern-languages	chinese-ba	Humanities	Asian and Near Eastern Languages	Chinese (BA)	/humanities/asian-and-near-eastern-languages/chinese-ba
 humanities	asian-and-near-eastern-languages	chinese-teaching-minor	Humanities	Asian and Near Eastern Languages	Chinese Teaching (Minor)	/humanities/asian-and-near-eastern-languages/chinese-teaching-minor
@@ -63,16 +63,16 @@ fine-arts-and-communications	school-of-communications	communications-news-media-
 fine-arts-and-communications	school-of-communications	communications-public-relations-ba	Fine Arts and Communications	School of Communications	Communications: Public Relations (BA)	/fine-arts-and-communications/school-of-communications/communications-public-relations-ba
 humanities	comparative-arts-and-letters	comparative-literature-ba	Humanities	Comparative Arts and Letters	Comparative Literature (BA)	/humanities/comparative-arts-and-letters/comparative-literature-ba
 engineering-and-technology	electrical-and-computer-engineering	computer-engineering-bs	Engineering and Technology	Electrical and Computer Engineering	Computer Engineering (BS)	/engineering-and-technology/electrical-and-computer-engineering/computer-engineering-bs
-physical-and-mathematical-sciences	computer-science	computer-science-bs	Physical and Mathematical Sciences	Computer Science	Computer Science (BS)	/physical-and-mathematical-sciences/computer-science/computer-science-bs
 physical-and-mathematical-sciences	computer-science	computer-science-minor	Physical and Mathematical Sciences	Computer Science	Computer Science (Minor)	/physical-and-mathematical-sciences/computer-science/computer-science-minor
+physical-and-mathematical-sciences	computer-science	computer-science-bs	Physical and Mathematical Sciences	Computer Science	Computer Science (BS)	/physical-and-mathematical-sciences/computer-science/computer-science-bs
 physical-and-mathematical-sciences	computer-science	computer-science-teaching-minor	Physical and Mathematical Sciences	Computer Science	Computer Science Teaching (Minor)	/physical-and-mathematical-sciences/computer-science/computer-science-teaching-minor
 physical-and-mathematical-sciences	computer-science	computer-science-animation-bs	Physical and Mathematical Sciences	Computer Science	Computer Science: Animation (BS)	/physical-and-mathematical-sciences/computer-science/computer-science-animation-bs
 physical-and-mathematical-sciences	computer-science	computer-science-bioinformatics-bs	Physical and Mathematical Sciences	Computer Science	Computer Science: Bioinformatics (BS)	/physical-and-mathematical-sciences/computer-science/computer-science-bioinformatics-bs
-life-sciences	biology	conservation-biology-bs	Life Sciences	Biology	Conservation Biology (BS)	/life-sciences/biology/conservation-biology-bs
 engineering-and-technology	school-of-technology	construction-and-facilities-management-construction	Engineering and Technology	School of Technology	Construction and Facilities Management: Construction Management (BS)	/engineering-and-technology/school-of-technology/construction-and-facilities-management-construction
 engineering-and-technology	school-of-technology	construction-and-facilities-management-facilities	Engineering and Technology	School of Technology	Construction and Facilities Management: Facilities Management (BS)	/engineering-and-technology/school-of-technology/construction-and-facilities-management-facilities
 fine-arts-and-communications	dance	contemporary-dance-minor	Fine Arts and Communications	Dance	Contemporary Dance (Minor)	/fine-arts-and-communications/dance/contemporary-dance-minor
 humanities	english	creative-writing-minor	Humanities	English	Creative Writing (Minor)	/humanities/english/creative-writing-minor
+fine-arts-and-communications	dance	dance-bfa	Fine Arts and Communications	Dance	Dance (BFA)	/fine-arts-and-communications/dance/dance-bfa
 fine-arts-and-communications	dance	dance-ba	Fine Arts and Communications	Dance	Dance (BA)	/fine-arts-and-communications/dance/dance-ba
 fine-arts-and-communications	dance	dance-education-k-12-ba	Fine Arts and Communications	Dance	Dance Education K-12 (BA)	/fine-arts-and-communications/dance/dance-education-k-12-ba
 fine-arts-and-communications	design	design-minor	Fine Arts and Communications	Design	Design (Minor)	/fine-arts-and-communications/design/design-minor
@@ -94,10 +94,10 @@ humanities	english	english-minor	Humanities	English	English (Minor)	/humanities/
 humanities	linguistics-and-english-language	english-language-ba	Humanities	Linguistics and English Language	English Language (BA)	/humanities/linguistics-and-english-language/english-language-ba
 humanities	english	english-teaching-ba	Humanities	English	English Teaching (BA)	/humanities/english/english-teaching-ba
 humanities	english	english-teaching-minor	Humanities	English	English Teaching (Minor)	/humanities/english/english-teaching-minor
-life-sciences	plant-and-wildlife-sciences	environmental-science-bs	Life Sciences	Plant and Wildlife Sciences	Environmental Science (BS)	/life-sciences/plant-and-wildlife-sciences/environmental-science-bs
 life-sciences	plant-and-wildlife-sciences	environmental-science-minor	Life Sciences	Plant and Wildlife Sciences	Environmental Science (Minor)	/life-sciences/plant-and-wildlife-sciences/environmental-science-minor
-international-and-area-studies	european-studies-program	european-studies-ba	International and Area Studies	European Studies Program	European Studies (BA)	/international-and-area-studies/european-studies-program/european-studies-ba
+life-sciences	plant-and-wildlife-sciences	environmental-science-bs	Life Sciences	Plant and Wildlife Sciences	Environmental Science (BS)	/life-sciences/plant-and-wildlife-sciences/environmental-science-bs
 international-and-area-studies	european-studies-program	european-studies-minor	International and Area Studies	European Studies Program	European Studies (Minor)	/international-and-area-studies/european-studies-program/european-studies-minor
+international-and-area-studies	european-studies-program	european-studies-ba	International and Area Studies	European Studies Program	European Studies (BA)	/international-and-area-studies/european-studies-program/european-studies-ba
 life-sciences	exercise-sciences	exercise-wellness-bs	Life Sciences	Exercise Sciences	Exercise & Wellness (BS)	/life-sciences/exercise-sciences/exercise-wellness-bs
 life-sciences	exercise-sciences	exercise-science-bs	Life Sciences	Exercise Sciences	Exercise Science (BS)	/life-sciences/exercise-sciences/exercise-science-bs
 family-home-and-social-sciences	school-of-family-life	family-consumer-sciences-education-bs	Family Home and Social Sciences	School of Family Life	Family & Consumer Sciences Education (BS)	/family-home-and-social-sciences/school-of-family-life/family-consumer-sciences-education-bs
@@ -119,19 +119,18 @@ continuing-education	bachelor-of-general-studies	general-studies-family-life-bgs
 continuing-education	bachelor-of-general-studies	general-studies-history-bgs	Continuing Education	Bachelor of General Studies	General Studies: History  (BGS)	/continuing-education/bachelor-of-general-studies/general-studies-history-bgs
 continuing-education	bachelor-of-general-studies	general-studies-management-bgs	Continuing Education	Bachelor of General Studies	General Studies: Management  (BGS)	/continuing-education/bachelor-of-general-studies/general-studies-management-bgs
 continuing-education	bachelor-of-general-studies	general-studies-psychology-bgs	Continuing Education	Bachelor of General Studies	General Studies: Psychology  (BGS)	/continuing-education/bachelor-of-general-studies/general-studies-psychology-bgs
-life-sciences	plant-and-wildlife-sciences	genetics-biotechnology-bs	Life Sciences	Plant and Wildlife Sciences	Genetics & Biotechnology (BS)	/life-sciences/plant-and-wildlife-sciences/genetics-biotechnology-bs
-family-home-and-social-sciences	geography	geographic-information-systems-minor	Family Home and Social Sciences	Geography	Geographic Information Systems (Minor)	/family-home-and-social-sciences/geography/geographic-information-systems-minor
+life-sciences	plant-and-wildlife-sciences	genetics-genomics-biotechnology-bs	Life Sciences	Plant and Wildlife Sciences	Genetics, Genomics & Biotechnology (BS)	/life-sciences/plant-and-wildlife-sciences/genetics-genomics-biotechnology-bs
 family-home-and-social-sciences	geography	geography-teaching-minor	Family Home and Social Sciences	Geography	Geography Teaching (Minor)	/family-home-and-social-sciences/geography/geography-teaching-minor
 family-home-and-social-sciences	geography	geography-environmental-studies-bs	Family Home and Social Sciences	Geography	Geography: Environmental Studies (BS)	/family-home-and-social-sciences/geography/geography-environmental-studies-bs
-family-home-and-social-sciences	geography	geography-geographic-information-systems-bs	Family Home and Social Sciences	Geography	Geography: Geographic Information Systems (BS)	/family-home-and-social-sciences/geography/geography-geographic-information-systems-bs
 family-home-and-social-sciences	geography	geography-geospatial-intelligence-bs	Family Home and Social Sciences	Geography	Geography: Geospatial Intelligence (BS)	/family-home-and-social-sciences/geography/geography-geospatial-intelligence-bs
+family-home-and-social-sciences	geography	geography-geospatial-science-technology-bs	Family Home and Social Sciences	Geography	Geography: Geospatial Science & Technology (BS)	/family-home-and-social-sciences/geography/geography-geospatial-science-technology-bs
 family-home-and-social-sciences	geography	geography-global-studies-bs	Family Home and Social Sciences	Geography	Geography: Global Studies (BS)	/family-home-and-social-sciences/geography/geography-global-studies-bs
 family-home-and-social-sciences	geography	geography-tourism-studies-bs	Family Home and Social Sciences	Geography	Geography: Tourism Studies (BS)	/family-home-and-social-sciences/geography/geography-tourism-studies-bs
 family-home-and-social-sciences	geography	geography-urban-regional-planning-bs	Family Home and Social Sciences	Geography	Geography: Urban & Regional Planning (BS)	/family-home-and-social-sciences/geography/geography-urban-regional-planning-bs
-physical-and-mathematical-sciences	geological-sciences	geology-bs	Physical and Mathematical Sciences	Geological Sciences	Geology (BS)	/physical-and-mathematical-sciences/geological-sciences/geology-bs
 physical-and-mathematical-sciences	geological-sciences	geology-minor	Physical and Mathematical Sciences	Geological Sciences	Geology (Minor)	/physical-and-mathematical-sciences/geological-sciences/geology-minor
+physical-and-mathematical-sciences	geological-sciences	geology-bs	Physical and Mathematical Sciences	Geological Sciences	Geology (BS)	/physical-and-mathematical-sciences/geological-sciences/geology-bs
 physical-and-mathematical-sciences	geological-sciences	geology-teaching-minor	Physical and Mathematical Sciences	Geological Sciences	Geology Teaching (Minor)	/physical-and-mathematical-sciences/geological-sciences/geology-teaching-minor
-physical-and-mathematical-sciences	geological-sciences	geology-environmental-geology-bs	Physical and Mathematical Sciences	Geological Sciences	Geology: Environmental Geology (BS)	/physical-and-mathematical-sciences/geological-sciences/geology-environmental-geology-bs
+family-home-and-social-sciences	geography	geospatial-science-technology-minor	Family Home and Social Sciences	Geography	Geospatial Science & Technology (Minor)	/family-home-and-social-sciences/geography/geospatial-science-technology-minor
 humanities	german-and-russian	german-minor	Humanities	German and Russian	German (Minor)	/humanities/german-and-russian/german-minor
 humanities	german-and-russian	german-studies-ba	Humanities	German and Russian	German Studies (BA)	/humanities/german-and-russian/german-studies-ba
 humanities	german-and-russian	german-teaching-minor	Humanities	German and Russian	German Teaching (Minor)	/humanities/german-and-russian/german-teaching-minor
@@ -146,19 +145,19 @@ family-home-and-social-sciences	history	history-minor	Family Home and Social Sci
 family-home-and-social-sciences	history	history-ba	Family Home and Social Sciences	History	History (BA)	/family-home-and-social-sciences/history/history-ba
 family-home-and-social-sciences	history	history-teaching-minor	Family Home and Social Sciences	History	History Teaching (Minor)	/family-home-and-social-sciences/history/history-teaching-minor
 family-home-and-social-sciences	history	history-teaching-ba	Family Home and Social Sciences	History	History Teaching (BA)	/family-home-and-social-sciences/history/history-teaching-ba
-humanities	comparative-arts-and-letters	humanities-minor	Humanities	Comparative Arts and Letters	Humanities (Minor)	/humanities/comparative-arts-and-letters/humanities-minor
 fine-arts-and-communications	design	illustration-bfa	Fine Arts and Communications	Design	Illustration (BFA)	/fine-arts-and-communications/design/illustration-bfa
 engineering-and-technology	school-of-technology	industrial-design-bfa	Engineering and Technology	School of Technology	Industrial Design (BFA)	/engineering-and-technology/school-of-technology/industrial-design-bfa
 management	information-systems	information-systems-bs-0	Management	Information Systems	Information Systems (BS)	/management/information-systems/information-systems-bs-0
 engineering-and-technology	school-of-technology	information-technology-minor	Engineering and Technology	School of Technology	Information Technology (Minor)	/engineering-and-technology/school-of-technology/information-technology-minor
 engineering-and-technology	school-of-technology	information-technology-bs	Engineering and Technology	School of Technology	Information Technology (BS)	/engineering-and-technology/school-of-technology/information-technology-bs
 humanities	comparative-arts-and-letters	interdisciplinary-humanities-ba	Humanities	Comparative Arts and Letters	Interdisciplinary Humanities (BA)	/humanities/comparative-arts-and-letters/interdisciplinary-humanities-ba
+humanities	comparative-arts-and-letters	interdisciplinary-humanities-minor	Humanities	Comparative Arts and Letters	Interdisciplinary Humanities (Minor)	/humanities/comparative-arts-and-letters/interdisciplinary-humanities-minor
 humanities	international-cinema-program	international-cinema-studies-minor	Humanities	International Cinema Program	International Cinema Studies (Minor)	/humanities/international-cinema-program/international-cinema-studies-minor
 international-and-area-studies	international-development-program	international-development-minor	International and Area Studies	International Development Program	International Development (Minor)	/international-and-area-studies/international-development-program/international-development-minor
 international-and-area-studies	international-relations-program	international-relations-ba	International and Area Studies	International Relations Program	International Relations (BA)	/international-and-area-studies/international-relations-program/international-relations-ba
 family-home-and-social-sciences	political-science	international-strategy-and-diplomacy-minor	Family Home and Social Sciences	Political Science	International Strategy and Diplomacy (Minor)	/family-home-and-social-sciences/political-science/international-strategy-and-diplomacy-minor
-humanities	french-and-italian	italian-ba	Humanities	French and Italian	Italian (BA)	/humanities/french-and-italian/italian-ba
 humanities	french-and-italian	italian-minor	Humanities	French and Italian	Italian (Minor)	/humanities/french-and-italian/italian-minor
+humanities	french-and-italian	italian-ba	Humanities	French and Italian	Italian (BA)	/humanities/french-and-italian/italian-ba
 humanities	french-and-italian	italian-studies-ba	Humanities	French and Italian	Italian Studies (BA)	/humanities/french-and-italian/italian-studies-ba
 humanities	asian-and-near-eastern-languages	japanese-minor	Humanities	Asian and Near Eastern Languages	Japanese (Minor)	/humanities/asian-and-near-eastern-languages/japanese-minor
 humanities	asian-and-near-eastern-languages	japanese-ba	Humanities	Asian and Near Eastern Languages	Japanese (BA)	/humanities/asian-and-near-eastern-languages/japanese-ba
@@ -167,13 +166,14 @@ humanities	asian-and-near-eastern-languages	korean-ba	Humanities	Asian and Near 
 humanities	asian-and-near-eastern-languages	korean-minor	Humanities	Asian and Near Eastern Languages	Korean (Minor)	/humanities/asian-and-near-eastern-languages/korean-minor
 life-sciences	plant-and-wildlife-sciences	landscape-management-minor	Life Sciences	Plant and Wildlife Sciences	Landscape Management (Minor)	/life-sciences/plant-and-wildlife-sciences/landscape-management-minor
 life-sciences	plant-and-wildlife-sciences	landscape-management-bs	Life Sciences	Plant and Wildlife Sciences	Landscape Management (BS)	/life-sciences/plant-and-wildlife-sciences/landscape-management-bs
-international-and-area-studies	latin-american-studies-program	latin-american-studies-ba	International and Area Studies	Latin American Studies Program	Latin American Studies (BA)	/international-and-area-studies/latin-american-studies-program/latin-american-studies-ba
 international-and-area-studies	latin-american-studies-program	latin-american-studies-minor	International and Area Studies	Latin American Studies Program	Latin American Studies (Minor)	/international-and-area-studies/latin-american-studies-program/latin-american-studies-minor
-humanities	comparative-arts-and-letters	latin-teaching-ba	Humanities	Comparative Arts and Letters	Latin Teaching (BA)	/humanities/comparative-arts-and-letters/latin-teaching-ba
+international-and-area-studies	latin-american-studies-program	latin-american-studies-ba	International and Area Studies	Latin American Studies Program	Latin American Studies (BA)	/international-and-area-studies/latin-american-studies-program/latin-american-studies-ba
 humanities	comparative-arts-and-letters	latin-teaching-minor	Humanities	Comparative Arts and Letters	Latin Teaching (Minor)	/humanities/comparative-arts-and-letters/latin-teaching-minor
+humanities	comparative-arts-and-letters	latin-teaching-ba	Humanities	Comparative Arts and Letters	Latin Teaching (BA)	/humanities/comparative-arts-and-letters/latin-teaching-ba
 family-home-and-social-sciences	political-science	legal-studies-minor	Family Home and Social Sciences	Political Science	Legal Studies (Minor)	/family-home-and-social-sciences/political-science/legal-studies-minor
 humanities	linguistics-and-english-language	linguistics-minor	Humanities	Linguistics and English Language	Linguistics (Minor)	/humanities/linguistics-and-english-language/linguistics-minor
 humanities	linguistics-and-english-language	linguistics-ba	Humanities	Linguistics and English Language	Linguistics (BA)	/humanities/linguistics-and-english-language/linguistics-ba
+humanities	digital-humanities-program	localization-minor	Humanities	Digital Humanities Program	Localization (Minor)	/humanities/digital-humanities-program/localization-minor
 humanities	philosophy	logic-minor	Humanities	Philosophy	Logic (Minor)	/humanities/philosophy/logic-minor
 management	management-programs	management-minor	Management	Management Programs	Management (Minor)	/management/management-programs/management-minor
 management	management-programs	management-entrepreneurship-bs	Management	Management Programs	Management: Entrepreneurship (BS)	/management/management-programs/management-entrepreneurship-bs
@@ -184,23 +184,23 @@ management	management-programs	management-organizational-behaviorhr-mgt-bs	Manag
 management	management-programs	management-strategy-bs	Management	Management Programs	Management: Strategy (BS)	/management/management-programs/management-strategy-bs
 engineering-and-technology	school-of-technology	manufacturing-minor	Engineering and Technology	School of Technology	Manufacturing (Minor)	/engineering-and-technology/school-of-technology/manufacturing-minor
 engineering-and-technology	school-of-technology	manufacturing-engineering-technology-bs	Engineering and Technology	School of Technology	Manufacturing Engineering Technology (BS)	/engineering-and-technology/school-of-technology/manufacturing-engineering-technology-bs
-physical-and-mathematical-sciences	mathematics	mathematics-bs	Physical and Mathematical Sciences	Mathematics	Mathematics (BS)	/physical-and-mathematical-sciences/mathematics/mathematics-bs
 physical-and-mathematical-sciences	mathematics	mathematics-minor	Physical and Mathematical Sciences	Mathematics	Mathematics (Minor)	/physical-and-mathematical-sciences/mathematics/mathematics-minor
-physical-and-mathematical-sciences	mathematics-education	mathematics-education-bs	Physical and Mathematical Sciences	Mathematics Education	Mathematics Education (BS)	/physical-and-mathematical-sciences/mathematics-education/mathematics-education-bs
+physical-and-mathematical-sciences	mathematics	mathematics-bs	Physical and Mathematical Sciences	Mathematics	Mathematics (BS)	/physical-and-mathematical-sciences/mathematics/mathematics-bs
 physical-and-mathematical-sciences	mathematics-education	mathematics-education-minor	Physical and Mathematical Sciences	Mathematics Education	Mathematics Education (Minor)	/physical-and-mathematical-sciences/mathematics-education/mathematics-education-minor
+physical-and-mathematical-sciences	mathematics-education	mathematics-education-bs	Physical and Mathematical Sciences	Mathematics Education	Mathematics Education (BS)	/physical-and-mathematical-sciences/mathematics-education/mathematics-education-bs
 physical-and-mathematical-sciences	mathematics	mathematics-applied-and-computational-mathematics-bs	Physical and Mathematical Sciences	Mathematics	Mathematics: Applied and Computational Mathematics (BS)	/physical-and-mathematical-sciences/mathematics/mathematics-applied-and-computational-mathematics-bs
 engineering-and-technology	mechanical-engineering	mechanical-engineering-bs	Engineering and Technology	Mechanical Engineering	Mechanical Engineering (BS)	/engineering-and-technology/mechanical-engineering/mechanical-engineering-bs
 fine-arts-and-communications	theatre-and-media-arts	media-arts-studies-minor	Fine Arts and Communications	Theatre and Media Arts	Media Arts Studies (Minor)	/fine-arts-and-communications/theatre-and-media-arts/media-arts-studies-minor
 fine-arts-and-communications	theatre-and-media-arts	media-arts-studies-ba	Fine Arts and Communications	Theatre and Media Arts	Media Arts Studies (BA)	/fine-arts-and-communications/theatre-and-media-arts/media-arts-studies-ba
 life-sciences	microbiology-and-molecular-biology	medical-laboratory-science-bs	Life Sciences	Microbiology and Molecular Biology	Medical Laboratory Science (BS)	/life-sciences/microbiology-and-molecular-biology/medical-laboratory-science-bs
-life-sciences	microbiology-and-molecular-biology	microbiology-minor	Life Sciences	Microbiology and Molecular Biology	Microbiology (Minor)	/life-sciences/microbiology-and-molecular-biology/microbiology-minor
 life-sciences	microbiology-and-molecular-biology	microbiology-bs	Life Sciences	Microbiology and Molecular Biology	Microbiology (BS)	/life-sciences/microbiology-and-molecular-biology/microbiology-bs
+life-sciences	microbiology-and-molecular-biology	microbiology-minor	Life Sciences	Microbiology and Molecular Biology	Microbiology (Minor)	/life-sciences/microbiology-and-molecular-biology/microbiology-minor
 international-and-area-studies	middle-eastern-studies-arabic-program	middle-east-studies-minor	International and Area Studies	Middle Eastern Studies - Arabic Program	Middle East Studies (Minor)	/international-and-area-studies/middle-eastern-studies-arabic-program/middle-east-studies-minor
 international-and-area-studies	middle-eastern-studies-arabic-program	middle-east-studies-arabic-ba	International and Area Studies	Middle Eastern Studies - Arabic Program	Middle East Studies / Arabic (BA)	/international-and-area-studies/middle-eastern-studies-arabic-program/middle-east-studies-arabic-ba
 management	military-science	military-science-minor	Management	Military Science	Military Science (Minor)	/management/military-science/military-science-minor
 humanities	asian-and-near-eastern-languages	modern-hebrew-minor	Humanities	Asian and Near Eastern Languages	Modern Hebrew (Minor)	/humanities/asian-and-near-eastern-languages/modern-hebrew-minor
-life-sciences	microbiology-and-molecular-biology	molecular-biology-minor	Life Sciences	Microbiology and Molecular Biology	Molecular Biology (Minor)	/life-sciences/microbiology-and-molecular-biology/molecular-biology-minor
 life-sciences	microbiology-and-molecular-biology	molecular-biology-bs	Life Sciences	Microbiology and Molecular Biology	Molecular Biology (BS)	/life-sciences/microbiology-and-molecular-biology/molecular-biology-bs
+life-sciences	microbiology-and-molecular-biology	molecular-biology-minor	Life Sciences	Microbiology and Molecular Biology	Molecular Biology (Minor)	/life-sciences/microbiology-and-molecular-biology/molecular-biology-minor
 fine-arts-and-communications	school-of-music	music-ba	Fine Arts and Communications	School of Music	Music (BA)	/fine-arts-and-communications/school-of-music/music-ba
 fine-arts-and-communications	school-of-music	music-minor	Fine Arts and Communications	School of Music	Music (Minor)	/fine-arts-and-communications/school-of-music/music-minor
 fine-arts-and-communications	school-of-music	music-composition-bm	Fine Arts and Communications	School of Music	Music Composition (BM)	/fine-arts-and-communications/school-of-music/music-composition-bm
@@ -223,12 +223,12 @@ nursing	nursing-program	nursing-bs	Nursing	Nursing Program	Nursing (BS)	/nursing
 life-sciences	nutrition-dietetics-and-food-science	nutrition-minor	Life Sciences	Nutrition Dietetics and Food Science	Nutrition (Minor)	/life-sciences/nutrition-dietetics-and-food-science/nutrition-minor
 life-sciences	nutrition-dietetics-and-food-science	nutritional-science-bs	Life Sciences	Nutrition Dietetics and Food Science	Nutritional Science (BS)	/life-sciences/nutrition-dietetics-and-food-science/nutritional-science-bs
 education	teacher-education	pe-teachingcoaching-minor	Education	Teacher Education	PE Teaching/Coaching (Minor)	/education/teacher-education/pe-teachingcoaching-minor
-humanities	philosophy	philosophy-ba	Humanities	Philosophy	Philosophy (BA)	/humanities/philosophy/philosophy-ba
 humanities	philosophy	philosophy-minor	Humanities	Philosophy	Philosophy (Minor)	/humanities/philosophy/philosophy-minor
+humanities	philosophy	philosophy-ba	Humanities	Philosophy	Philosophy (BA)	/humanities/philosophy/philosophy-ba
 fine-arts-and-communications	design	photography-bfa	Fine Arts and Communications	Design	Photography (BFA)	/fine-arts-and-communications/design/photography-bfa
 education	teacher-education	physical-education-tchgcoaching-k-12-bs	Education	Teacher Education	Physical Education Tchg/Coaching (K-12) (BS)	/education/teacher-education/physical-education-tchgcoaching-k-12-bs
-physical-and-mathematical-sciences	physics-and-astronomy	physics-bs	Physical and Mathematical Sciences	Physics and Astronomy	Physics (BS)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-bs
 physical-and-mathematical-sciences	physics-and-astronomy	physics-minor	Physical and Mathematical Sciences	Physics and Astronomy	Physics (Minor)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-minor
+physical-and-mathematical-sciences	physics-and-astronomy	physics-bs	Physical and Mathematical Sciences	Physics and Astronomy	Physics (BS)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-bs
 physical-and-mathematical-sciences	physics-and-astronomy	physics-teaching-bs	Physical and Mathematical Sciences	Physics and Astronomy	Physics Teaching (BS)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-teaching-bs
 physical-and-mathematical-sciences	physics-and-astronomy	physics-teaching-minor	Physical and Mathematical Sciences	Physics and Astronomy	Physics Teaching (Minor)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-teaching-minor
 physical-and-mathematical-sciences	physics-and-astronomy	physics-astronomy-bs	Physical and Mathematical Sciences	Physics and Astronomy	Physics--Astronomy (BS)	/physical-and-mathematical-sciences/physics-and-astronomy/physics-astronomy-bs
@@ -237,13 +237,12 @@ family-home-and-social-sciences	political-science	political-science-ba	Family Ho
 family-home-and-social-sciences	political-science	political-science-minor	Family Home and Social Sciences	Political Science	Political Science (Minor)	/family-home-and-social-sciences/political-science/political-science-minor
 family-home-and-social-sciences	political-science	political-science-teaching-minor	Family Home and Social Sciences	Political Science	Political Science Teaching (Minor)	/family-home-and-social-sciences/political-science/political-science-teaching-minor
 family-home-and-social-sciences	political-science	political-strategy-minor	Family Home and Social Sciences	Political Science	Political Strategy (Minor)	/family-home-and-social-sciences/political-science/political-strategy-minor
-humanities	spanish-and-portuguese	portuguese-ba	Humanities	Spanish and Portuguese	Portuguese (BA)	/humanities/spanish-and-portuguese/portuguese-ba
 humanities	spanish-and-portuguese	portuguese-minor	Humanities	Spanish and Portuguese	Portuguese (Minor)	/humanities/spanish-and-portuguese/portuguese-minor
+humanities	spanish-and-portuguese	portuguese-ba	Humanities	Spanish and Portuguese	Portuguese (BA)	/humanities/spanish-and-portuguese/portuguese-ba
 humanities	spanish-and-portuguese	portuguese-studies-secondary-major-ba	Humanities	Spanish and Portuguese	Portuguese Studies (Secondary Major) (BA)	/humanities/spanish-and-portuguese/portuguese-studies-secondary-major-ba
 humanities	spanish-and-portuguese	portuguese-teaching-minor	Humanities	Spanish and Portuguese	Portuguese Teaching (Minor)	/humanities/spanish-and-portuguese/portuguese-teaching-minor
 family-home-and-social-sciences	psychology	psychology-minor	Family Home and Social Sciences	Psychology	Psychology (Minor)	/family-home-and-social-sciences/psychology/psychology-minor
 family-home-and-social-sciences	psychology	psychology-bs	Family Home and Social Sciences	Psychology	Psychology (BS)	/family-home-and-social-sciences/psychology/psychology-bs
-family-home-and-social-sciences	psychology	psychology-teaching-minor	Family Home and Social Sciences	Psychology	Psychology Teaching (Minor)	/family-home-and-social-sciences/psychology/psychology-teaching-minor
 life-sciences	health-science	public-health-environmentaloccupational-health-bs	Life Sciences	Health Science	Public Health: Environmental/Occupational Health (BS)	/life-sciences/health-science/public-health-environmentaloccupational-health-bs
 life-sciences	health-science	public-health-epidemiology-bs	Life Sciences	Health Science	Public Health: Epidemiology (BS)	/life-sciences/health-science/public-health-epidemiology-bs
 life-sciences	health-science	public-health-health-promotion-bs	Life Sciences	Health Science	Public Health: Health Promotion (BS)	/life-sciences/health-science/public-health-health-promotion-bs
