@@ -73,6 +73,20 @@ trait common {
   }
 
   /**
+   * Parses variable credit hour strings
+   *
+   * @access protected
+   * @param string $hours Credit hours for the course
+   * @return array Array with the minimum and maximum number of credit hours available
+   **/
+  protected function get_credit_hours($hours) {
+    $hours = explode('-', $hours);
+    $min = $hours[0];
+    $max = empty($hours[1]) ? $min : $hours[1];
+    return array('min' => $min, 'max' => $max);
+  }
+
+  /**
    * Writes data to appropriate file
    *
    * @access protected
