@@ -1,94 +1,94 @@
 college-stub	department-stub	program-stub	college-name-short	department-name	program-name	program-url
-		514bf84e8fcacd2f4f233a61e66b9e96		Accountancy - Professional - MAcc	/content/accountancy-professional-macc
-		fb5ae3cad83e5573ff01869ed6732714		Accountancy - Tax - MAcc	/content/accountancy-tax-macc
-		53d791dd9eb6e74c657b47486dcb64db		Anthropology - MA	/content/anthropology-ma
-		e92d3ee394da3c95742a8ef9be7b5bba		Art Education - MA	/content/art-education-ma
-		fce03d0c4bd9d42e31ea76402c0bbae2		Art History and Curatorial Studies - MA	/content/art-history-and-curatorial-studies-ma
-		4dbf694edda9e17018d7fe49d45c1ceb		Biochemistry - MS	/content/biochemistry-ms
-		eec90f871eb0953dfdce41640a8fb642		Biochemistry - PhD	/content/biochemistry-phd
-		17df1df82304711cb51b05160d9de370		Biological Science Education - MS	/content/biological-science-education-ms
-		8d1a98d4abd0ae10b3a99bbcd16c9d5c		Biology - MS	/content/biology-ms
-		a09373b6c27c6243c85eaea3f2e05de6		Biology - PhD	/content/biology-phd
-		9461a004a0f3cab4bb33be3477edb38c		Business Administration - Executive Program - MBA	/content/business-administration-executive-program-mba
-		9884c908934cfcf6389d05acf368fd77		Business Administration - MBA	/content/business-administration-mba
-		e8fefac0361f3e27a9aea897125a949e		Chemical Engineering - MS	/content/chemical-engineering-ms
-		b6e4d346a99b766b32b9d8bf14aba7ea		Chemical Engineering - PhD	/content/chemical-engineering-phd
-		2ee8da19c6cc9f27cda7c2634bdfd77b		Chemistry - MS	/content/chemistry-ms
-		8ec876b25427ecfc9f7054cfaa962f96		Chemistry - PhD	/content/chemistry-phd
-		85a229187f4e2311f4696b6d439865c4		Civil Engineering - MS	/content/civil-engineering-ms
-		b5b62e08c0f492e39345e8246e887a83		Civil Engineering - PhD	/content/civil-engineering-phd
-		3b7dada1eb541e10ee54b8075561b441		Communication Disorders - MS	/content/communication-disorders-ms
-		e859f59d39e0993e637825f4ac27bf43		Comparative Law - LLM	/content/comparative-law-llm
-		1760b7004ca9b504eb5ff98511d985d0		Comparative Studies - MA	/content/comparative-studies-ma
-		d883d1a6d9818553af8f946e27b48e57		Computer Science - MS	/content/computer-science-ms
-		e84b4c1b4c34810a723515ae802bee8e		Computer Science - PhD	/content/computer-science-phd
-		ab4e65c2aa3df98c1dd7283b0e5c5c64		Counseling Psychology - PhD	/content/counseling-psychology-phd
-		307659e60f27798b9f66bf161c3a768a		Creative Writing - MFA	/content/creative-writing-mfa
-		1bca71da1956db19aeb13544e886a7c8		Educational Inquiry, Measurement and Evaluation - PhD	/content/educational-inquiry-measurement-and-evaluation-phd
-		287a830a44cb5a163f22dc5bbde7b0b7		Educational Leadership - EdD	/content/educational-leadership-edd
-		349c84fe0f6f8347e13d4c84c805ee10		Educational Leadership - M.Ed.	/content/educational-leadership-med
-		bf8f0a27dff35f2a137434db0be62ee7		Electrical and Computer Engineering - MS	/content/electrical-and-computer-engineering-ms
-		bffdd1c24c3b06a3b575d25cbadbeeea		Electrical and Computer Engineering - PhD	/content/electrical-and-computer-engineering-phd
-		67e3804c7dc85ef0f48d77d580eb970d		English - MA	/content/english-ma
-		579a6e193ad4fde0121a2f96f4755fcc		Environmental Science - MS	/content/environmental-science-ms
-		0e31a092ccc804fb56c9e0331cbb5991		Exercise Sciences - MS	/content/exercise-sciences-ms
-		f78f41ebbd409c71594afa730d0883d2		Exercise Sciences - PhD	/content/exercise-sciences-phd
-		f31c1acd8b7a452d84d3f54b42898c94		Food Science - MS	/content/food-science-ms
-		7e755047a6367212459a59139d4f9d32		French Studies - MA	/content/french-studies-ma
-		574cf42595c37e7eb7fdbfceb87f92b0		Genetics and Biotechnology - MS	/content/genetics-and-biotechnology-ms
-		e3924787689ee0f7f26aca7e88c7bff1		Geology - MS	/content/geology-ms
-		6e8a929fbd07e58dab9d32a6303394ea		Information Systems Management - MISM	/content/information-systems-management-mism
-		e29995bb2a7fd9534ba74627dfe1b336		Instructional Psychology and Technology - MS	/content/instructional-psychology-and-technology-ms
-		cb0f98932f6084c0ace678902ec5b499		Instructional Psychology and Technology - PhD	/content/instructional-psychology-and-technology-phd
-		6a1c3dd256da5282d56caf5cf55133f0		Joint Law Degrees - MBA/MPA/MAcc/MEd	/content/joint-law-degrees-mbampamaccmed
-		eff457d31cd3994aa94c29149047757e		Joint Mechanical Engineering - MS/MBA	/content/joint-mechanical-engineering-msmba
-		e2c643327116697c62d1f2c20b7eb0d0		Joint/Other MBA programs - JD/MBA, MBA/MS	/content/jointother-mba-programs-jdmba-mbams
-		8ecc473a7964ce2c39154c33546a4fd7		Law - JD	/content/law-jd
-		75aa7e56db7f6ee8dde3db97af90d620		Linguistics - MA	/content/linguistics-ma
-		9795154fdc9a4cd3a1e3c535e725d844		Marriage and Family Therapy - MS	/content/marriage-and-family-therapy-ms
-		7fe7ac365ca8383e45b5a172a389b571		Marriage and Family Therapy - PhD	/content/marriage-and-family-therapy-phd
-		1fbd021ed152023020c9251acf6f46d6		Marriage, Family, and Human Development - MS	/content/marriage-family-and-human-development-ms
-		b28dc95b72a9a7127c796a69e8ce7236		Marriage, Family, and Human Development - PhD	/content/marriage-family-and-human-development-phd
-		c65ca33414510544b7588710d897f680		Mass Communications - MA	/content/mass-communications-ma
-		d9b23d6f436039a4a1660053c9395a43		Mathematics - MS	/content/mathematics-ms
-		fb1c0cafde7d1e5ffef34a0718994a14		Mathematics - PhD	/content/mathematics-phd
-		60c0adb5ba60a5f7f092d0ea7fac628d		Mathematics Education - MA	/content/mathematics-education-ma
-		a72ef26aca288ddd6057d1c8a650c188		Mechanical Engineering - MS	/content/mechanical-engineering-ms
-		075ed00ca728d60dfcb934660ef7de27		Mechanical Engineering - PhD	/content/mechanical-engineering-phd
-		616b33cc78ac9c6f7e64585e996b0646		Media and Performance Studies - MA	/content/media-and-performance-studies-ma
-		753b5dbfca8f316321ee3c552f25b3fa		Microbiology and Molecular Biology - MS	/content/microbiology-and-molecular-biology-ms
-		410ba91930923cfc3c7d0f98261c78b5		Microbiology and Molecular Biology - PhD	/content/microbiology-and-molecular-biology-phd
-		407687c93a73bf4f7f4002b1b7b80500		Museum Practices - Certificate	/content/museum-practices-certificate
-		02a085af6bef93ba1c4214628aee9583		Music - MA	/content/music-ma
-		4aaefdaf946822ba5a5d78960f0e8d22		Music - MM	/content/music-mm
-		f8f8d77d757b8e73e0774b7d94102629		Neuroscience - MS	/content/neuroscience-ms
-		175fbc59b55118fba025715821eaecfd		Neuroscience - PhD	/content/neuroscience-phd
-		ab9ef4849700f520330843e30d58ae79		Nursing - MS	/content/nursing-ms
-		345090374fdffb6faff31447ad2a931b		Nutritional Science and Dietetics - MS	/content/nutritional-science-and-dietetics-ms
-		2c008d93ed843e3b3f9fab1bd9172dd4		Physics - MS	/content/physics-ms
-		4d92fc5946f1ed67a33a0a6320bef994		Physics - PhD	/content/physics-phd
-		c7550116b6570e80837efa99ed16163e		Physics and Astronomy - PhD	/content/physics-and-astronomy-phd
-		5c4bffb97a78bcb02ae5429c845fe72f		Physiology and Developmental Biology - MS	/content/physiology-and-developmental-biology-ms
-		74961a1da6f5474bb5897e3cfce41465		Physiology and Developmental Biology - PhD	/content/physiology-and-developmental-biology-phd
-		d66635737a4f54d70a162b37c324726f		Portuguese - MA	/content/portuguese-ma
-		ab20155f4921d462cf6b12a94e6b7a70		Psychology - Clinical - PhD	/content/psychology-clinical-phd
-		4007d90a74d7b4f63b1e90461f6fb898		Psychology - PhD	/content/psychology-phd
-		4e01148218e79aa150aa1182a9647b5f		Public Administration - Executive Program - MPA	/content/public-administration-executive-program-mpa
-		9e9f76ea2f605df74063840958647506		Public Administration - MPA	/content/public-administration-mpa
-		913f849f0df455b1592497782ee02660		Public Health - MPH	/content/public-health-mph
-		2fd5e453164cea54bdd4fb9985938cd6		Religious Education - MA	/content/religious-education-ma
-		753d879b7eb688e8f197649b20ef47ac		Religous Studies - Military Chaplaincy - MA	/content/religous-studies-military-chaplaincy-ma
-		3be55f07bc07baee58e0865daf04e712		School Psychology - EdS	/content/school-psychology-eds
-		6ae08e4defac9155e7712c394b448b32		Second Language Teaching (SLaT) - MA	/content/second-language-teaching-slat-ma
-		2de1a76eac367b088e1ec47db62eeae3		Social Work - MSW	/content/social-work-msw
-		2525196fa8c36cbfe8e9dfc4ae5b06a7		Sociology - MS	/content/sociology-ms
-		f041d471e8db8f532f0d05115546891b		Spanish - MA	/content/spanish-ma
-		d517480457f7b1ac0553ff2215590627		Special Education - MS	/content/special-education-ms
-		5c72e73f44c64f2a140e97f755555c3f		Statistics - MS	/content/statistics-ms
-		80837f5416a0a7b0f82b8f78e2b05834		Studio Art - MFA	/content/studio-art-mfa
-		ead52b7ff810d02cbc5b3fa3c7c82460		Teacher Education - MA	/content/teacher-education-ma
-		18f98d40bcc4ff058a370341dcbc5d02		Teaching English to Speakers of Other Languages - MA	/content/teaching-english-speakers-other-languages-ma
-		2fc94c37520492f0d6231a46bddcf75d		Technology - MS	/content/technology-ms
-		48e24784dccc61fd03b95e35bd91dbbc		Wildlife and Wildlands Conservation - MS	/content/wildlife-and-wildlands-conservation-ms
-		747444fed9dc70a335faf731ab469d08		Wildlife and Wildlands Conservation - PhD	/content/wildlife-and-wildlands-conservation-phd
-		8e8ea45ebf7d366f5ee14729919b34cb		Youth and Family Recreation - MS	/content/youth-and-family-recreation-ms
+		514bf84e8fcacd2f4f233a61e66b9e96			Accountancy - Professional - MAcc	/content/accountancy-professional-macc
+		fb5ae3cad83e5573ff01869ed6732714			Accountancy - Tax - MAcc	/content/accountancy-tax-macc
+		53d791dd9eb6e74c657b47486dcb64db			Anthropology - MA	/content/anthropology-ma
+		e92d3ee394da3c95742a8ef9be7b5bba			Art Education - MA	/content/art-education-ma
+		fce03d0c4bd9d42e31ea76402c0bbae2			Art History and Curatorial Studies - MA	/content/art-history-and-curatorial-studies-ma
+		4dbf694edda9e17018d7fe49d45c1ceb			Biochemistry - MS	/content/biochemistry-ms
+		eec90f871eb0953dfdce41640a8fb642			Biochemistry - PhD	/content/biochemistry-phd
+		17df1df82304711cb51b05160d9de370			Biological Science Education - MS	/content/biological-science-education-ms
+		8d1a98d4abd0ae10b3a99bbcd16c9d5c			Biology - MS	/content/biology-ms
+		a09373b6c27c6243c85eaea3f2e05de6			Biology - PhD	/content/biology-phd
+		9461a004a0f3cab4bb33be3477edb38c			Business Administration - Executive Program - MBA	/content/business-administration-executive-program-mba
+		9884c908934cfcf6389d05acf368fd77			Business Administration - MBA	/content/business-administration-mba
+		e8fefac0361f3e27a9aea897125a949e			Chemical Engineering - MS	/content/chemical-engineering-ms
+		b6e4d346a99b766b32b9d8bf14aba7ea			Chemical Engineering - PhD	/content/chemical-engineering-phd
+		2ee8da19c6cc9f27cda7c2634bdfd77b			Chemistry - MS	/content/chemistry-ms
+		8ec876b25427ecfc9f7054cfaa962f96			Chemistry - PhD	/content/chemistry-phd
+		85a229187f4e2311f4696b6d439865c4			Civil Engineering - MS	/content/civil-engineering-ms
+		b5b62e08c0f492e39345e8246e887a83			Civil Engineering - PhD	/content/civil-engineering-phd
+		3b7dada1eb541e10ee54b8075561b441			Communication Disorders - MS	/content/communication-disorders-ms
+		e859f59d39e0993e637825f4ac27bf43			Comparative Law - LLM	/content/comparative-law-llm
+		1760b7004ca9b504eb5ff98511d985d0			Comparative Studies - MA	/content/comparative-studies-ma
+		d883d1a6d9818553af8f946e27b48e57			Computer Science - MS	/content/computer-science-ms
+		e84b4c1b4c34810a723515ae802bee8e			Computer Science - PhD	/content/computer-science-phd
+		ab4e65c2aa3df98c1dd7283b0e5c5c64			Counseling Psychology - PhD	/content/counseling-psychology-phd
+		307659e60f27798b9f66bf161c3a768a			Creative Writing - MFA	/content/creative-writing-mfa
+		1bca71da1956db19aeb13544e886a7c8			Educational Inquiry, Measurement and Evaluation - PhD	/content/educational-inquiry-measurement-and-evaluation-phd
+		287a830a44cb5a163f22dc5bbde7b0b7			Educational Leadership - EdD	/content/educational-leadership-edd
+		349c84fe0f6f8347e13d4c84c805ee10			Educational Leadership - M.Ed.	/content/educational-leadership-med
+		bf8f0a27dff35f2a137434db0be62ee7			Electrical and Computer Engineering - MS	/content/electrical-and-computer-engineering-ms
+		bffdd1c24c3b06a3b575d25cbadbeeea			Electrical and Computer Engineering - PhD	/content/electrical-and-computer-engineering-phd
+		67e3804c7dc85ef0f48d77d580eb970d			English - MA	/content/english-ma
+		579a6e193ad4fde0121a2f96f4755fcc			Environmental Science - MS	/content/environmental-science-ms
+		0e31a092ccc804fb56c9e0331cbb5991			Exercise Sciences - MS	/content/exercise-sciences-ms
+		f78f41ebbd409c71594afa730d0883d2			Exercise Sciences - PhD	/content/exercise-sciences-phd
+		f31c1acd8b7a452d84d3f54b42898c94			Food Science - MS	/content/food-science-ms
+		7e755047a6367212459a59139d4f9d32			French Studies - MA	/content/french-studies-ma
+		574cf42595c37e7eb7fdbfceb87f92b0			Genetics and Biotechnology - MS	/content/genetics-and-biotechnology-ms
+		e3924787689ee0f7f26aca7e88c7bff1			Geology - MS	/content/geology-ms
+		6e8a929fbd07e58dab9d32a6303394ea			Information Systems Management - MISM	/content/information-systems-management-mism
+		e29995bb2a7fd9534ba74627dfe1b336			Instructional Psychology and Technology - MS	/content/instructional-psychology-and-technology-ms
+		cb0f98932f6084c0ace678902ec5b499			Instructional Psychology and Technology - PhD	/content/instructional-psychology-and-technology-phd
+		6a1c3dd256da5282d56caf5cf55133f0			Joint Law Degrees - MBA/MPA/MAcc/MEd	/content/joint-law-degrees-mbampamaccmed
+		eff457d31cd3994aa94c29149047757e			Joint Mechanical Engineering - MS/MBA	/content/joint-mechanical-engineering-msmba
+		e2c643327116697c62d1f2c20b7eb0d0			Joint/Other MBA programs - JD/MBA, MBA/MS	/content/jointother-mba-programs-jdmba-mbams
+		8ecc473a7964ce2c39154c33546a4fd7			Law - JD	/content/law-jd
+		75aa7e56db7f6ee8dde3db97af90d620			Linguistics - MA	/content/linguistics-ma
+		9795154fdc9a4cd3a1e3c535e725d844			Marriage and Family Therapy - MS	/content/marriage-and-family-therapy-ms
+		7fe7ac365ca8383e45b5a172a389b571			Marriage and Family Therapy - PhD	/content/marriage-and-family-therapy-phd
+		1fbd021ed152023020c9251acf6f46d6			Marriage, Family, and Human Development - MS	/content/marriage-family-and-human-development-ms
+		b28dc95b72a9a7127c796a69e8ce7236			Marriage, Family, and Human Development - PhD	/content/marriage-family-and-human-development-phd
+		c65ca33414510544b7588710d897f680			Mass Communications - MA	/content/mass-communications-ma
+		d9b23d6f436039a4a1660053c9395a43			Mathematics - MS	/content/mathematics-ms
+		fb1c0cafde7d1e5ffef34a0718994a14			Mathematics - PhD	/content/mathematics-phd
+		60c0adb5ba60a5f7f092d0ea7fac628d			Mathematics Education - MA	/content/mathematics-education-ma
+		a72ef26aca288ddd6057d1c8a650c188			Mechanical Engineering - MS	/content/mechanical-engineering-ms
+		075ed00ca728d60dfcb934660ef7de27			Mechanical Engineering - PhD	/content/mechanical-engineering-phd
+		616b33cc78ac9c6f7e64585e996b0646			Media and Performance Studies - MA	/content/media-and-performance-studies-ma
+		753b5dbfca8f316321ee3c552f25b3fa			Microbiology and Molecular Biology - MS	/content/microbiology-and-molecular-biology-ms
+		410ba91930923cfc3c7d0f98261c78b5			Microbiology and Molecular Biology - PhD	/content/microbiology-and-molecular-biology-phd
+		407687c93a73bf4f7f4002b1b7b80500			Museum Practices - Certificate	/content/museum-practices-certificate
+		02a085af6bef93ba1c4214628aee9583			Music - MA	/content/music-ma
+		4aaefdaf946822ba5a5d78960f0e8d22			Music - MM	/content/music-mm
+		f8f8d77d757b8e73e0774b7d94102629			Neuroscience - MS	/content/neuroscience-ms
+		175fbc59b55118fba025715821eaecfd			Neuroscience - PhD	/content/neuroscience-phd
+		ab9ef4849700f520330843e30d58ae79			Nursing - MS	/content/nursing-ms
+		345090374fdffb6faff31447ad2a931b			Nutritional Science and Dietetics - MS	/content/nutritional-science-and-dietetics-ms
+		2c008d93ed843e3b3f9fab1bd9172dd4			Physics - MS	/content/physics-ms
+		4d92fc5946f1ed67a33a0a6320bef994			Physics - PhD	/content/physics-phd
+		c7550116b6570e80837efa99ed16163e			Physics and Astronomy - PhD	/content/physics-and-astronomy-phd
+		5c4bffb97a78bcb02ae5429c845fe72f			Physiology and Developmental Biology - MS	/content/physiology-and-developmental-biology-ms
+		74961a1da6f5474bb5897e3cfce41465			Physiology and Developmental Biology - PhD	/content/physiology-and-developmental-biology-phd
+		d66635737a4f54d70a162b37c324726f			Portuguese - MA	/content/portuguese-ma
+		ab20155f4921d462cf6b12a94e6b7a70			Psychology - Clinical - PhD	/content/psychology-clinical-phd
+		4007d90a74d7b4f63b1e90461f6fb898			Psychology - PhD	/content/psychology-phd
+		4e01148218e79aa150aa1182a9647b5f			Public Administration - Executive Program - MPA	/content/public-administration-executive-program-mpa
+		9e9f76ea2f605df74063840958647506			Public Administration - MPA	/content/public-administration-mpa
+		913f849f0df455b1592497782ee02660			Public Health - MPH	/content/public-health-mph
+		2fd5e453164cea54bdd4fb9985938cd6			Religious Education - MA	/content/religious-education-ma
+		753d879b7eb688e8f197649b20ef47ac			Religous Studies - Military Chaplaincy - MA	/content/religous-studies-military-chaplaincy-ma
+		3be55f07bc07baee58e0865daf04e712			School Psychology - EdS	/content/school-psychology-eds
+		6ae08e4defac9155e7712c394b448b32			Second Language Teaching (SLaT) - MA	/content/second-language-teaching-slat-ma
+		2de1a76eac367b088e1ec47db62eeae3			Social Work - MSW	/content/social-work-msw
+		2525196fa8c36cbfe8e9dfc4ae5b06a7			Sociology - MS	/content/sociology-ms
+		f041d471e8db8f532f0d05115546891b			Spanish - MA	/content/spanish-ma
+		d517480457f7b1ac0553ff2215590627			Special Education - MS	/content/special-education-ms
+		5c72e73f44c64f2a140e97f755555c3f			Statistics - MS	/content/statistics-ms
+		80837f5416a0a7b0f82b8f78e2b05834			Studio Art - MFA	/content/studio-art-mfa
+		ead52b7ff810d02cbc5b3fa3c7c82460			Teacher Education - MA	/content/teacher-education-ma
+		18f98d40bcc4ff058a370341dcbc5d02			Teaching English to Speakers of Other Languages - MA	/content/teaching-english-speakers-other-languages-ma
+		2fc94c37520492f0d6231a46bddcf75d			Technology - MS	/content/technology-ms
+		48e24784dccc61fd03b95e35bd91dbbc			Wildlife and Wildlands Conservation - MS	/content/wildlife-and-wildlands-conservation-ms
+		747444fed9dc70a335faf731ab469d08			Wildlife and Wildlands Conservation - PhD	/content/wildlife-and-wildlands-conservation-phd
+		8e8ea45ebf7d366f5ee14729919b34cb			Youth and Family Recreation - MS	/content/youth-and-family-recreation-ms

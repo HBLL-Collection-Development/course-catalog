@@ -27,7 +27,7 @@ class grad_programs extends grad {
       $id                = $this->get_clean_data($program[1][$i]);
       $url               = $this->get_clean_data($program[2][$i]);
       $name              = $this->get_clean_data($program[3][$i]);
-      $programs_file .= "\t\t$id\t\t$name\t$url\n";
+      $programs_file .= "\t\t$id\t\t\t$name\t$url\n";
     }
     $this->write_file('grad_programs.tsv', $programs_file);
   }
