@@ -49,8 +49,8 @@ trait common {
    * @return string Cleaned data
    **/
   protected function get_clean_data($data) {
-    $search = array('CREDITS:', 'DESCRIPTION:', '&amp;', '&#039', '&#160;', "';", '&amp;#160;', '&amp;#039;', "\t");
-    $replace = array('', '', '&', "'", ' ', "'", '', "'", '');
+    $search = array('CREDITS:', 'DESCRIPTION:', '&amp;', '&#039', '&#160;', "';", '&amp;#160;', '&amp;#039;', "\t", '"');
+    $replace = array('', '', '&', "'", ' ', "'", '', "'", '', '');
     return trim(str_replace($search, $replace, $data));
   }
 
