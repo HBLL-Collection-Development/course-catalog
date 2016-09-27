@@ -30,7 +30,6 @@ class undergrad_courses extends undergrad {
       //          Undergraduate Course Catalog website
       preg_match_all("#.*?<a href=\"(.*?)\" rel=\"(.*?)\">(.*?)-(.*?)</a>#uism", $data, $course_names, PREG_PATTERN_ORDER);
       preg_match_all("#<li class=\"pager-last last\"><a href=\"/views/ajax\?cd=All&amp;page=(.*?)\">#ui", $data, $pages);
-//       preg_match_all("#<a title=\"Go to last page\" href=\"/views/ajax\?cd=All&amp;page=(.*?)\">#ui", $data, $pages);
       $page_count = $pages[1][0];
       $this->write_courses($course_names);
       $page_number++;

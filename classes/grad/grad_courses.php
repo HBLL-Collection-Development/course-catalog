@@ -37,12 +37,12 @@ class grad_courses extends grad {
         $course_prefix       = $this->get_clean_data($course_list[1][$j]);
         $course_number       = $this->get_clean_data(str_replace("</div></div></div><div class=\"field field-name-field-coursebydep-course-suffix field-type-text field-label-hidden\"><div class=\"field-items\"><div class=\"field-item even\">", ' ', $course_list[2][$j]));
         $course_letter       = $this->get_clean_data($course_list[4][$j]);
-        $course_name         = $this->get_clean_data($course_list[6][$j]);
+        $course_name         = str_replace('.', '', $this->get_clean_data($course_list[6][$j]));
         $course_credit_hours = $this->get_credit_hours($this->get_clean_data($course_list[8][$j]));
         $min_credit_hours    = $course_credit_hours['min'];
         $max_credit_hours    = $course_credit_hours['max'];
         $course_description  = $this->get_clean_data($course_list[10][$j]);
-        $courses_file       .= "\t$department_stub\t\t$department_name\t$min_credit_hours\t$max_credit_hours\t$course_description\t$course_prefix $course_number $course_letter\t$course_name\t\n";
+        $courses_file       .= "\t$department_stub\t\t$department_name\t$min_credit_hours\t$max_credit_hours\t$course_description\t$course_prefix $course_number$course_letter\t$course_name\t\n";
       }
     }
     $this->write_file('grad_courses.tsv', $courses_file);
