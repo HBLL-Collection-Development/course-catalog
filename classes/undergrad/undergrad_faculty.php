@@ -50,7 +50,7 @@ class undergrad_faculty extends undergrad {
       $stubs_count = substr_count($url, '/');
       $stubs       = ($stubs_count == 3) ? $this->get_stubs($url) : str_replace('/', "\t\t", substr($url, 1));
       if(!empty($name)) {
-        $faculty    .= ($i == $num_lines - 1) ? "$stubs\t$name\t$rank\t$department\t$url\t\t\t\t" : "$stubs\t$name\t$rank\t$department\t$url\t\t\t\t\n";
+        $faculty    .= ($i == $num_lines - 1) ? "$stubs\t$name\t$rank\t$department\t$url\t\t\t\t\n" : "$stubs\t$name\t$rank\t$department\t$url\t\t\t\t\n";
       }
     }
     $this->write_file('undergrad_faculty.tsv', $faculty, true);
